@@ -50,11 +50,11 @@ A collection of code samples in JavaScript/Node.js for the Static Web Apps using
     - [VuePress Todo App ](#vuepress-todo-app)
     - [VuePress Weather App](#vuepress-weather-app)
 
-### Angular Projects
+## Angular Projects
 
 Here you will find a list of several Angular projects that use **[Static Web Apps]()**.
 
-#### Angular Todo App
+### Angular Todo App
 
 a little descriptions about the project. 
 
@@ -62,7 +62,7 @@ Link to the project: **[HERE]()**
 
 > Stacks Used: `angular, nodejs, azure static apps`
 
-#### Angular Weather App
+### Angular Weather App
 
 a little descriptions about the project.
 
