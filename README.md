@@ -62,7 +62,7 @@ Link to the project: **[HERE]()**
 
 > Stacks Used: `angular, nodejs, azure static apps`
 
-#### Gatsby Weather App
+#### Angular Weather App
 
 a little descriptions about the project.
 
