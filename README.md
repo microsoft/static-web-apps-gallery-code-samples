@@ -70,6 +70,29 @@ Link to the project: **[HERE]()**
 
 > Stacks Used: `angular, nodejs, azure static apps`
 
+-------
+
+## Gatsby Projects
+
+Here you will find a list of several Gatsby projects that use **[Static Web Apps]()**.
+
+### Gatsby Todo App
+
+a little descriptions about the project. 
+
+Link to the project: **[HERE]()**
+
+> Stacks Used: `gatsby, nodejs, azure static apps`
+
+### Gatsby Weather App
+
+a little descriptions about the project.
+
+Link to the project: **[HERE]()**
+
+> Stacks Used: `gatsby, nodejs, azure static apps`
+
+-------
 
 # Contributing
 
