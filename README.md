@@ -8,47 +8,47 @@ A collection of code samples in JavaScript/Node.js for the Static Web Apps using
     - [Angular Todo App ](#angular-todo-app)
     - [Angular Weather App](#angular-weather-app)
 - [Gatsby Projects](#gatsby-projects)
-    - [Gatsby Todo App ](#gatsby-todo-app)
-    - [Gatsby Weather App](#gatsby-weather-app)
+    - [Gatsby Website](#gatsby-website)
+    - [Gatsby Portfolio Website](#gatsby-portfolio-website)
 - [Hexo Projects](#hexo-projects)
-    - [Hexo Todo App ](#hexo-todo-app)
-    - [Hexo Weather App](#hexo-weather-app)
+    - [Hexo Website](#hexo-website)
+    - [Hexo Portfolio Website](#hexo-portfolio-website)
 - [HTML Projects](#html-projects)
-    - [HTML Todo App ](#html-todo-app)
+    - [HTML Todo App](#html-todo-app)
     - [HTML Weather App](#html-weather-app)
 - [Hugo Projects](#hugo-projects)
-    - [Hugo Todo App ](#hugo-todo-app)
-    - [Hugo Weather App](#hugo-weather-app)
+    - [Hugo Website](#hugo-website)
+    - [Hugo Portfolio Website](#hugo-portfolio-website)
 - [Jekyll Projects](#jekyll-projects)
-    - [Jekyll Todo App ](#jekyll-todo-app)
-    - [Jekyll Weather App](#jekyll-weather-app)
+    - [Jekyll Website](#jekyll-website)
+    - [Jekyll Portfolio Website](#jekyll-portfolio-website)
 - [Metalsmith Projects](#metalsmith-projects)
-    - [Metalsmith Todo App ](#metalsmith-todo-app)
-    - [Metalsmith Weather App](#metalsmith-weather-app)
+    - [Metalsmith Website](#metalsmith-website)
+    - [Metalsmith Portfolio Website](#metalsmith-portfolio-website)
 - [Next.js Projects](#nestjs-projects)
-    - [Next.js Todo App ](#nestjs-todo-app)
+    - [Next.js Todo App](#nestjs-todo-app)
     - [Next.js Weather App](#nestjs-weather-app)
 - [Next.js Projects](#nestjs-projects)
-    - [Next.js Todo App ](#nestjs-todo-app)
+    - [Next.js Todo App](#nestjs-todo-app)
     - [Next.js Weather App](#nestjs-weather-app)
 - [Node.js Projects](#nodejs-projects)
-    - [Node.js Todo App ](#nodejs-todo-app)
+    - [Node.js Todo App](#nodejs-todo-app)
     - [Node.js Weather App](#nodejs-weather-app)
 - [Nuxt.js Projects](#nuxtjs-projects)
-    - [Nuxt.js Todo App ](#nuxtjs-todo-app)
+    - [Nuxt.js Todo App](#nuxtjs-todo-app)
     - [Nuxt.js Weather App](#nuxtjs-weather-app)
 - [React.js Projects](#reactjs-projects)
-    - [React.js Todo App ](#reactjs-todo-app)
+    - [React.js Todo App](#reactjs-todo-app)
     - [React.js Weather App](#reactjs-weather-app)
 - [Svelte Projects](#sveltejs-projects)
-    - [Svelte Todo App ](#sveltejs-todo-app)
+    - [Svelte Todo App](#sveltejs-todo-app)
     - [Svelte Weather App](#sveltejs-weather-app)
 - [Vue.js Projects](#vuejs-projects)
     - [Vue.js Todo App ](#vuejs-todo-app)
     - [Vue.js Weather App](#vuejs-weather-app)
 - [VuePress Projects](#vuepress-projects)
-    - [VuePress Todo App ](#vuepress-todo-app)
-    - [VuePress Weather App](#vuepress-weather-app)
+    - [VuePress Website](#vuepress-website)
+    - [VuePress Portfolio Website](#vuepress-portfolio-website)
 
 ## Angular Projects
 
@@ -76,7 +76,7 @@ Link to the project: **[HERE]()**
 
 Here you will find a list of several Gatsby projects that use **[Static Web Apps]()**.
 
-### Gatsby Todo App
+### Gatsby Website
 
 a little descriptions about the project. 
 
@@ -84,7 +84,7 @@ Link to the project: **[HERE]()**
 
 > Stacks Used: `gatsby, nodejs, azure static apps`
 
-### Gatsby Weather App
+### Gatsby Portfolio Website
 
 a little descriptions about the project.
 
@@ -93,6 +93,271 @@ Link to the project: **[HERE]()**
 > Stacks Used: `gatsby, nodejs, azure static apps`
 
 -------
+
+## Hexo Projects
+
+Here you will find a list of several Hexo projects that use **[Static Web Apps]()**.
+
+### Hexo Website
+
+a little descriptions about the project. 
+
+Link to the project: **[HERE]()**
+
+> Stacks Used: `hexo, nodejs, azure static apps`
+
+### Hexo Portfolio Website
+
+a little descriptions about the project.
+
+Link to the project: **[HERE]()**
+
+> Stacks Used: `hexo, nodejs, azure static apps`
+
+-------
+
+## HTML Projects
+
+Here you will find a list of several HTML projects that use **[Static Web Apps]()**.
+
+### HTML Todo App
+
+a little descriptions about the project. 
+
+Link to the project: **[HERE]()**
+
+> Stacks Used: `html, nodejs, azure static apps`
+
+### HTML Weather App
+
+a little descriptions about the project.
+
+Link to the project: **[HERE]()**
+
+> Stacks Used: `html, nodejs, azure static apps`
+
+-------
+
+## Hugo Projects
+
+Here you will find a list of several Hugo projects that use **[Static Web Apps]()**.
+
+### Hugo Website
+
+a little descriptions about the project. 
+
+Link to the project: **[HERE]()**
+
+> Stacks Used: `hugo, nodejs, azure static apps`
+
+### Hugo Portfolio Website
+
+a little descriptions about the project.
+
+Link to the project: **[HERE]()**
+
+> Stacks Used: `hugo, nodejs, azure static apps`
+
+-------
+
+## Jekyll Projects
+
+Here you will find a list of several Jekyll projects that use **[Static Web Apps]()**.
+
+### Jekyll Website
+
+a little descriptions about the project. 
+
+Link to the project: **[HERE]()**
+
+> Stacks Used: `jekyll, ruby, azure static apps`
+
+### Jekyll Portfolio Website
+
+a little descriptions about the project.
+
+Link to the project: **[HERE]()**
+
+> Stacks Used: `jekyll, ruby, azure static apps`
+
+-------
+
+## Metalsmith Projects
+
+Here you will find a list of several Metalsmith projects that use **[Static Web Apps]()**.
+
+### Metalsmith Website
+
+a little descriptions about the project. 
+
+Link to the project: **[HERE]()**
+
+> Stacks Used: `metalsmith, azure static apps`
+
+### Metalsmith Portfolio Website
+
+a little descriptions about the project.
+
+Link to the project: **[HERE]()**
+
+> Stacks Used: `metalsmith, azure static apps`
+
+-------
+
+## Next.js Projects
+
+Here you will find a list of several Next.js projects that use **[Static Web Apps]()**.
+
+### Next.js Todo App
+
+a little descriptions about the project. 
+
+Link to the project: **[HERE]()**
+
+> Stacks Used: `nextjs, azure static apps`
+
+### Next.js Weather App
+
+a little descriptions about the project.
+
+Link to the project: **[HERE]()**
+
+> Stacks Used: `nextjs, azure static apps`
+
+-------
+
+## Node.js Projects
+
+Here you will find a list of several Node.js projects that use **[Static Web Apps]()**.
+
+### Node.js Todo App
+
+a little descriptions about the project. 
+
+Link to the project: **[HERE]()**
+
+> Stacks Used: `nodejs, azure static apps`
+
+### Node.js Weather App
+
+a little descriptions about the project.
+
+Link to the project: **[HERE]()**
+
+> Stacks Used: `nodejs, azure static apps`
+
+-------
+
+## Nuxt.js Projects
+
+Here you will find a list of several Nuxt.js projects that use **[Static Web Apps]()**.
+
+### Nuxt.js Todo App
+
+a little descriptions about the project. 
+
+Link to the project: **[HERE]()**
+
+> Stacks Used: `nuxtjs, azure static apps`
+
+### Nuxt.js Weather App
+
+a little descriptions about the project.
+
+Link to the project: **[HERE]()**
+
+> Stacks Used: `nuxtjs, azure static apps`
+
+-------
+
+## React.js Projects
+
+Here you will find a list of several React.js projects that use **[Static Web Apps]()**.
+
+### React.js Todo App
+
+a little descriptions about the project. 
+
+Link to the project: **[HERE]()**
+
+> Stacks Used: `reactjs, azure static apps`
+
+### React.js Weather App
+
+a little descriptions about the project.
+
+Link to the project: **[HERE]()**
+
+> Stacks Used: `reactjs, azure static apps`
+
+-------
+
+## Svelte Projects
+
+Here you will find a list of several Svelte projects that use **[Static Web Apps]()**.
+
+### Svelte Todo App
+
+a little descriptions about the project. 
+
+Link to the project: **[HERE]()**
+
+> Stacks Used: `svelte, azure static apps`
+
+### Svelte Weather App
+
+a little descriptions about the project.
+
+Link to the project: **[HERE]()**
+
+> Stacks Used: `svelte, azure static apps`
+
+-------
+
+## Vue.js Projects
+
+Here you will find a list of several Vue.js projects that use **[Static Web Apps]()**.
+
+### Vue.js Todo App
+
+a little descriptions about the project. 
+
+Link to the project: **[HERE]()**
+
+> Stacks Used: `vuejs, azure static apps`
+
+### Vue.js Weather App
+
+a little descriptions about the project.
+
+Link to the project: **[HERE]()**
+
+> Stacks Used: `vuejs, azure static apps`
+
+-------
+
+## VuePress Projects
+
+Here you will find a list of several VuePress projects that use **[Static Web Apps]()**.
+
+### VuePress Website
+
+a little descriptions about the project. 
+
+Link to the project: **[HERE]()**
+
+> Stacks Used: `vuepress, azure static apps`
+
+### VuePress Portfolio Website
+
+a little descriptions about the project.
+
+Link to the project: **[HERE]()**
+
+> Stacks Used: `vuepress, azure static apps`
+
+-------
+
 
 # Contributing
 
