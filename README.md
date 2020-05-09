@@ -321,8 +321,8 @@ Here you will find a list of several Vue.js projects that use **[Static Web Apps
 
 Using PoseNet, a Machine-Learning library that can discern body positions, this app allows you to perfect your dance moves via your webcam. Match your dance, get a high score! Also features PlayFab and Azure Functions for the backend service.
 
-Link to the project: **[HERE](https://proud-moss-070616b1e.azurestaticapps.net/)**
-GitHub repo: **[HERE](https://github.com/jlooper/posedance)**
+* Link to the project: **[HERE](https://proud-moss-070616b1e.azurestaticapps.net/)**
+* GitHub repo: **[HERE](https://github.com/jlooper/posedance)**
 
 > Stacks Used: `vuejs, azure static apps, machine learning, nodejs, javascript, azure functions`
 
