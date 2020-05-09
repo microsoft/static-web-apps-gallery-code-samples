@@ -44,6 +44,7 @@ A collection of code samples in JavaScript/Node.js for the Static Web Apps using
     - [Svelte Todo App](#sveltejs-todo-app)
     - [Svelte Weather App](#sveltejs-weather-app)
 - [Vue.js Projects](#vuejs-projects)
+    - [Vue.js App: PoseDance, a TikTok Trainer ](#vuejs-posenet-app)
     - [Vue.js Todo App ](#vuejs-todo-app)
     - [Vue.js Weather App](#vuejs-weather-app)
 - [VuePress Projects](#vuepress-projects)
@@ -318,11 +319,18 @@ Link to the project: **[HERE]()**
 
 Here you will find a list of several Vue.js projects that use **[Static Web Apps]()**.
 
+### Vue.js App: PoseDance, a TikTok Trainer
+
+Using PoseNet, a Machine-Learning library that can discern body positions, this app allows you to perfect your dance moves via your webcam. Match your dance, get a high score! Also features PlayFab and Azure Functions for the backend service.
+
+Link to the project: **[HERE](https://proud-moss-070616b1e.azurestaticapps.net/)**
+GitHub repo: **[HERE]()**
+
 ### Vue.js Todo App
 
 a little descriptions about the project. 
 
-Link to the project: **[HERE]()**
+Link to the project: **[HERE](https://github.com/jlooper/posedance)**
 
 > Stacks Used: `vuejs, azure static apps`
 
