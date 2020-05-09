@@ -46,7 +46,7 @@ A collection of code samples in JavaScript/Node.js for the Static Web Apps using
 - [Vue.js Projects](#vuejs-projects)
     - [PoseDance, a TikTok Trainer App](#poseDance-a-tiktok-trainer-app)
 - [VuePress Projects](#vuepress-projects)
-    - [VuePress Website](#vuepress-website)
+    - [Peacock for Visual Studio Code Website](#peacock-for-visual-studio-code-website)
     - [VuePress Portfolio Website](#vuepress-portfolio-website)
 
 ## Angular Projects
@@ -332,13 +332,14 @@ Using PoseNet, a Machine-Learning library that can discern body positions, this 
 
 Here you will find a list of several VuePress projects that use **[Static Web Apps]()**.
 
-### VuePress Website
+### Peacock for Visual Studio Code Website
 
-a little descriptions about the project. 
+Subtly change the color of your Visual Studio Code workspace. Ideal when you have multiple VS Code instances, use VS Live Share, or use VS Code's Remote features, and you want to quickly identify your editor.
 
-Link to the project: **[HERE]()**
+* Link to the project: **[HERE](https://papapeacockstorage.z13.web.core.windows.net/)**
+* GitHub repo: **[HERE](https://github.com/johnpapa/vscode-peacock)**
 
-> Stacks Used: `vuepress, azure static apps`
+> Stacks Used: `vuepress, azure static apps, nodejs`
 
 ### VuePress Portfolio Website
 
