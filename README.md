@@ -340,7 +340,7 @@ Subtly change the color of your Visual Studio Code workspace. Ideal when you hav
 
 - [Peacock Documentation](https://www.peacockcode.dev)
 - [GitHub repo for Peacock Documenation](https://github.com/johnpapa/vscode-peacock)
-- [Install the Peacock extension](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.vscode-remote-extensionpack&wt.mc_id=static_web_apps_gallery_code_samples-github-jopapa)
+- [Install the Peacock extension](https://marketplace.visualstudio.com/items?itemName=johnpapa.vscode-peacock&wt.mc_id=static_web_apps_gallery_code_samples-github-jopapa)
 
 > Stacks Used: `vuepress, azure static web apps, nodejs`
 
