@@ -46,7 +46,7 @@ A collection of code samples in JavaScript/Node.js for the Static Web Apps using
 - [Vue.js Projects](#vuejs-projects)
   - [PoseDance, a TikTok Trainer App](#poseDance-a-tiktok-trainer-app)
 - [VuePress Projects](#vuepress-projects)
-  - [Peacock for Visual Studio Code Documentation](#peacock-for-visual-studio-code-documenation)
+  - [Peacock for Visual Studio Code Documentation](#peacock-for-visual-studio-code-documentation)
   - [VuePress Portfolio Website](#vuepress-portfolio-website)
 
 ## Angular Projects
