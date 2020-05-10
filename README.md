@@ -332,7 +332,7 @@ Using PoseNet, a Machine-Learning library that can discern body positions, this 
 
 Here you will find a list of several VuePress projects that use **[Static Web Apps]()**.
 
-### Peacock for Visual Studio Code Documentation Website
+### Peacock for Visual Studio Code Documentation
 
 Subtly change the color of your Visual Studio Code workspace. Ideal when you have multiple VS Code instances, use VS Live Share, or use VS Code's Remote features, and you want to quickly identify your editor.
 
