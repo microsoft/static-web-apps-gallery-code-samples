@@ -317,7 +317,9 @@ Link to the project: **[HERE]()**
 
 Here you will find a list of several Vue.js projects that use **[Static Web Apps]()**.
 
-### PoseDance, a TikTok Trainer App
+### [PoseDance, a TikTok Trainer App](https://proud-moss-070616b1e.azurestaticapps.net/)**
+
+<img src="./media/posedance.jpg" alt="PoseDance App" width="456" height="256" align="center">
 
 Using PoseNet, a Machine-Learning library that can discern body positions, this app allows you to perfect your dance moves via your webcam. Match your dance, get a high score! Also features PlayFab and Azure Functions for the backend service.
 
@@ -334,9 +336,9 @@ Here you will find a list of several VuePress projects that use **[Static Web Ap
 
 ### [Peacock for Visual Studio Code Documentation](https://www.peacockcode.dev)
 
-Subtly change the color of your Visual Studio Code workspace. Ideal when you have multiple VS Code instances, use VS Live Share, or use VS Code's Remote features, and you want to quickly identify your editor.
+<img src="./media/peacock-icon.png" alt="PoseDance App" width="256" height="256" align="center">
 
-![Peacock](./media/peacock-icon.png)
+Subtly change the color of your Visual Studio Code workspace. Ideal when you have multiple VS Code instances, use VS Live Share, or use VS Code's Remote features, and you want to quickly identify your editor.
 
 - [Peacock Documentation](https://www.peacockcode.dev)
 - [GitHub repo for Peacock Documentation](https://github.com/johnpapa/vscode-peacock)
