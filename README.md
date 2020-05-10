@@ -1,8 +1,8 @@
-# Static Web Apps Code Samples
+# Azure Static Web Apps Gallery Projects Samples
 
-A collection of code samples in JavaScript/Node.js for the Static Web Apps using different frameworks.
+A gallery of sample projects in JavaScript/Node.js and frameworks/Jamstack site generators deployed in **[Azure Static Web Apps]()**.
 
-## Contents
+## Projects 💻
 
 - [Angular Projects](#angular-projects)
   - [Angular Todo App ](#angular-todo-app)
@@ -332,15 +332,15 @@ Using PoseNet, a Machine-Learning library that can discern body positions, this 
 
 Here you will find a list of several VuePress projects that use **[Static Web Apps]()**.
 
-### Peacock for Visual Studio Code Documentation
+### [Peacock for Visual Studio Code Documentation](https://www.peacockcode.dev)
 
 Subtly change the color of your Visual Studio Code workspace. Ideal when you have multiple VS Code instances, use VS Live Share, or use VS Code's Remote features, and you want to quickly identify your editor.
 
 ![Peacock](./media/peacock-icon.png)
 
 - [Peacock Documentation](https://www.peacockcode.dev)
-- [GitHub repo for Peacock Documenation](https://github.com/johnpapa/vscode-peacock)
-- [Install the Peacock extension](https://marketplace.visualstudio.com/items?itemName=johnpapa.vscode-peacock&wt.mc_id=static_web_apps_gallery_code_samples-github-jopapa)
+- [GitHub repo for Peacock Documentation](https://github.com/johnpapa/vscode-peacock)
+- [Install the Peacock Extension](https://marketplace.visualstudio.com/items?itemName=johnpapa.vscode-peacock&wt.mc_id=swa_gallery_samples-github-jopapa)
 
 > Stacks Used: `vuepress, azure static web apps, nodejs`
 
