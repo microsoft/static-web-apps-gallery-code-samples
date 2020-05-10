@@ -1,4 +1,4 @@
-# Azure Static Web Apps Gallery Projects Samples
+# Azure Static Web Apps Gallery Sample Projects 
 
 A gallery of sample projects in JavaScript/Node.js and frameworks/Jamstack site generators deployed in **[Azure Static Web Apps]()**.
 
