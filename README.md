@@ -13,9 +13,6 @@ A gallery of sample projects in JavaScript/Node.js and frameworks/Jamstack site 
 - [Hexo Projects](#hexo-projects)
   - [Hexo Website](#hexo-website)
   - [Hexo Portfolio Website](#hexo-portfolio-website)
-- [HTML Projects](#html-projects)
-  - [HTML Todo App](#html-todo-app)
-  - [HTML Weather App](#html-weather-app)
 - [Hugo Projects](#hugo-projects)
   - [Hugo Website](#hugo-website)
   - [Hugo Portfolio Website](#hugo-portfolio-website)
@@ -43,6 +40,9 @@ A gallery of sample projects in JavaScript/Node.js and frameworks/Jamstack site 
 - [Svelte Projects](#sveltejs-projects)
   - [Svelte Todo App](#sveltejs-todo-app)
   - [Svelte Weather App](#sveltejs-weather-app)
+- [Vanilla HTML/JavaScript Projects](#html-projects)
+  - [HTML Todo App](#html-todo-app)
+  - [HTML Weather App](#html-weather-app)
 - [Vue.js Projects](#vuejs-projects)
   - [PoseDance: A TikTok Trainer App](#poseDance-a-tiktok-trainer-app)
 - [VuePress Projects](#vuepress-projects)
@@ -112,28 +112,6 @@ a little descriptions about the project.
 Link to the project: **[HERE]()**
 
 > Stacks Used: `hexo, nodejs, azure static apps`
-
----
-
-## HTML Projects
-
-Here you will find a list of several HTML projects that use **[Static Web Apps]()**.
-
-### HTML Todo App
-
-a little descriptions about the project.
-
-Link to the project: **[HERE]()**
-
-> Stacks Used: `html, nodejs, azure static apps`
-
-### HTML Weather App
-
-a little descriptions about the project.
-
-Link to the project: **[HERE]()**
-
-> Stacks Used: `html, nodejs, azure static apps`
 
 ---
 
@@ -310,6 +288,26 @@ a little descriptions about the project.
 Link to the project: **[HERE]()**
 
 > Stacks Used: `svelte, azure static apps`
+
+---
+
+## Vanilla HTML/JavaScript Projects
+
+Here you will find a list of several vanilla HTML/JavaScript projects that use **[Static Web Apps]()**.
+
+### Azure SWAG Demo: A Positive Thought For Your Day
+
+<p align="center">
+  <img src="./media/positive-quote.jpg" alt="Positive quote website screenshot" width="100%" height="auto">
+</p>
+
+This is a simple barebone demo for [Azure SWAG](https://docs.microsoft.com/azure/static-web-apps?WT.mc_id=staticwebapps-github-yolasors) (**S**tatic **W**eb **A**pps on **G**itHub).
+You can use it as a template for your own apps.
+
+- Link to the project: **[HERE](https://aka.ms/swag-demo)**
+- GitHub repo: **[HERE](https://github.com/sinedied/swag-demo/)**
+
+> Stacks Used: `html, javascript, nodejs, azure static apps`
 
 ---
 
