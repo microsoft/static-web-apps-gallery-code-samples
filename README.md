@@ -337,7 +337,7 @@ Here you will find a list of several VuePress projects that use **[Static Web Ap
 ### **[Peacock for Visual Studio Code Documentation](https://www.peacockcode.dev)**
 
 <p align="center">
-  <img src="./media/peacock-icon.png" alt="PoseDance App" width="256" height="256">
+  <img src="./media/peacock-icon.png" alt="Peacock icon" width="256" height="256">
 <p>
 
 Subtly change the color of your Visual Studio Code workspace. Ideal when you have multiple VS Code instances, use VS Live Share, or use VS Code's Remote features, and you want to quickly identify your editor.
