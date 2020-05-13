@@ -1,6 +1,6 @@
 # Azure Static Web Apps Gallery Sample Projects 
 
-A gallery of sample projects in JavaScript/Node.js and frameworks/Jamstack site generators deployed in **[Azure Static Web Apps]()**.
+A gallery of sample projects in JavaScript/Node.js and frameworks/Jamstack site generators deployed in **[Azure Static Web Apps](https://docs.microsoft.com/azure/static-web-apps?WT.mc_id=staticwebapps-github-cxa)**.
 
 ## Projects 💻
 
@@ -51,7 +51,7 @@ A gallery of sample projects in JavaScript/Node.js and frameworks/Jamstack site 
 
 ## Angular Projects
 
-Here you will find a list of several Angular projects that use **[Static Web Apps]()**.
+Here you will find a list of several Angular projects that use **[Static Web Apps](https://docs.microsoft.com/azure/static-web-apps?WT.mc_id=staticwebapps-github-cxa)**.
 
 ### Angular Todo App
 
@@ -73,7 +73,7 @@ Link to the project: **[HERE]()**
 
 ## Gatsby Projects
 
-Here you will find a list of several Gatsby projects that use **[Static Web Apps]()**.
+Here you will find a list of several Gatsby projects that use **[Static Web Apps](https://docs.microsoft.com/azure/static-web-apps?WT.mc_id=staticwebapps-github-cxa)**.
 
 ### Gatsby Website
 
@@ -95,7 +95,7 @@ Link to the project: **[HERE]()**
 
 ## Hexo Projects
 
-Here you will find a list of several Hexo projects that use **[Static Web Apps]()**.
+Here you will find a list of several Hexo projects that use **[Static Web Apps](https://docs.microsoft.com/azure/static-web-apps?WT.mc_id=staticwebapps-github-cxa)**.
 
 ### Hexo Website
 
@@ -117,7 +117,7 @@ Link to the project: **[HERE]()**
 
 ## Hugo Projects
 
-Here you will find a list of several Hugo projects that use **[Static Web Apps]()**.
+Here you will find a list of several Hugo projects that use **[Static Web Apps](https://docs.microsoft.com/azure/static-web-apps?WT.mc_id=staticwebapps-github-cxa)**.
 
 ### Hugo Website
 
@@ -139,7 +139,7 @@ Link to the project: **[HERE]()**
 
 ## Jekyll Projects
 
-Here you will find a list of several Jekyll projects that use **[Static Web Apps]()**.
+Here you will find a list of several Jekyll projects that use **[Static Web Apps](https://docs.microsoft.com/azure/static-web-apps?WT.mc_id=staticwebapps-github-cxa)**.
 
 ### Jekyll Website
 
@@ -161,7 +161,7 @@ Link to the project: **[HERE]()**
 
 ## Metalsmith Projects
 
-Here you will find a list of several Metalsmith projects that use **[Static Web Apps]()**.
+Here you will find a list of several Metalsmith projects that use **[Static Web Apps](https://docs.microsoft.com/azure/static-web-apps?WT.mc_id=staticwebapps-github-cxa)**.
 
 ### Metalsmith Website
 
@@ -183,7 +183,7 @@ Link to the project: **[HERE]()**
 
 ## Next.js Projects
 
-Here you will find a list of several Next.js projects that use **[Static Web Apps]()**.
+Here you will find a list of several Next.js projects that use **[Static Web Apps](https://docs.microsoft.com/azure/static-web-apps?WT.mc_id=staticwebapps-github-cxa)**.
 
 ### Next.js Todo App
 
@@ -205,7 +205,7 @@ Link to the project: **[HERE]()**
 
 ## Node.js Projects
 
-Here you will find a list of several Node.js projects that use **[Static Web Apps]()**.
+Here you will find a list of several Node.js projects that use **[Static Web Apps](https://docs.microsoft.com/azure/static-web-apps?WT.mc_id=staticwebapps-github-cxa)**.
 
 ### Node.js Todo App
 
@@ -227,7 +227,7 @@ Link to the project: **[HERE]()**
 
 ## Nuxt.js Projects
 
-Here you will find a list of several Nuxt.js projects that use **[Static Web Apps]()**.
+Here you will find a list of several Nuxt.js projects that use **[Static Web Apps](https://docs.microsoft.com/azure/static-web-apps?WT.mc_id=staticwebapps-github-cxa)**.
 
 ### Nuxt.js Todo App
 
@@ -249,7 +249,7 @@ Link to the project: **[HERE]()**
 
 ## React.js Projects
 
-Here you will find a list of several React.js projects that use **[Static Web Apps]()**.
+Here you will find a list of several React.js projects that use **[Static Web Apps](https://docs.microsoft.com/azure/static-web-apps?WT.mc_id=staticwebapps-github-cxa)**.
 
 ### React.js Todo App
 
@@ -271,7 +271,7 @@ Link to the project: **[HERE]()**
 
 ## Svelte Projects
 
-Here you will find a list of several Svelte projects that use **[Static Web Apps]()**.
+Here you will find a list of several Svelte projects that use **[Static Web Apps](https://docs.microsoft.com/azure/static-web-apps?WT.mc_id=staticwebapps-github-cxa)**.
 
 ### Svelte Todo App
 
@@ -293,7 +293,7 @@ Link to the project: **[HERE]()**
 
 ## Vanilla HTML/JavaScript Projects
 
-Here you will find a list of several vanilla HTML/JavaScript projects that use **[Static Web Apps]()**.
+Here you will find a list of several vanilla HTML/JavaScript projects that use **[Static Web Apps](https://docs.microsoft.com/azure/static-web-apps?WT.mc_id=staticwebapps-github-cxa)**.
 
 ### Azure SWAG Demo: A Positive Thought For Your Day
 
@@ -313,7 +313,7 @@ You can use it as a template for your own apps.
 
 ## Vue.js Projects
 
-Here you will find a list of several Vue.js projects that use **[Static Web Apps]()**.
+Here you will find a list of several Vue.js projects that use **[Static Web Apps](https://docs.microsoft.com/azure/static-web-apps?WT.mc_id=staticwebapps-github-cxa)**.
 
 ### **[PoseDance: A TikTok Trainer App](https://proud-moss-070616b1e.azurestaticapps.net/)**
 
@@ -332,7 +332,7 @@ Using PoseDance, a Machine-Learning library that can discern body positions, thi
 
 ## VuePress Projects
 
-Here you will find a list of several VuePress projects that use **[Static Web Apps]()**.
+Here you will find a list of several VuePress projects that use **[Static Web Apps](https://docs.microsoft.com/azure/static-web-apps?WT.mc_id=staticwebapps-github-cxa)**.
 
 ### **[Peacock for Visual Studio Code Documentation](https://www.peacockcode.dev)**
 
