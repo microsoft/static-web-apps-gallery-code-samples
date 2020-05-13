@@ -305,7 +305,7 @@ This is a simple barebone demo for [Azure SWAG](https://docs.microsoft.com/azure
 You can use it as a template for your own apps.
 
 - Link to the project: **[HERE](https://aka.ms/swag-demo)**
-- GitHub repo: **[HERE](https://github.com/sinedied/swag-demo/)**
+- GitHub repo: **[HERE](https://github.com/sinedied/azure-swag/)**
 
 > Stacks Used: `html, javascript, nodejs, azure static apps`
 
