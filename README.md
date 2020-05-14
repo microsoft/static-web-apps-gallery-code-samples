@@ -5,8 +5,7 @@ A gallery of sample projects in JavaScript/Node.js and frameworks/Jamstack site 
 ## Projects 💻
 
 - [Angular Projects](#angular-projects)
-  - [Angular Todo App ](#angular-todo-app)
-  - [Angular Weather App](#angular-weather-app)
+  - [Catsify: A cat names generator](#catsify-a-cat-names-generator)
 - [Gatsby Projects](#gatsby-projects)
   - [Gatsby Website](#gatsby-website)
   - [Gatsby Portfolio Website](#gatsby-portfolio-website)
@@ -53,7 +52,7 @@ A gallery of sample projects in JavaScript/Node.js and frameworks/Jamstack site 
 
 Here you will find a list of several Angular projects that use **[Static Web Apps](https://docs.microsoft.com/azure/static-web-apps?WT.mc_id=staticwebapps-github-cxa)**.
 
-### **[Catsify: A cat names generator](https://lively-ground-0f97a8a1e.azurestaticapps.net/)**
+### **[Catsify: A cat names generator](https://www.catsify.app/)**
 
 <p align="center">
   <img src="./media/catsify.png" alt="Catsify App" width="100%">
@@ -61,19 +60,10 @@ Here you will find a list of several Angular projects that use **[Static Web App
 
 Catsify is a simple and creative app that allows you to find a unique name for your lovely cat. What's interesting about this app is that the names generator is all written in Rust and compiled to WASM; and the API is exposed through a Node.js Azure Function.
 
-- Link to the project: **[HERE](https://lively-ground-0f97a8a1e.azurestaticapps.net/)**
+- Link to the project: **[HERE](https://www.catsify.app/)**
 - GitHub repo: **[HERE](https://github.com/manekinekko/catsify)**
 
 > Stacks Used: `angular, typescript, azure static web apps, rust, web assembly, nodejs, azure functions`
-
-
-### C
-
-a little descriptions about the project.
-
-Link to the project: **[HERE]()**
-
-> Stacks Used: `angular, nodejs, azure static apps`
 
 ---
 
