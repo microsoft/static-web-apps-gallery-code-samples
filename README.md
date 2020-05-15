@@ -41,6 +41,8 @@ A gallery of sample projects in JavaScript/Node.js and frameworks/Jamstack site 
   - [Svelte Todo App](#sveltejs-todo-app)
   - [Svelte Weather App](#sveltejs-weather-app)
 - [Vanilla HTML/JavaScript Projects](#html-projects)
+  - [Azure SWAG Demo: A Positive Thought For Your Day](#azure-swag-demo-a-positive-thought-for-your-day)
+  - [Hexa CLI Landing Page](#hexa-cli-landing-page)
   - [Nitrooo landing page](#nitrooo-landing-page)
 - [Vue.js Projects](#vuejs-projects)
   - [PoseDance: A TikTok Trainer App](#poseDance-a-tiktok-trainer-app)
@@ -326,6 +328,21 @@ Nitro is a heavily opinionated template for building Serverless applications wit
 
 > Stacks Used: `javascript, css, html`
 
+
+---
+
+### [Hexa CLI Landing Page](https://www.hexa.run)
+
+<p align="center">
+  <img src="./media/hexa.png" alt="The ultimate companion for the Azure CLI screenshot" width="100%">
+</p>
+
+Hexa is the ultimate companion for the Azure CLI. It allows you to seamlessly configure, setup and deploy to different Azure services such as Resource Groups, Storage accounts, Hosting, Azure Functions and Databases (CosmosDB and Table Storage) and more.
+
+- Link to the project: **[HERE](https://www.hexa.run)**
+- GitHub repo: **[HERE](https://github.com/manekinekko/hexa/)**
+
+> Stacks Used: `html, javascript`
 
 ---
 
