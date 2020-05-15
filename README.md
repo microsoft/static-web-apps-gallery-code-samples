@@ -1,6 +1,6 @@
-# Azure Static Web Apps Gallery Sample Projects 
+# Azure Static Web Apps Gallery Sample Projects
 
-A gallery of sample projects in JavaScript/Node.js and frameworks/Jamstack site generators deployed in **[Azure Static Web Apps](https://docs.microsoft.com/azure/static-web-apps?WT.mc_id=staticwebapps-github-cxa)**.
+A gallery of sample projects in JavaScript/Node.js and frameworks/Jamstack site generators deployed in **[Azure Static Web Apps](https://docs.microsoft.com/azure/static-web-apps/?WT.mc_id=staticwebapps-github-cxa)**.
 
 ## Projects 💻
 
@@ -11,50 +11,38 @@ A gallery of sample projects in JavaScript/Node.js and frameworks/Jamstack site 
   - [ngxtools: Angular Package Registry](#ngxtools-angular-package-registry)
 - [Gatsby Projects](#gatsby-projects)
   - [Gatsby Website](#gatsby-website)
-  - [Gatsby Portfolio Website](#gatsby-portfolio-website)
 - [Hexo Projects](#hexo-projects)
   - [Hexo Website](#hexo-website)
-  - [Hexo Portfolio Website](#hexo-portfolio-website)
 - [Hugo Projects](#hugo-projects)
   - [Hugo Website](#hugo-website)
-  - [Hugo Portfolio Website](#hugo-portfolio-website)
 - [Jekyll Projects](#jekyll-projects)
   - [Jekyll Website](#jekyll-website)
-  - [Jekyll Portfolio Website](#jekyll-portfolio-website)
 - [Metalsmith Projects](#metalsmith-projects)
   - [Metalsmith Website](#metalsmith-website)
-  - [Metalsmith Portfolio Website](#metalsmith-portfolio-website)
-- [Next.js Projects](#nestjs-projects)
-  - [Next.js Todo App](#nestjs-todo-app)
-  - [Next.js Weather App](#nestjs-weather-app)
-- [Next.js Projects](#nestjs-projects)
-  - [Next.js Todo App](#nestjs-todo-app)
-  - [Next.js Weather App](#nestjs-weather-app)
+- [Next.js Projects](#nextjs-projects)
+  - [Next.js Todo App](#nextjs-todo-app)
 - [Node.js Projects](#nodejs-projects)
   - [Node.js Todo App](#nodejs-todo-app)
-  - [Node.js Weather App](#nodejs-weather-app)
 - [Nuxt.js Projects](#nuxtjs-projects)
   - [Nuxt.js Todo App](#nuxtjs-todo-app)
-  - [Nuxt.js Weather App](#nuxtjs-weather-app)
 - [React.js Projects](#reactjs-projects)
-  - [React.js Todo App](#reactjs-todo-app)
-  - [React.js Weather App](#reactjs-weather-app)
+  - [Sunrise Standup](#sunrise-standup)
 - [Svelte Projects](#sveltejs-projects)
   - [Svelte Todo App](#sveltejs-todo-app)
-  - [Svelte Weather App](#sveltejs-weather-app)
 - [Vanilla HTML/JavaScript Projects](#html-projects)
   - [Azure SWAG Demo: A Positive Thought For Your Day](#azure-swag-demo-a-positive-thought-for-your-day)
   - [Hexa CLI Landing Page](#hexa-cli-landing-page)
   - [Nitrooo landing page](#nitrooo-landing-page)
 - [Vue.js Projects](#vuejs-projects)
   - [PoseDance: A TikTok Trainer App](#poseDance-a-tiktok-trainer-app)
+  - [VS Code Can Do That](#vs-code-can-do-that)
 - [VuePress Projects](#vuepress-projects)
   - [Peacock for Visual Studio Code Documentation](#peacock-for-visual-studio-code-documentation)
   - [VuePress Portfolio Website](#vuepress-portfolio-website)
 
 ## Angular Projects
 
-Here you will find a list of several Angular projects that use **[Static Web Apps](https://docs.microsoft.com/azure/static-web-apps?WT.mc_id=staticwebapps-github-cxa)**.
+Here you will find a list of several Angular projects that use **[Static Web Apps](https://docs.microsoft.com/azure/static-web-apps/?WT.mc_id=staticwebapps-github-cxa)**.
 
 ### **[Catsify: A cat names generator](https://www.catsify.app/)**
 
@@ -83,8 +71,6 @@ xLayers is an online Web application which aims to bridge the gap between design
 - GitHub repo: **[HERE](https://github.com/xlayers/xlayers)**
 
 > Stacks Used: `angular, typescript, azure static web apps`
-
-=======
 
 ### **[Angular AppStore](https://www.searchapp.store/)**
 
@@ -116,17 +102,7 @@ NgxTools is an NPM registry clone made only for Angular packages. You can access
 
 ## Gatsby Projects
 
-Here you will find a list of several Gatsby projects that use **[Static Web Apps](https://docs.microsoft.com/azure/static-web-apps?WT.mc_id=staticwebapps-github-cxa)**.
-
 ### Gatsby Website
-
-a little descriptions about the project.
-
-Link to the project: **[HERE]()**
-
-> Stacks Used: `gatsby, nodejs, azure static web apps`
-
-### Gatsby Portfolio Website
 
 a little descriptions about the project.
 
@@ -138,17 +114,7 @@ Link to the project: **[HERE]()**
 
 ## Hexo Projects
 
-Here you will find a list of several Hexo projects that use **[Static Web Apps](https://docs.microsoft.com/azure/static-web-apps?WT.mc_id=staticwebapps-github-cxa)**.
-
 ### Hexo Website
-
-a little descriptions about the project.
-
-Link to the project: **[HERE]()**
-
-> Stacks Used: `hexo, nodejs, azure static web apps`
-
-### Hexo Portfolio Website
 
 a little descriptions about the project.
 
@@ -160,17 +126,7 @@ Link to the project: **[HERE]()**
 
 ## Hugo Projects
 
-Here you will find a list of several Hugo projects that use **[Static Web Apps](https://docs.microsoft.com/azure/static-web-apps?WT.mc_id=staticwebapps-github-cxa)**.
-
 ### Hugo Website
-
-a little descriptions about the project.
-
-Link to the project: **[HERE]()**
-
-> Stacks Used: `hugo, nodejs, azure static web apps`
-
-### Hugo Portfolio Website
 
 a little descriptions about the project.
 
@@ -182,17 +138,7 @@ Link to the project: **[HERE]()**
 
 ## Jekyll Projects
 
-Here you will find a list of several Jekyll projects that use **[Static Web Apps](https://docs.microsoft.com/azure/static-web-apps?WT.mc_id=staticwebapps-github-cxa)**.
-
 ### Jekyll Website
-
-a little descriptions about the project.
-
-Link to the project: **[HERE]()**
-
-> Stacks Used: `jekyll, ruby, azure static web apps`
-
-### Jekyll Portfolio Website
 
 a little descriptions about the project.
 
@@ -204,17 +150,7 @@ Link to the project: **[HERE]()**
 
 ## Metalsmith Projects
 
-Here you will find a list of several Metalsmith projects that use **[Static Web Apps](https://docs.microsoft.com/azure/static-web-apps?WT.mc_id=staticwebapps-github-cxa)**.
-
 ### Metalsmith Website
-
-a little descriptions about the project.
-
-Link to the project: **[HERE]()**
-
-> Stacks Used: `metalsmith, azure static web apps`
-
-### Metalsmith Portfolio Website
 
 a little descriptions about the project.
 
@@ -226,17 +162,7 @@ Link to the project: **[HERE]()**
 
 ## Next.js Projects
 
-Here you will find a list of several Next.js projects that use **[Static Web Apps](https://docs.microsoft.com/azure/static-web-apps?WT.mc_id=staticwebapps-github-cxa)**.
-
 ### Next.js Todo App
-
-a little descriptions about the project.
-
-Link to the project: **[HERE]()**
-
-> Stacks Used: `nextjs, azure static web apps`
-
-### Next.js Weather App
 
 a little descriptions about the project.
 
@@ -248,17 +174,7 @@ Link to the project: **[HERE]()**
 
 ## Node.js Projects
 
-Here you will find a list of several Node.js projects that use **[Static Web Apps](https://docs.microsoft.com/azure/static-web-apps?WT.mc_id=staticwebapps-github-cxa)**.
-
 ### Node.js Todo App
-
-a little descriptions about the project.
-
-Link to the project: **[HERE]()**
-
-> Stacks Used: `nodejs, azure static web apps`
-
-### Node.js Weather App
 
 a little descriptions about the project.
 
@@ -270,17 +186,7 @@ Link to the project: **[HERE]()**
 
 ## Nuxt.js Projects
 
-Here you will find a list of several Nuxt.js projects that use **[Static Web Apps](https://docs.microsoft.com/azure/static-web-apps?WT.mc_id=staticwebapps-github-cxa)**.
-
 ### Nuxt.js Todo App
-
-a little descriptions about the project.
-
-Link to the project: **[HERE]()**
-
-> Stacks Used: `nuxtjs, azure static web apps`
-
-### Nuxt.js Weather App
 
 a little descriptions about the project.
 
@@ -292,14 +198,13 @@ Link to the project: **[HERE]()**
 
 ## React.js Projects
 
-### [Sunrise Standup](https://www.sunrisestandup.com)
+### **[Sunrise Standup](https://www.sunrisestandup.com)**
 
 ![preview image for sunrise standup](media/sunrise-standup.png)
 
 A social platform for teams to post 15 second status update videos. Videos are uploaded and streamed from Azure Storage, videos are transcribed using Cognitive Services and user locations are shown with Azure Maps.
 
 > Stacks Used: `reactjs, azure static web apps, azure storage, azure cognitive services, azure maps`
-
 
 - Link to the project: **[HERE](https://www.sunrisestandup.com)**
 - GitHub repo: **[HERE](https://github.com/sunrise-standup/sunrise-standup)**
@@ -308,17 +213,7 @@ A social platform for teams to post 15 second status update videos. Videos are u
 
 ## Svelte Projects
 
-Here you will find a list of several Svelte projects that use **[Static Web Apps](https://docs.microsoft.com/azure/static-web-apps?WT.mc_id=staticwebapps-github-cxa)**.
-
 ### Svelte Todo App
-
-a little descriptions about the project.
-
-Link to the project: **[HERE]()**
-
-> Stacks Used: `svelte, azure static web apps`
-
-### Svelte Weather App
 
 a little descriptions about the project.
 
@@ -330,12 +225,10 @@ Link to the project: **[HERE]()**
 
 ## Vanilla HTML/JavaScript Projects
 
-Here you will find a list of several vanilla HTML/JavaScript projects that use **[Static Web Apps](https://docs.microsoft.com/azure/static-web-apps?WT.mc_id=staticwebapps-github-cxa)**.
-
-### Azure SWAG Demo: A Positive Thought For Your Day
+### **[Azure SWAG Demo: A Positive Thought For Your Day](https://ashy-mushroom-05748f31e.azurestaticapps.net/)**
 
 <p align="center">
-  <img src="./media/positive-quote.jpg" alt="Positive quote website screenshot" width="100%" height="auto">
+  <img src="./media/positive-quote.png" alt="Positive quote website screenshot" width="100%">
 </p>
 
 This is a simple barebone demo for [Azure SWAG](https://docs.microsoft.com/azure/static-web-apps?WT.mc_id=staticwebapps-github-yolasors) (**S**tatic **W**eb **A**pps on **G**itHub).
@@ -359,10 +252,9 @@ Nitro is a heavily opinionated template for building Serverless applications wit
 
 > Stacks Used: `javascript, css, html`
 
-
 ---
 
-### [Hexa CLI Landing Page](https://www.hexa.run)
+### **[Hexa CLI Landing Page](https://www.hexa.run)**
 
 <p align="center">
   <img src="./media/hexa.png" alt="The ultimate companion for the Azure CLI screenshot" width="100%">
@@ -379,12 +271,10 @@ Hexa is the ultimate companion for the Azure CLI. It allows you to seamlessly co
 
 ## Vue.js Projects
 
-Here you will find a list of several Vue.js projects that use **[Static Web Apps](https://docs.microsoft.com/azure/static-web-apps?WT.mc_id=staticwebapps-github-cxa)**.
-
 ### **[PoseDance: A TikTok Trainer App](https://proud-moss-070616b1e.azurestaticapps.net/)**
 
 <p align="center">
-  <img src="./media/posedance.jpg" alt="PoseDance App" width="456" height="256">
+  <img src="./media/posedance.png" alt="PoseDance App" width="100%">
 </p>
 
 Using PoseDance, a Machine-Learning library that can discern body positions, this app allows you to perfect your dance moves via your webcam. Match your dance, get a high score! Also features PlayFab and Azure Functions for the backend service.
@@ -394,9 +284,11 @@ Using PoseDance, a Machine-Learning library that can discern body positions, thi
 
 > Stacks Used: `vuejs, azure static web apps, machine learning, nodejs, javascript, azure functions`
 
-### **[VS Code Can Do That](https://www.vscodecandothat.com)
+### **[VS Code Can Do That](https://www.vscodecandothat.com)**
 
-![preview image for vscodecandothat.com](media/vscodecandothat.png)
+<p align="center">
+  <img src="./media/vscodecandothat.png" alt="Vs Code Can Do That" width="100%">
+</p>
 
 All the best things about VS Code that nobody ever bothered to show you.
 
@@ -408,8 +300,6 @@ All the best things about VS Code that nobody ever bothered to show you.
 ---
 
 ## VuePress Projects
-
-Here you will find a list of several VuePress projects that use **[Static Web Apps](https://docs.microsoft.com/azure/static-web-apps?WT.mc_id=staticwebapps-github-cxa)**.
 
 ### **[Peacock for Visual Studio Code Documentation](https://www.peacockcode.dev)**
 
