@@ -6,6 +6,7 @@ A gallery of sample projects in JavaScript/Node.js and frameworks/Jamstack site 
 
 - [Angular Projects](#angular-projects)
   - [Catsify: A cat names generator](#catsify-a-cat-names-generator)
+  - [Angular AppStore](#angular-appstore)
   - [ngxtools: Angular Package Registry](#ngxtools-angular-package-registry)
 - [Gatsby Projects](#gatsby-projects)
   - [Gatsby Website](#gatsby-website)
@@ -67,6 +68,18 @@ Catsify is a simple and creative app that allows you to find a unique name for y
 
 > Stacks Used: `angular, typescript, azure static web apps, rust, web assembly, nodejs, azure functions`
 
+### **[Angular AppStore](https://www.searchapp.store/)**
+
+<p align="center">
+  <img src="./media/angular-search-experience.gif" alt="Angular AppStore App" width="400px">
+</p>
+
+Angular AppStore is a reference app featuring a full search user experience using Algolia. Users can enjoy the fast and smooth experience.
+
+- Link to the project: **[HERE](https://www.searchapp.store/)**
+- GitHub repo: **[HERE](https://github.com/manekinekko/angular-search-experience)**
+
+> Stacks Used: `angular, typescript, azure static web apps, material design, algolia`
 
 ### **[ngxtools: Angular Package Registry](https://www.ngx.tools/)**
 
