@@ -6,6 +6,7 @@ A gallery of sample projects in JavaScript/Node.js and frameworks/Jamstack site 
 
 - [Angular Projects](#angular-projects)
   - [Catsify: A cat names generator](#catsify-a-cat-names-generator)
+  - [xLayers: Generate Code from SketchApp](#xlayers-generate-code-from-sketchapp)
   - [Angular AppStore](#angular-appstore)
   - [ngxtools: Angular Package Registry](#ngxtools-angular-package-registry)
 - [Gatsby Projects](#gatsby-projects)
@@ -67,6 +68,23 @@ Catsify is a simple and creative app that allows you to find a unique name for y
 - GitHub repo: **[HERE](https://github.com/manekinekko/catsify)**
 
 > Stacks Used: `angular, typescript, azure static web apps, rust, web assembly, nodejs, azure functions`
+
+### **[xLayers: Generate Code from SketchApp](https://www.xlayers.design/)**
+
+<p align="center">
+  <img src="./media/xlayers-1.png" alt="xLayers App" width="100%">
+  <br/>
+  <img src="./media/xlayers-2.png" alt="xLayers App" width="100%">
+</p>
+
+xLayers is an online Web application which aims to bridge the gap between designers and developers. Its mission is to allow both the Design and Development worlds to collaborate and iterate fast. Simply upload your design to xLayers and instantly scaffolds code for many popular frameworks1 and libraries such as Angular, Vue, React, Stencil...etc.
+
+- Link to the project: **[HERE](https://www.xlayers.design/)**
+- GitHub repo: **[HERE](https://github.com/xlayers/xlayers)**
+
+> Stacks Used: `angular, typescript, azure static web apps`
+
+=======
 
 ### **[Angular AppStore](https://www.searchapp.store/)**
 
