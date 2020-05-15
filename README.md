@@ -6,6 +6,7 @@ A gallery of sample projects in JavaScript/Node.js and frameworks/Jamstack site 
 
 - [Angular Projects](#angular-projects)
   - [Catsify: A cat names generator](#catsify-a-cat-names-generator)
+  - [ngxtools: Angular Package Registry](#ngxtools-angular-package-registry)
 - [Gatsby Projects](#gatsby-projects)
   - [Gatsby Website](#gatsby-website)
   - [Gatsby Portfolio Website](#gatsby-portfolio-website)
@@ -63,6 +64,20 @@ Catsify is a simple and creative app that allows you to find a unique name for y
 - GitHub repo: **[HERE](https://github.com/manekinekko/catsify)**
 
 > Stacks Used: `angular, typescript, azure static web apps, rust, web assembly, nodejs, azure functions`
+
+
+### **[ngxtools: Angular Package Registry](https://www.ngx.tools/)**
+
+<p align="center">
+  <img src="./media/ngxtools.png" alt="NgxTools App" width="100%">
+</p>
+
+NgxTools is an NPM registry clone made only for Angular packages. You can access hundred thousand of packages built specifically for Angular and available on NPM. You can access their metadata information, and even open them directly on StackBlitz.
+
+- Link to the project: **[HERE](https://www.ngx.tools/)**
+- GitHub repo: **[HERE](https://github.com/ngxtools/ngxtools)**
+
+> Stacks Used: `angular, typescript, azure static web apps, pwa, algolia`
 
 ---
 
