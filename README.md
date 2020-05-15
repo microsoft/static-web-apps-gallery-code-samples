@@ -40,8 +40,7 @@ A gallery of sample projects in JavaScript/Node.js and frameworks/Jamstack site 
   - [Svelte Todo App](#sveltejs-todo-app)
   - [Svelte Weather App](#sveltejs-weather-app)
 - [Vanilla HTML/JavaScript Projects](#html-projects)
-  - [HTML Todo App](#html-todo-app)
-  - [HTML Weather App](#html-weather-app)
+  - [Nitrooo landing page](#nitrooo-landing-page)
 - [Vue.js Projects](#vuejs-projects)
   - [PoseDance: A TikTok Trainer App](#poseDance-a-tiktok-trainer-app)
 - [VuePress Projects](#vuepress-projects)
@@ -296,6 +295,20 @@ You can use it as a template for your own apps.
 - GitHub repo: **[HERE](https://github.com/sinedied/azure-swag/)**
 
 > Stacks Used: `html, javascript, nodejs, azure static web apps`
+
+### **[Nitrooo landing page](https://www.nitr.ooo/)**
+
+<p align="center">
+  <img src="./media/nitrooo.png" alt="Nitrooo App" width="100%">
+</p>
+
+Nitro is a heavily opinionated template for building Serverless applications with NestJS, the fastest-growing NodeJS framework in the world by github stars.
+
+- Link to the project: **[HERE](https://www.nitr.ooo/)**
+- GitHub repo: **[HERE](https://github.com/nitro-stack/website)**
+
+> Stacks Used: `javascript, css, html`
+
 
 ---
 
