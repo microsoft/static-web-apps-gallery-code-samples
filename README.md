@@ -253,6 +253,8 @@ Link to the project: **[Repo](https://github.com/sunrise-standup/sunrise-standup
 
 > Stacks Used: `reactjs, azure static web apps, azure storage, azure cognitive services, azure maps`
 
+![](media/sunrise-standup.png)
+
 ---
 
 ## Svelte Projects
