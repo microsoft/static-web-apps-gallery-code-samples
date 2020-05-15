@@ -69,7 +69,9 @@ Catsify is a simple and creative app that allows you to find a unique name for y
 ### **[xLayers: Generate Code from SketchApp](https://www.xlayers.design/)**
 
 <p align="center">
-  <img src="./media/xlayers.png" alt="xLayers App" width="100%">
+  <img src="./media/xlayers-1.png" alt="xLayers App" width="100%">
+  <br/>
+  <img src="./media/xlayers-2.png" alt="xLayers App" width="100%">
 </p>
 
 xLayers is an online Web application which aims to bridge the gap between designers and developers. Its mission is to allow both the Design and Development worlds to collaborate and iterate fast. Simply upload your design to xLayers and instantly scaffolds code for many popular frameworks1 and libraries such as Angular, Vue, React, Stencil...etc.
