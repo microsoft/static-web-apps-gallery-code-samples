@@ -6,6 +6,7 @@ A gallery of sample projects in JavaScript/Node.js and frameworks/Jamstack site 
 
 - [Angular Projects](#angular-projects)
   - [Catsify: A cat names generator](#catsify-a-cat-names-generator)
+  - [ngx.tools: Angular Package Registry](#ngx-tools-angular-package-registry)
 - [Gatsby Projects](#gatsby-projects)
   - [Gatsby Website](#gatsby-website)
   - [Gatsby Portfolio Website](#gatsby-portfolio-website)
