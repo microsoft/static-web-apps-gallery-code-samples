@@ -244,15 +244,17 @@ Link to the project: **[HERE]()**
 
 ## React.js Projects
 
-### Sunrise Standup
+### [Sunrise Standup](https://www.sunrisestandup.com)
+
+![preview image for sunrise standup](media/sunrise-standup.png)
 
 A social platform for teams to post 15 second status update videos. Videos are uploaded and streamed from Azure Storage, videos are transcribed using Cognitive Services and user locations are shown with Azure Maps.
 
-Link to the project: **[Repo](https://github.com/sunrise-standup/sunrise-standup)**
-
 > Stacks Used: `reactjs, azure static web apps, azure storage, azure cognitive services, azure maps`
 
-![](media/sunrise-standup.png)
+
+- Link to the project: **[HERE](https://www.sunrisestandup.com)**
+- GitHub repo: **[HERE](https://github.com/sunrise-standup/sunrise-standup)**
 
 ---
 
@@ -328,6 +330,17 @@ Using PoseDance, a Machine-Learning library that can discern body positions, thi
 - GitHub repo: **[HERE](https://github.com/jlooper/posedance)**
 
 > Stacks Used: `vuejs, azure static web apps, machine learning, nodejs, javascript, azure functions`
+
+### **[VS Code Can Do That](https://www.vscodecandothat.com)
+
+![preview image for vscodecandothat.com](media/vscodecandothat.png)
+
+All the best things about VS Code that nobody ever bothered to show you.
+
+- Link to the project: **[HERE](https://www.vscodecandothat.com)**
+- GitHub repo: **[HERE](https://github.com/burkeholland/vscodecandothat/)**
+
+> Stacks Used: `vuejs, azure static web apps`
 
 ---
 
