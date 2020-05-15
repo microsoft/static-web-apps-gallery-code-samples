@@ -69,7 +69,7 @@ Catsify is a simple and creative app that allows you to find a unique name for y
 ### **[Angular AppStore](https://www.searchapp.store/)**
 
 <p align="center">
-  <img src="./media/searchappstore.png" alt="Angular AppStore App" width="100%">
+  <img src="./media/angular-search-experience.gif" alt="Angular AppStore App" width="400px">
 </p>
 
 Angular AppStore is a reference app featuring a full search user experience using Algolia. Users can enjoy the fast and smooth experience.
