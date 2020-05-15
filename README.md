@@ -40,8 +40,8 @@ A gallery of sample projects in JavaScript/Node.js and frameworks/Jamstack site 
   - [Svelte Todo App](#sveltejs-todo-app)
   - [Svelte Weather App](#sveltejs-weather-app)
 - [Vanilla HTML/JavaScript Projects](#html-projects)
-  - [HTML Todo App](#html-todo-app)
-  - [HTML Weather App](#html-weather-app)
+  - [Azure SWAG Demo: A Positive Thought For Your Day](#azure-swag-demo-a-positive-thought-for-your-day)
+  - [Hexa CLI Landing Page](#hexa-cli-landing-page)
 - [Vue.js Projects](#vuejs-projects)
   - [PoseDance: A TikTok Trainer App](#poseDance-a-tiktok-trainer-app)
 - [VuePress Projects](#vuepress-projects)
@@ -304,6 +304,21 @@ You can use it as a template for your own apps.
 - GitHub repo: **[HERE](https://github.com/sinedied/azure-swag/)**
 
 > Stacks Used: `html, javascript, nodejs, azure static apps`
+
+---
+
+### [Hexa CLI Landing Page](https://www.hexa.run)
+
+<p align="center">
+  <img src="./media/hexa.png" alt="The ultimate companion for the Azure CLI screenshot" width="100%">
+</p>
+
+Hexa is the ultimate companion for the Azure CLI. It allows you to seamlessly configure, setup and deploy to different Azure services such as Resource Groups, Storage accounts, Hosting, Azure Functions and Databases (CosmosDB and Table Storage) and more.
+
+- Link to the project: **[HERE](https://www.hexa.run)**
+- GitHub repo: **[HERE](https://github.com/manekinekko/hexa/)**
+
+> Stacks Used: `html, javascript`
 
 ---
 
