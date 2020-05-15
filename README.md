@@ -67,7 +67,7 @@ Catsify is a simple and creative app that allows you to find a unique name for y
 > Stacks Used: `angular, typescript, azure static web apps, rust, web assembly, nodejs, azure functions`
 
 
-### **[ngx.tools: Angular Package Registry](https://www.ngx.tools/)**
+### **[ngxtools: Angular Package Registry](https://www.ngx.tools/)**
 
 <p align="center">
   <img src="./media/ngxtools.png" alt="NgxTools App" width="100%">
