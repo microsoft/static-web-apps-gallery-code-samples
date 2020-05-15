@@ -48,6 +48,7 @@ A gallery of sample projects in JavaScript/Node.js and frameworks/Jamstack site 
   - [Nitrooo landing page](#nitrooo-landing-page)
 - [Vue.js Projects](#vuejs-projects)
   - [PoseDance: A TikTok Trainer App](#poseDance-a-tiktok-trainer-app)
+  - [Maya Database Archive](#maya-database
 - [VuePress Projects](#vuepress-projects)
   - [Peacock for Visual Studio Code Documentation](#peacock-for-visual-studio-code-documentation)
   - [VuePress Portfolio Website](#vuepress-portfolio-website)
@@ -384,15 +385,28 @@ Here you will find a list of several Vue.js projects that use **[Static Web Apps
 ### **[PoseDance: A TikTok Trainer App](https://proud-moss-070616b1e.azurestaticapps.net/)**
 
 <p align="center">
-  <img src="./media/posedance.jpg" alt="PoseDance App" width="456" height="256">
+  <img src="./media/posedance.jpg" alt="PoseDance App" width="100%">
 </p>
 
-Using PoseDance, a Machine-Learning library that can discern body positions, this app allows you to perfect your dance moves via your webcam. Match your dance, get a high score! Also features PlayFab and Azure Functions for the backend service.
+Using PoseNet, a Machine-Learning library that can discern body positions, this app allows you to perfect your dance moves via your webcam. Match a TikTok dance, get a high score! Also features PlayFab and Azure Functions for the backend service.
 
 - Link to the project: **[HERE](https://proud-moss-070616b1e.azurestaticapps.net/)**
 - GitHub repo: **[HERE](https://github.com/jlooper/posedance)**
 
 > Stacks Used: `vuejs, azure static web apps, machine learning, nodejs, javascript, azure functions`
+
+### **[Maya Database Archive](https://brave-beach-0e06ac81e.azurestaticapps.net/)**
+
+<p align="center">
+  <img src="./media/mayadb.gif" alt="Maya Database Archive" width="100%">
+</p>
+
+The Maya Database is an archive of Maya glyphs, their locations, and their features, for use by scholars worldwide.
+
+- Link to the project: **[HERE](https://brave-beach-0e06ac81e.azurestaticapps.net/)**
+- GitHub repo: **[HERE](https://github.com/jlooper/maya-database-archive)**
+
+> Stacks Used: `vuejs, azure static web apps, nodejs, javascript, bulma, SASS, C#, ASP.NET Core, odata, cosmosdb`
 
 ### **[VS Code Can Do That](https://www.vscodecandothat.com)
 
