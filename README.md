@@ -77,7 +77,7 @@ a little descriptions about the project.
 
 Link to the project: **[HERE]()**
 
-> Stacks Used: `gatsby, nodejs, azure static apps`
+> Stacks Used: `gatsby, nodejs, azure static web apps`
 
 ### Gatsby Portfolio Website
 
@@ -85,7 +85,7 @@ a little descriptions about the project.
 
 Link to the project: **[HERE]()**
 
-> Stacks Used: `gatsby, nodejs, azure static apps`
+> Stacks Used: `gatsby, nodejs, azure static web apps`
 
 ---
 
@@ -99,7 +99,7 @@ a little descriptions about the project.
 
 Link to the project: **[HERE]()**
 
-> Stacks Used: `hexo, nodejs, azure static apps`
+> Stacks Used: `hexo, nodejs, azure static web apps`
 
 ### Hexo Portfolio Website
 
@@ -107,7 +107,7 @@ a little descriptions about the project.
 
 Link to the project: **[HERE]()**
 
-> Stacks Used: `hexo, nodejs, azure static apps`
+> Stacks Used: `hexo, nodejs, azure static web apps`
 
 ---
 
@@ -121,7 +121,7 @@ a little descriptions about the project.
 
 Link to the project: **[HERE]()**
 
-> Stacks Used: `hugo, nodejs, azure static apps`
+> Stacks Used: `hugo, nodejs, azure static web apps`
 
 ### Hugo Portfolio Website
 
@@ -129,7 +129,7 @@ a little descriptions about the project.
 
 Link to the project: **[HERE]()**
 
-> Stacks Used: `hugo, nodejs, azure static apps`
+> Stacks Used: `hugo, nodejs, azure static web apps`
 
 ---
 
@@ -143,7 +143,7 @@ a little descriptions about the project.
 
 Link to the project: **[HERE]()**
 
-> Stacks Used: `jekyll, ruby, azure static apps`
+> Stacks Used: `jekyll, ruby, azure static web apps`
 
 ### Jekyll Portfolio Website
 
@@ -151,7 +151,7 @@ a little descriptions about the project.
 
 Link to the project: **[HERE]()**
 
-> Stacks Used: `jekyll, ruby, azure static apps`
+> Stacks Used: `jekyll, ruby, azure static web apps`
 
 ---
 
@@ -165,7 +165,7 @@ a little descriptions about the project.
 
 Link to the project: **[HERE]()**
 
-> Stacks Used: `metalsmith, azure static apps`
+> Stacks Used: `metalsmith, azure static web apps`
 
 ### Metalsmith Portfolio Website
 
@@ -173,7 +173,7 @@ a little descriptions about the project.
 
 Link to the project: **[HERE]()**
 
-> Stacks Used: `metalsmith, azure static apps`
+> Stacks Used: `metalsmith, azure static web apps`
 
 ---
 
@@ -187,7 +187,7 @@ a little descriptions about the project.
 
 Link to the project: **[HERE]()**
 
-> Stacks Used: `nextjs, azure static apps`
+> Stacks Used: `nextjs, azure static web apps`
 
 ### Next.js Weather App
 
@@ -195,7 +195,7 @@ a little descriptions about the project.
 
 Link to the project: **[HERE]()**
 
-> Stacks Used: `nextjs, azure static apps`
+> Stacks Used: `nextjs, azure static web apps`
 
 ---
 
@@ -209,7 +209,7 @@ a little descriptions about the project.
 
 Link to the project: **[HERE]()**
 
-> Stacks Used: `nodejs, azure static apps`
+> Stacks Used: `nodejs, azure static web apps`
 
 ### Node.js Weather App
 
@@ -217,7 +217,7 @@ a little descriptions about the project.
 
 Link to the project: **[HERE]()**
 
-> Stacks Used: `nodejs, azure static apps`
+> Stacks Used: `nodejs, azure static web apps`
 
 ---
 
@@ -231,7 +231,7 @@ a little descriptions about the project.
 
 Link to the project: **[HERE]()**
 
-> Stacks Used: `nuxtjs, azure static apps`
+> Stacks Used: `nuxtjs, azure static web apps`
 
 ### Nuxt.js Weather App
 
@@ -239,29 +239,19 @@ a little descriptions about the project.
 
 Link to the project: **[HERE]()**
 
-> Stacks Used: `nuxtjs, azure static apps`
+> Stacks Used: `nuxtjs, azure static web apps`
 
 ---
 
 ## React.js Projects
 
-Here you will find a list of several React.js projects that use **[Static Web Apps](https://docs.microsoft.com/azure/static-web-apps?WT.mc_id=staticwebapps-github-cxa)**.
+### Sunrise Standup
 
-### React.js Todo App
+A social platform for teams to post 15 second status update videos. Videos are uploaded and streamed from Azure Storage, videos are transcribed using Cognitive Services and user locations are shown with Azure Maps.
 
-a little descriptions about the project.
+Link to the project: **[Repo](https://github.com/sunrise-standup/sunrise-standup)**
 
-Link to the project: **[HERE]()**
-
-> Stacks Used: `reactjs, azure static apps`
-
-### React.js Weather App
-
-a little descriptions about the project.
-
-Link to the project: **[HERE]()**
-
-> Stacks Used: `reactjs, azure static apps`
+> Stacks Used: `reactjs, azure static web apps, azure storage, azure cognitive services, azure maps`
 
 ---
 
@@ -275,7 +265,7 @@ a little descriptions about the project.
 
 Link to the project: **[HERE]()**
 
-> Stacks Used: `svelte, azure static apps`
+> Stacks Used: `svelte, azure static web apps`
 
 ### Svelte Weather App
 
@@ -283,7 +273,7 @@ a little descriptions about the project.
 
 Link to the project: **[HERE]()**
 
-> Stacks Used: `svelte, azure static apps`
+> Stacks Used: `svelte, azure static web apps`
 
 ---
 
@@ -303,7 +293,7 @@ You can use it as a template for your own apps.
 - Link to the project: **[HERE](https://aka.ms/swag-demo)**
 - GitHub repo: **[HERE](https://github.com/sinedied/azure-swag/)**
 
-> Stacks Used: `html, javascript, nodejs, azure static apps`
+> Stacks Used: `html, javascript, nodejs, azure static web apps`
 
 ---
 
@@ -322,7 +312,7 @@ Using PoseDance, a Machine-Learning library that can discern body positions, thi
 - Link to the project: **[HERE](https://proud-moss-070616b1e.azurestaticapps.net/)**
 - GitHub repo: **[HERE](https://github.com/jlooper/posedance)**
 
-> Stacks Used: `vuejs, azure static apps, machine learning, nodejs, javascript, azure functions`
+> Stacks Used: `vuejs, azure static web apps, machine learning, nodejs, javascript, azure functions`
 
 ---
 
@@ -350,7 +340,7 @@ a little descriptions about the project.
 
 Link to the project: **[HERE]()**
 
-> Stacks Used: `vuepress, azure static apps`
+> Stacks Used: `vuepress, azure static web apps`
 
 ---
 
