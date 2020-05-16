@@ -309,7 +309,7 @@ All the best things about VS Code that nobody ever bothered to show you.
   <img src="./media/peacock-icon.png" alt="Peacock icon" width="256" height="256">
 <p>
 
-Subtly change the color of your Visual Studio Code workspace. Ideal when you have multiple VS Code instances, use VS Live Share, or use VS Code's Remote features, and you want to quickly identify your editor.
+Peacock is a Visual Studio Code extension with 700,000+ installations. It subtly changes the color of your Visual Studio Code workspace. This is ideal when you have multiple VS Code instances, use VS Live Share, or use VS Code's Remote features, and you want to quickly identify your editor.
 
 - [Peacock Documentation](https://www.peacockcode.dev)
 - [GitHub repo for Peacock Documentation](https://github.com/johnpapa/vscode-peacock)
