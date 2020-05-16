@@ -42,8 +42,6 @@ A gallery of sample projects in JavaScript/Node.js and frameworks/Jamstack site 
 
 ## Angular Projects
 
-Here you will find a list of several Angular projects that use **[Static Web Apps](https://docs.microsoft.com/azure/static-web-apps/?WT.mc_id=staticwebapps-github-cxa)**.
-
 ### **[Catsify: A cat names generator](https://www.catsify.app/)**
 
 <p align="center">
