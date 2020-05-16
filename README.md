@@ -31,7 +31,6 @@ Would you like to include your projects to this gallery? Follow the **[Checklist
   - [PWA Blog](#pwa-blog)
 - [Svelte](#svelte)
   - [Shop at Home](#shop-at-home)
-  - [Svelte Todo App](#svelte-todo-app)
 - [Vanilla HTML JavaScript CSS](#vanilla-html-javascript-css)
   - [Azure SWAG Demo: A Positive Thought For Your Day](#azure-swag-demo-a-positive-thought-for-your-day)
   - [Hexa CLI Landing Page](#hexa-cli-landing-page)
