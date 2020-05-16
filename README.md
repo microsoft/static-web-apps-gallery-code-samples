@@ -18,7 +18,7 @@ Would you like to include your project hosted/deployed on **[Azure Static Web Ap
 - [Hexo Projects](#hexo-projects)
   - [Hexo Website](#hexo-website)
 - [Hugo Projects](#hugo-projects)
-  - [Hugo Website](#hugo-website)
+  - [ngVikings 2020: A free online conference for Angular developers](#ngvikings-2020-a-free-online-conference-for-angular-developers)
 - [Jekyll Projects](#jekyll-projects)
   - [Jekyll Website](#jekyll-website)
 - [Metalsmith Projects](#metalsmith-projects)
@@ -128,13 +128,18 @@ Link to the project: **[HERE]()**
 
 ## Hugo Projects
 
-### Hugo Website
+### **[ngVikings 2020: A free online conference for Angular developers](https://www.ngvikings.org/)**
 
-a little descriptions about the project.
+<p align="center">
+  <img src="./media/ngvikings2020.png" alt="ngVikings 2020" width="100%">
+</p>
 
-Link to the project: **[HERE]()**
+ngVikings is a non-profit, non-commercial, 100% community-driven event comprised of many Nordic Angular groups with more than 6500 active members in total.
 
-> Stacks Used: `hugo, nodejs, azure static web apps`
+- Link to the project: **[HERE](https://www.ngvikings.org/)**
+- GitHub repo: **[HERE](https://github.com/ngvikings/ngvikings-2020)**
+
+> Stacks Used: `hugo, azure static web apps, workbox`
 
 ---
 
