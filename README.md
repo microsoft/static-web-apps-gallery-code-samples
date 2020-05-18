@@ -229,6 +229,19 @@ All the best things about VS Code that nobody ever bothered to show you.
 
 ## VuePress Projects
 
+### **[Nitro Workshop](https://nitro-stack.github.io/nitro-workshop/)**
+
+<p align="center">
+  <img src="./media/nitro.png" alt="Nitro logo" width="256" height="256">
+<p>
+
+Online workshop built with Vuepress to learn how to build a backend using NestJS. This is a practical workshop where you'll learn "hands-on" by iteratively building an application from scratch using NestJS and Azure.
+
+- Link to the project: **[HERE](https://nitro-stack.github.io/nitro-workshop/)**
+- GitHub repo: **[HERE](https://github.com/nitro-stack/nitro-workshop)**
+
+> Stacks Used: `vuepress, azure static web apps, nodejs, nestjs`
+
 ### **[Peacock for Visual Studio Code Documentation](https://www.peacockcode.dev)**
 
 <p align="center">
@@ -242,13 +255,5 @@ Peacock is a Visual Studio Code extension with 700,000+ installations. It subtly
 - **[Install the Peacock Extension](https://marketplace.visualstudio.com/items?itemName=johnpapa.vscode-peacock&wt.mc_id=staticwebapps-github-jopapa)**
 
 > Stacks Used: `vuepress, azure static web apps, nodejs`
-
-### VuePress Portfolio Website
-
-a little descriptions about the project.
-
-Link to the project: **[HERE]()**
-
-> Stacks Used: `vuepress, azure static web apps`
 
 ---
