@@ -15,22 +15,8 @@ Would you like to include your project hosted/deployed on **[Azure Static Web Ap
   - [ngxtools: Angular Package Registry](#ngxtools-angular-package-registry)
 - [Scully Projects](#scully-projects)
   - [PWA Blog](#pwa-blog)
-- [Gatsby Projects](#gatsby-projects)
-  - [Gatsby Website](#gatsby-website)
-- [Hexo Projects](#hexo-projects)
-  - [Hexo Website](#hexo-website)
 - [Hugo Projects](#hugo-projects)
   - [ngVikings 2020: A free online conference for Angular developers](#ngvikings-2020-a-free-online-conference-for-angular-developers)
-- [Jekyll Projects](#jekyll-projects)
-  - [Jekyll Website](#jekyll-website)
-- [Metalsmith Projects](#metalsmith-projects)
-  - [Metalsmith Website](#metalsmith-website)
-- [Next.js Projects](#nextjs-projects)
-  - [Next.js Todo App](#nextjs-todo-app)
-- [Node.js Projects](#nodejs-projects)
-  - [Node.js Todo App](#nodejs-todo-app)
-- [Nuxt.js Projects](#nuxtjs-projects)
-  - [Nuxt.js Todo App](#nuxtjs-todo-app)
 - [React.js Projects](#reactjs-projects)
   - [Sunrise Standup](#sunrise-standup)
 - [Svelte Projects](#sveltejs-projects)
@@ -121,30 +107,6 @@ News and articles about Progressive Web Apps.
 
 ---
 
-## Gatsby Projects
-
-### Gatsby Website
-
-a little descriptions about the project.
-
-Link to the project: **[HERE]()**
-
-> Stacks Used: `gatsby, nodejs, azure static web apps`
-
----
-
-## Hexo Projects
-
-### Hexo Website
-
-a little descriptions about the project.
-
-Link to the project: **[HERE]()**
-
-> Stacks Used: `hexo, nodejs, azure static web apps`
-
----
-
 ## Hugo Projects
 
 ### **[ngVikings 2020: A free online conference for Angular developers](https://www.ngvikings.org/)**
@@ -159,66 +121,6 @@ ngVikings is a non-profit, non-commercial, 100% community-driven event comprised
 - GitHub repo: **[HERE](https://github.com/ngvikings/ngvikings-2020)**
 
 > Stacks Used: `hugo, azure static web apps, workbox`
-
----
-
-## Jekyll Projects
-
-### Jekyll Website
-
-a little descriptions about the project.
-
-Link to the project: **[HERE]()**
-
-> Stacks Used: `jekyll, ruby, azure static web apps`
-
----
-
-## Metalsmith Projects
-
-### Metalsmith Website
-
-a little descriptions about the project.
-
-Link to the project: **[HERE]()**
-
-> Stacks Used: `metalsmith, azure static web apps`
-
----
-
-## Next.js Projects
-
-### Next.js Todo App
-
-a little descriptions about the project.
-
-Link to the project: **[HERE]()**
-
-> Stacks Used: `nextjs, azure static web apps`
-
----
-
-## Node.js Projects
-
-### Node.js Todo App
-
-a little descriptions about the project.
-
-Link to the project: **[HERE]()**
-
-> Stacks Used: `nodejs, azure static web apps`
-
----
-
-## Nuxt.js Projects
-
-### Nuxt.js Todo App
-
-a little descriptions about the project.
-
-Link to the project: **[HERE]()**
-
-> Stacks Used: `nuxtjs, azure static web apps`
 
 ---
 
@@ -335,9 +237,9 @@ All the best things about VS Code that nobody ever bothered to show you.
 
 Peacock is a Visual Studio Code extension with 700,000+ installations. It subtly changes the color of your Visual Studio Code workspace. This is ideal when you have multiple VS Code instances, use VS Live Share, or use VS Code's Remote features, and you want to quickly identify your editor.
 
-- [Peacock Documentation](https://www.peacockcode.dev)
-- [GitHub repo for Peacock Documentation](https://github.com/johnpapa/vscode-peacock)
-- [Install the Peacock Extension](https://marketplace.visualstudio.com/items?itemName=johnpapa.vscode-peacock&wt.mc_id=staticwebapps-github-jopapa)
+- **[Peacock Documentation](https://www.peacockcode.dev)**
+- **[**GitHub repo for Peacock Documentation](https://github.com/johnpapa/vscode-peacock)**
+- **[Install the Peacock Extension](https://marketplace.visualstudio.com/items?itemName=johnpapa.vscode-peacock&wt.mc_id=staticwebapps-github-jopapa)**
 
 > Stacks Used: `vuepress, azure static web apps, nodejs`
 
