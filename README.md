@@ -117,7 +117,7 @@ News and articles about Progressive Web Apps.
 - Link to the project: **[HERE](https://www.webmax.ru/)**
 - GitHub repo: **[HERE](https://github.com/webmaxru/webmax.ru)**
 
-> Stacks Used: `angular, scully, azure static web apps, workbox`
+> Stacks Used: `angular, scully, azure static web apps, workbox, pwa`
 
 ---
 
