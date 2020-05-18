@@ -29,8 +29,8 @@ Would you like to include your project hosted/deployed on **[Azure Static Web Ap
   - [PoseDance: A TikTok Trainer App](#poseDance-a-tiktok-trainer-app)
   - [VS Code Can Do That](#vs-code-can-do-that)
 - [VuePress Projects](#vuepress-projects)
+  - [Nitro Workshop](#nitro-workshop)
   - [Peacock for Visual Studio Code Documentation](#peacock-for-visual-studio-code-documentation)
-  - [VuePress Portfolio Website](#vuepress-portfolio-website)
 
 ## Angular Projects
 
