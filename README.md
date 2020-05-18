@@ -13,6 +13,8 @@ Would you like to include your project hosted/deployed on **[Azure Static Web Ap
   - [xLayers: Generate Code from SketchApp](#xlayers-generate-code-from-sketchapp)
   - [Angular AppStore](#angular-appstore)
   - [ngxtools: Angular Package Registry](#ngxtools-angular-package-registry)
+- [Scully Projects](#scully-projects)
+  - [PWA Blog](#pwa-blog)
 - [Gatsby Projects](#gatsby-projects)
   - [Gatsby Website](#gatsby-website)
 - [Hexo Projects](#hexo-projects)
@@ -99,6 +101,23 @@ NgxTools is an NPM registry clone made only for Angular packages. You can access
 - GitHub repo: **[HERE](https://github.com/ngxtools/ngxtools)**
 
 > Stacks Used: `angular, typescript, azure static web apps, pwa, algolia`
+
+---
+
+## Scully Projects
+
+### **[PWA Blog](https://www.webmax.ru/)**
+
+<p align="center">
+  <img src="./media/pwablog.png" alt="PWA Blog" width="100%">
+</p>
+
+News and articles about Progressive Web Apps.
+
+- Link to the project: **[HERE](https://www.webmax.ru/)**
+- GitHub repo: **[HERE](https://github.com/webmaxru/webmax.ru)**
+
+> Stacks Used: `angular, scully, azure static web apps, workbox`
 
 ---
 
