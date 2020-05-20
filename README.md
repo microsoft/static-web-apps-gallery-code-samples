@@ -161,7 +161,9 @@ A social platform for teams to post 15 second status update videos. Videos are u
 
 ### **[Gatsbyjs Starter](https://jolly-tree-003047c03.azurestaticapps.net/)**
 
-![preview image for gatsby starter](media/gatsby_starter.png)
+<p align="center">
+  <img src="./media/gatsby_starter.png" alt="Gatsby starter" width="100%">
+</p>
 
 A very simple starter scaffolded using the gatsby.js framework.
 
