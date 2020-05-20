@@ -231,22 +231,20 @@ News and articles about Progressive Web Apps.
 
 ## Svelte
 
-### Shop at Home (<https://www.shopathome.dev>)
+### **[Shop at Home](https://www.shopathome.dev)**
+
+<p align="center">
+  <img src="./media/shop-at-home-svelte.png" alt="Svelte Application" width="100%">
+</p>
+
+
 
 "Shop at Home" is a sample app which is written in four variations: Angular, React, Svelte and Vue. It is shown in the Build 2020 video presentation.
 
 - **[Shop at Home](https://www.shopathome.dev)**
 - **[GitHub repo for Shop at Home](https://github.com/johnpapa/shopathome)**
 
-> Stacks Used: `vue, svelte, react, angular, azure static web apps`
-
-### Svelte Todo App
-
-a little descriptions about the project.
-
-Link to the project: **[HERE]()**
-
-> Stacks Used: `svelte, azure static web apps`
+> Stacks Used: `svelte, react, angular, nodejs, azure static web apps`
 
 ---
 
