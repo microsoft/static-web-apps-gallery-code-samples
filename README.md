@@ -20,7 +20,7 @@ Would you like to include your project hosted/deployed on **[Azure Static Web Ap
 - [React.js Projects](#reactjs-projects)
   - [Sunrise Standup](#sunrise-standup)
 - [Gatsby.js Projects](#gatsbyjs-projects)
-  - [Simple Starter](#gatsby-starter)
+  - [Simple Starter](#gatsbyjs-starter)
 - [Svelte Projects](#sveltejs-projects)
   - [Svelte Todo App](#sveltejs-todo-app)
 - [Vanilla HTML/JavaScript Projects](#html-projects)
@@ -143,7 +143,7 @@ A social platform for teams to post 15 second status update videos. Videos are u
 
 ## Gatsby.js Projects
 
-### **[Simple Starter](https://jolly-tree-003047c03.azurestaticapps.net/)**
+### **[Gatsbyjs Starter](https://jolly-tree-003047c03.azurestaticapps.net/)**
 
 ![preview image for gatsby starter](media/gatsby_starter.png)
 
