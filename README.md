@@ -13,6 +13,7 @@ Would you like to include your project hosted/deployed on **[Azure Static Web Ap
   - [xLayers: Generate Code from SketchApp](#xlayers-generate-code-from-sketchapp)
   - [Angular AppStore](#angular-appstore)
   - [ngxtools: Angular Package Registry](#ngxtools-angular-package-registry)
+  - [meme4fun: Angular App to generate programmer memes](#meme-4-fun)
 - [Scully Projects](#scully-projects)
   - [PWA Blog](#pwa-blog)
 - [Hugo Projects](#hugo-projects)
@@ -87,6 +88,19 @@ NgxTools is an NPM registry clone made only for Angular packages. You can access
 - GitHub repo: **[HERE](https://github.com/ngxtools/ngxtools)**
 
 > Stacks Used: `angular, typescript, azure static web apps, pwa, algolia`
+
+### **[Meme4Fun](https://lively-forest-0fd67f010.azurestaticapps.net/)**
+
+<p align="center">
+  <img src="./media/meme4fun.jpg" alt="Meme generator app" width="400px">
+</p>
+
+Meme4Fun is an app to create custom programming memes from a picture and it also identifies features of people in the image.
+
+- Link to the project: **[HERE](https://lively-forest-0fd67f010.azurestaticapps.net/)**
+- GitHub repo: **[HERE](https://github.com/sajeetharan/meme4fun)**
+
+> Stacks Used: `angular, typescript, azure static web apps, material design, Azure Cognitive services`
 
 ---
 
