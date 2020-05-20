@@ -6,39 +6,39 @@ A gallery of awesome projects built and deployed in **[Azure Static Web Apps](ht
 
 Would you like to include your projects to this gallery? Follow the **[Checklist for Pull Request](./.github/PULL_REQUEST_TEMPLATE/pull_request_template.md)**.
 
-## 💻 Projects 
+## 💻 Projects (by technology)
 
-- [Angular Projects](#angular-projects)
+- [Angular](#angular)
   - [Catsify: A cat names generator](#catsify-a-cat-names-generator)
   - [xLayers: Generate Code from SketchApp](#xlayers-generate-code-from-sketchapp)
   - [Angular AppStore](#angular-appstore)
   - [ngxtools: Angular Package Registry](#ngxtools-angular-package-registry)
-  - [meme4fun: Angular App to generate programmer memes](#meme-4-fun)
+  - [meme4fun: Angular App to generate programmer memes](#meme4fun)
   - [Angular Server Side Rendering](#angular-server-side-rendering)
-- [Scully Projects](#scully-projects)
-  - [PWA Blog](#pwa-blog)
-- [Hugo Projects](#hugo-projects)
-  - [ngVikings 2020: A free online conference for Angular developers](#ngvikings-2020-a-free-online-conference-for-angular-developers)
-- [React.js Projects](#reactjs-projects)
-  - [Sunrise Standup](#sunrise-standup)
-- [Gatsby.js Projects](#gatsbyjs-projects)
+- [Gatsby.js](#gatsbyjs)
   - [Simple Starter](#gatsbyjs-starter)
-- [Svelte Projects](#sveltejs-projects)
-  - [Svelte Todo App](#sveltejs-todo-app)
-- [Vanilla HTML/JavaScript Projects](#html-projects)
+- [Hugo](#hugo)
+  - [ngVikings 2020: A free online conference for Angular developers](#ngvikings-2020-a-free-online-conference-for-angular-developers)
+- [React.js](#reactjs)
+  - [Sunrise Standup](#sunrise-standup)
+- [Stencil](#stencil)
+  - [Stencil Starter App](#stencil-starter-app)
+- [Scully](#scully)
+  - [PWA Blog](#pwa-blog)
+- [Svelte](#svelte)
+  - [Svelte Todo App](#svelte-todo-app)
+- [Vanilla HTML JavaScript CSS](#vanilla-html-javascript-css)
   - [Azure SWAG Demo: A Positive Thought For Your Day](#azure-swag-demo-a-positive-thought-for-your-day)
   - [Hexa CLI Landing Page](#hexa-cli-landing-page)
   - [Nitrooo landing page](#nitrooo-landing-page)
-- [Vue.js Projects](#vuejs-projects)
-  - [PoseDance: A TikTok Trainer App](#poseDance-a-tiktok-trainer-app)
+- [Vue.js](#vuejs)
+  - [PoseDance: A TikTok Trainer App](#posedance-a-tiktok-trainer-app)
   - [VS Code Can Do That](#vs-code-can-do-that)
-- [VuePress Projects](#vuepress-projects)
+- [VuePress](#vuepress)
   - [Nitro Workshop](#nitro-workshop)
   - [Peacock for Visual Studio Code Documentation](#peacock-for-visual-studio-code-documentation)
-- [Stencil Projects](#stencil-projects)
-  - [Stencil Starter App](#stencil-starter-app)
 
-## Angular Projects
+## Angular
 
 ### **[Catsify: A cat names generator](https://www.catsify.app/)**
 
@@ -122,56 +122,7 @@ A prerendred Angular application built with Angular universal (aka. @angular/pla
 
 ---
 
-## Scully Projects
-
-### **[PWA Blog](https://www.webmax.ru/)**
-
-<p align="center">
-  <img src="./media/pwablog.png" alt="PWA Blog" width="100%">
-</p>
-
-News and articles about Progressive Web Apps.
-
-- Link to the project: **[HERE](https://www.webmax.ru/)**
-- GitHub repo: **[HERE](https://github.com/webmaxru/webmax.ru)**
-
-> Stacks Used: `angular, scully, azure static web apps, workbox, pwa`
-
----
-
-## Hugo Projects
-
-### **[ngVikings 2020: A free online conference for Angular developers](https://www.ngvikings.org/)**
-
-<p align="center">
-  <img src="./media/ngvikings2020.png" alt="ngVikings 2020" width="100%">
-</p>
-
-ngVikings is a non-profit, non-commercial, 100% community-driven event comprised of many Nordic Angular groups with more than 6500 active members in total.
-
-- Link to the project: **[HERE](https://www.ngvikings.org/)**
-- GitHub repo: **[HERE](https://github.com/ngvikings/ngvikings-2020)**
-
-> Stacks Used: `hugo, azure static web apps, workbox`
-
----
-
-## React.js Projects
-
-### **[Sunrise Standup](https://www.sunrisestandup.com)**
-
-![preview image for sunrise standup](media/sunrise-standup.png)
-
-A social platform for teams to post 15 second status update videos. Videos are uploaded and streamed from Azure Storage, videos are transcribed using Cognitive Services and user locations are shown with Azure Maps.
-
-> Stacks Used: `reactjs, azure static web apps, azure storage, azure cognitive services, azure maps`
-
-- Link to the project: **[HERE](https://www.sunrisestandup.com)**
-- GitHub repo: **[HERE](https://github.com/sunrise-standup/sunrise-standup)**
-
----
-
-## Gatsby.js Projects
+## Gatsby.js
 
 ### **[Gatsbyjs Starter](https://jolly-tree-003047c03.azurestaticapps.net/)**
 
@@ -188,7 +139,73 @@ A very simple starter scaffolded using the gatsby.js framework.
 
 ---
 
-## Svelte Projects
+## Hugo
+
+### **[ngVikings 2020: A free online conference for Angular developers](https://www.ngvikings.org/)**
+
+<p align="center">
+  <img src="./media/ngvikings2020.png" alt="ngVikings 2020" width="100%">
+</p>
+
+ngVikings is a non-profit, non-commercial, 100% community-driven event comprised of many Nordic Angular groups with more than 6500 active members in total.
+
+- Link to the project: **[HERE](https://www.ngvikings.org/)**
+- GitHub repo: **[HERE](https://github.com/ngvikings/ngvikings-2020)**
+
+> Stacks Used: `hugo, azure static web apps, workbox`
+
+---
+
+## React.js
+
+### **[Sunrise Standup](https://www.sunrisestandup.com)**
+
+![preview image for sunrise standup](media/sunrise-standup.png)
+
+A social platform for teams to post 15 second status update videos. Videos are uploaded and streamed from Azure Storage, videos are transcribed using Cognitive Services and user locations are shown with Azure Maps.
+
+> Stacks Used: `reactjs, azure static web apps, azure storage, azure cognitive services, azure maps`
+
+- Link to the project: **[HERE](https://www.sunrisestandup.com)**
+- GitHub repo: **[HERE](https://github.com/sunrise-standup/sunrise-standup)**
+
+---
+
+## Stencil
+
+### **[Stencil Starter App](https://kind-meadow-01093c903.azurestaticapps.net/)**
+
+<p align="center">
+  <img width="100%" alt="Stencil Starter App" src="./media/stencil.png">
+<p>
+
+Stencil is a toolchain for building reusable, scalable Design Systems. Generate small, blazing fast, and 100% standards based Web Components that run in every browser.
+
+- Link to the project: **[HERE](https://kind-meadow-01093c903.azurestaticapps.net/)**
+- GitHub repo: **[HERE](https://github.com/manekinekko/stencil-swa)**
+
+> Stacks Used: `stencil.js, azure static web apps`
+
+---
+
+## Scully
+
+### **[PWA Blog](https://www.webmax.ru/)**
+
+<p align="center">
+  <img src="./media/pwablog.png" alt="PWA Blog" width="100%">
+</p>
+
+News and articles about Progressive Web Apps.
+
+- Link to the project: **[HERE](https://www.webmax.ru/)**
+- GitHub repo: **[HERE](https://github.com/webmaxru/webmax.ru)**
+
+> Stacks Used: `angular, scully, azure static web apps, workbox, pwa`
+
+---
+
+## Svelte
 
 ### Svelte Todo App
 
@@ -200,7 +217,7 @@ Link to the project: **[HERE]()**
 
 ---
 
-## Vanilla HTML/JavaScript Projects
+## Vanilla HTML JavaScript CSS
 
 ### **[Azure SWAG Demo: A Positive Thought For Your Day](https://ashy-mushroom-05748f31e.azurestaticapps.net/)**
 
@@ -246,7 +263,7 @@ Hexa is the ultimate companion for the Azure CLI. It allows you to seamlessly co
 
 ---
 
-## Vue.js Projects
+## Vue.js
 
 ### **[PoseDance: A TikTok Trainer App](https://proud-moss-070616b1e.azurestaticapps.net/)**
 
@@ -276,7 +293,7 @@ All the best things about VS Code that nobody ever bothered to show you.
 
 ---
 
-## VuePress Projects
+## VuePress
 
 ### **[Nitro Workshop](https://nitro-stack.github.io/nitro-workshop/)**
 
@@ -307,19 +324,3 @@ Peacock is a Visual Studio Code extension with 700,000+ installations. It subtly
 
 ---
 
-## Stencil Projects
-
-### **[Stencil Starter App](https://kind-meadow-01093c903.azurestaticapps.net/)**
-
-<p align="center">
-  <img width="100%" alt="Stencil Starter App" src="./media/stencil.png">
-<p>
-
-Stencil is a toolchain for building reusable, scalable Design Systems. Generate small, blazing fast, and 100% standards based Web Components that run in every browser.
-
-- Link to the project: **[HERE](https://kind-meadow-01093c903.azurestaticapps.net/)**
-- GitHub repo: **[HERE](https://github.com/manekinekko/stencil-swa)**
-
-> Stacks Used: `stencil.js, azure static web apps`
-
----
