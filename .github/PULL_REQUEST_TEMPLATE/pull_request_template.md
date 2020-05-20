@@ -1,6 +1,6 @@
 # Checklist for Pull Request
 
-> 🚨Please review the **[guidelines for contributing](../../CONTRIBUTING)** to this repository.
+> 🚨Please review the **[guidelines for contributing](../../CONTRIBUTING.md)** to this repository.
 
 ## 🎉 Instructions for adding a new Project in the Repository 
 
@@ -25,7 +25,7 @@
 
 ```md
 - [Gatsby Projects](#gatsby-projects)
-  - [Svelte Todo App](#sveltejs-todo-app)
+  - [Gatsby Todo App](#gatsby-todo-app)
 ```
 
 2. Now include all the informations as you can see below (i.e):
@@ -52,4 +52,4 @@
 
 Please describe your Pull Request.
 
-💔Thank you!
+❤️ Thank you!
