@@ -1,10 +1,10 @@
-# Azure Static Web Apps Gallery Sample Projects
+# Azure Static Web Apps Gallery Community Projects
 
-A gallery of sample projects in JavaScript/Node.js and frameworks/Jamstack site generators deployed in **[Azure Static Web Apps](https://docs.microsoft.com/azure/static-web-apps/?WT.mc_id=staticwebapps-github-cxa)**.
+A gallery of awesome projects built and deployed in **[Azure Static Web Apps](https://docs.microsoft.com/azure/static-web-apps/?WT.mc_id=staticwebapps-github-cxa)**.
 
 ## 🔥 Submit your Projects 
 
-Would you like to include your project hosted/deployed on **[Azure Static Web Apps](https://docs.microsoft.com/azure/static-web-apps/?WT.mc_id=staticwebapps-github-cxa)** on our gallery of samples? If so, just follow the **[Checklist for Pull Request](./.github/PULL_REQUEST_TEMPLATE/pull_request_template.md)**, which as soon as possible we will include your deployed project in our repository! 
+Would you like to include your projects to this gallery? Follow the **[Checklist for Pull Request](./.github/PULL_REQUEST_TEMPLATE/pull_request_template.md)**.
 
 ## 💻 Projects 
 
