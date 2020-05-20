@@ -14,6 +14,7 @@ Would you like to include your projects to this gallery? Follow the **[Checklist
   - [Angular AppStore](#angular-appstore)
   - [ngxtools: Angular Package Registry](#ngxtools-angular-package-registry)
   - [meme4fun: Angular App to generate programmer memes](#meme-4-fun)
+  - [Angular Server Side Rendering](#angular-server-side-rendering)
 - [Scully Projects](#scully-projects)
   - [PWA Blog](#pwa-blog)
 - [Hugo Projects](#hugo-projects)
@@ -105,6 +106,19 @@ Meme4Fun is an app to create custom programming memes from a picture and it also
 - GitHub repo: **[HERE](https://github.com/sajeetharan/meme4fun)**
 
 > Stacks Used: `angular, typescript, azure static web apps, material design, Azure Cognitive services`
+
+### **[Angular Server Side Rendering](https://blue-bay-00cc1f303.azurestaticapps.net/)**
+
+<p align="center">
+  <img src="./media/angular-ssr.png" alt="Angular server-side prerendered app" width="100%">
+</p>
+
+A prerendred Angular application built with Angular universal (aka. @angular/platform-server).
+
+- Link to the project: **[HERE](https://blue-bay-00cc1f303.azurestaticapps.net/)**
+- GitHub repo: **[HERE](https://github.com/manekinekko/angular-ssr-swa)**
+
+> Stacks Used: `angular, typescript, azure static web apps, server-side rendering`
 
 ---
 
