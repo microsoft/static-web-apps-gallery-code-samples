@@ -92,7 +92,7 @@ NgxTools is an NPM registry clone made only for Angular packages. You can access
 ### **[Meme4Fun](https://lively-forest-0fd67f010.azurestaticapps.net/)**
 
 <p align="center">
-  <img src="./media/meme4fun.jpg" alt="Meme generator app" width="400px">
+  <img src="./media/meme4fun.gif" alt="Meme generator app" width="400px">
 </p>
 
 Meme4Fun is an app to create custom programming memes from a picture and it also identifies features of people in the image.
