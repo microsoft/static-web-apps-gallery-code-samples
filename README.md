@@ -34,6 +34,8 @@ Would you like to include your projects to this gallery? Follow the **[Checklist
 - [VuePress Projects](#vuepress-projects)
   - [Nitro Workshop](#nitro-workshop)
   - [Peacock for Visual Studio Code Documentation](#peacock-for-visual-studio-code-documentation)
+- [Stencil Projects](#stencil-projects)
+  - [Stencil Starter App](#stencil-starter-app)
 
 ## Angular Projects
 
@@ -286,5 +288,22 @@ Peacock is a Visual Studio Code extension with 700,000+ installations. It subtly
 - **[Install the Peacock Extension](https://marketplace.visualstudio.com/items?itemName=johnpapa.vscode-peacock&wt.mc_id=staticwebapps-github-jopapa)**
 
 > Stacks Used: `vuepress, azure static web apps, nodejs`
+
+---
+
+## Stencil Projects
+
+### **[Stencil Starter App](https://kind-meadow-01093c903.azurestaticapps.net/)**
+
+<p align="center">
+  <img width="100%" alt="Stencil Starter App" src="./media/stencil.png">
+<p>
+
+Stencil is a toolchain for building reusable, scalable Design Systems. Generate small, blazing fast, and 100% standards based Web Components that run in every browser.
+
+- Link to the project: **[HERE](https://kind-meadow-01093c903.azurestaticapps.net/)**
+- GitHub repo: **[HERE](https://github.com/manekinekko/stencil-swa)**
+
+> Stacks Used: `stencil.js, azure static web apps`
 
 ---
