@@ -193,7 +193,7 @@ Hexa is the ultimate companion for the Azure CLI. It allows you to seamlessly co
 - Link to the project: **[HERE](https://www.hexa.run)**
 - GitHub repo: **[HERE](https://github.com/manekinekko/hexa/)**
 
-> Stacks Used: `html, javascript`
+> Stacks Used: `html, css, javascript`
 
 ---
 
