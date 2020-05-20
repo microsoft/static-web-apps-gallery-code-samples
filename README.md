@@ -19,6 +19,8 @@ Would you like to include your project hosted/deployed on **[Azure Static Web Ap
   - [ngVikings 2020: A free online conference for Angular developers](#ngvikings-2020-a-free-online-conference-for-angular-developers)
 - [React.js Projects](#reactjs-projects)
   - [Sunrise Standup](#sunrise-standup)
+- [Gatsby.js Projects](#gatsbyjs-projects)
+  - [Simple Starter](#gatsby-starter)
 - [Svelte Projects](#sveltejs-projects)
   - [Svelte Todo App](#sveltejs-todo-app)
 - [Vanilla HTML/JavaScript Projects](#html-projects)
@@ -136,6 +138,21 @@ A social platform for teams to post 15 second status update videos. Videos are u
 
 - Link to the project: **[HERE](https://www.sunrisestandup.com)**
 - GitHub repo: **[HERE](https://github.com/sunrise-standup/sunrise-standup)**
+
+---
+
+## Gatsby.js Projects
+
+### **[Simple Starter](https://jolly-tree-003047c03.azurestaticapps.net/)**
+
+![preview image for gatsby starter](media/gatsby_starter.png)
+
+A very simple starter scaffolded using the gatsby.js framework.
+
+> Stacks Used: `reactjs, azure static web apps, gatsbyjs`
+
+- Link to the project: **[HERE](https://jolly-tree-003047c03.azurestaticapps.net/)**
+- GitHub repo: **[HERE](https://github.com/floAr/gatsby-starter-azure_swa)**
 
 ---
 
