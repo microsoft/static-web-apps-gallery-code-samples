@@ -15,6 +15,8 @@ Would you like to include your projects to this gallery? Follow the **[Checklist
   - [ngxtools: Angular Package Registry](#ngxtools-angular-package-registry)
   - [meme4fun: Angular App to generate programmer memes](#meme4fun)
   - [Angular Server Side Rendering](#angular-server-side-rendering)
+- [Eleventy](#eleventy)
+  - [Eleventy Blog Starter](#eleventy-blog-starter)
 - [Gatsby.js](#gatsbyjs)
   - [Simple Starter](#gatsbyjs-starter)
 - [Hugo](#hugo)
@@ -119,6 +121,24 @@ A prerendred Angular application built with Angular universal (aka. @angular/pla
 - GitHub repo: **[HERE](https://github.com/manekinekko/angular-ssr-swa)**
 
 > Stacks Used: `angular, typescript, azure static web apps, server-side rendering`
+
+---
+
+## Eleventy
+
+### **[Eleventy Blog Starter](https://zealous-wave-0ec9a1203.azurestaticapps.net/)**
+
+<p align="center">
+  <img src="./media/11ty.png" alt="Eleventy starter" width="100%">
+</p>
+
+A base blog scaffolded using the Eleventy [base blog starter](https://github.com/11ty/eleventy-base-blog).
+
+> Stacks Used: `eleventy, html, css, javascript, azure static web apps`
+
+- Link to the project: **[HERE](https://zealous-wave-0ec9a1203.azurestaticapps.net/)**
+- GitHub repo: **[HERE](https://github.com/manekinekko/11ty-blog-swa)**
+- Author: [@manekinekko](https://twitter.com/manekinekko)
 
 ---
 
