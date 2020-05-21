@@ -33,7 +33,7 @@ If you are including a new technology not listed in the README, please follow th
 1. Under the **Projects** section, update the table of content and include the new technology.
 1. **Make you respect the alphabetical order**
 1. Add your application name as a sub-list.
-1. **Make sure you use the same acnhors that point to the app information (see blow)**
+1. **Make sure you use the same acnhors that point to the app information (see above)**
 
 ```md
 - [Gatsby](#gatsby)
