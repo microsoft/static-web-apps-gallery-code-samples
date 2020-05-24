@@ -15,6 +15,7 @@ Would you like to include your projects to this gallery? Follow the **[Checklist
   - [ngxtools: Angular Package Registry](#ngxtools-angular-package-registry)
   - [meme4fun: Angular App to generate programmer memes](#meme4fun)
   - [Angular Server Side Rendering](#angular-server-side-rendering)
+  - [Shop at Home](#shop-at-home)
 - [Eleventy](#eleventy)
   - [Eleventy Blog Starter](#eleventy-blog-starter)
 - [Gatsby.js](#gatsbyjs)
@@ -22,12 +23,14 @@ Would you like to include your projects to this gallery? Follow the **[Checklist
 - [Hugo](#hugo)
   - [ngVikings 2020: A free online conference for Angular developers](#ngvikings-2020-a-free-online-conference-for-angular-developers)
 - [React.js](#reactjs)
+  - [Shop at Home](#shop-at-home)
   - [Sunrise Standup](#sunrise-standup)
 - [Stencil](#stencil)
   - [Stencil Starter App](#stencil-starter-app)
 - [Scully](#scully)
   - [PWA Blog](#pwa-blog)
 - [Svelte](#svelte)
+  - [Shop at Home](#shop-at-home)
   - [Svelte Todo App](#svelte-todo-app)
 - [Vanilla HTML JavaScript CSS](#vanilla-html-javascript-css)
   - [Azure SWAG Demo: A Positive Thought For Your Day](#azure-swag-demo-a-positive-thought-for-your-day)
@@ -35,6 +38,7 @@ Would you like to include your projects to this gallery? Follow the **[Checklist
   - [Nitrooo landing page](#nitrooo-landing-page)
 - [Vue.js](#vuejs)
   - [PoseDance: A TikTok Trainer App](#posedance-a-tiktok-trainer-app)
+  - [Shop at Home](#shop-at-home)
   - [VS Code Can Do That](#vs-code-can-do-that)
 - [VuePress](#vuepress)
   - [Nitro Workshop](#nitro-workshop)
@@ -226,6 +230,15 @@ News and articles about Progressive Web Apps.
 ---
 
 ## Svelte
+
+### Shop at Home (<https://www.shopathome.dev>)
+
+"Shop at Home" is a sample app which is written in four variations: Angular, React, Svelte and Vue. It is shown in the Build 2020 video presentation.
+
+- **[Shop at Home](https://www.shopathome.dev)**
+- **[GitHub repo for Shop at Home](https://github.com/johnpapa/shopathome)**
+
+> Stacks Used: `vue, svelte, react, angular, azure static web apps`
 
 ### Svelte Todo App
 
