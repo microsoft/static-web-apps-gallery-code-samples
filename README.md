@@ -2,7 +2,7 @@
 
 A gallery of awesome projects built and deployed in **[Azure Static Web Apps](https://docs.microsoft.com/azure/static-web-apps/?WT.mc_id=staticwebapps-github-cxa)**.
 
-## 🔥 Submit your Projects 
+## 🔥 Submit your Projects
 
 Would you like to include your projects to this gallery? Follow the **[Checklist for Pull Request](./.github/PULL_REQUEST_TEMPLATE/pull_request_template.md)**.
 
@@ -16,6 +16,7 @@ Would you like to include your projects to this gallery? Follow the **[Checklist
   - [meme4fun: Angular App to generate programmer memes](#meme4fun)
   - [Angular Server Side Rendering](#angular-server-side-rendering)
   - [Shop at Home](#shop-at-home)
+  - [Rock paper scissors](#rock-paper-scissors)
 - [Eleventy](#eleventy)
   - [Eleventy Blog Starter](#eleventy-blog-starter)
 - [Gatsby.js](#gatsbyjs)
@@ -124,6 +125,20 @@ A prerendred Angular application built with Angular universal (aka. @angular/pla
 - GitHub repo: **[HERE](https://github.com/manekinekko/angular-ssr-swa)**
 
 > Stacks Used: `angular, typescript, azure static web apps, server-side rendering`
+
+### [Rock Paper Scissors](https://www.rockpaperscissors.cloud)
+
+<p align="center">
+  <img src="./media/angular-rock-paper-scissors.png" alt="Rock paper scissors" width="100%">
+</p>
+
+An Angular app for the well known game of rock paper scissors. The opponent player is simulated by an Azure Function.
+
+- Link to the project: **[HERE](https://www.rockpaperscissors.cloud/)**
+- GitHub repo: **[HERE](https://github.com/stuartleaver/rock-paper-scissors-static-web-app)**
+- Author: [@stuartleaveruk](https://twitter.com/stuartleaveruk)
+
+> Stacks Used: `angular, typescript, javascript, azure static web apps`
 
 ---
 
@@ -353,4 +368,3 @@ Peacock is a Visual Studio Code extension with 700,000+ installations. It subtly
 > Stacks Used: `vuepress, azure static web apps, nodejs`
 
 ---
-
