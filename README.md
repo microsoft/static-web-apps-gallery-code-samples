@@ -17,6 +17,7 @@ Would you like to include your projects to this gallery? Follow the **[Checklist
   - [Angular Server Side Rendering](#angular-server-side-rendering)
   - [Shop at Home](#shop-at-home)
   - [Rock paper scissors](#rock-paper-scissors)
+  - [Azure Vision: Object Detection App](#azure-vision)
 - [Eleventy](#eleventy)
   - [Eleventy Blog Starter](#eleventy-blog-starter)
 - [Gatsby.js](#gatsbyjs)
@@ -366,5 +367,20 @@ Peacock is a Visual Studio Code extension with 700,000+ installations. It subtly
 - **[Install the Peacock Extension](https://marketplace.visualstudio.com/items?itemName=johnpapa.vscode-peacock&wt.mc_id=staticwebapps-github-jopapa)**
 
 > Stacks Used: `vuepress, azure static web apps, nodejs`
+
+---
+
+### **[Azure Vision](https://delightful-flower-09099960f.azurestaticapps.net)**
+
+<p align="center">
+  <img src="./media/azure_vision.gif" alt="Azure Vision" width="100%">
+</p>
+
+**Azure Vision** is a **Object Detection App** which will detect the objects in given image using **Azure Cognitive Services (Computer Vision API)** built with ❤️ & **Angular**
+
+- Link to the project: **[HERE](https://delightful-flower-09099960f.azurestaticapps.net)**
+- GitHub repo: **[HERE](https://github.com/banujan6/azure-cognitive-service-computer-vision)**
+
+> Stacks Used: `Angular, Typescript, Azure Static Web Apps, Azure Cognitive Services`
 
 ---
