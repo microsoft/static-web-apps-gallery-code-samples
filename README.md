@@ -143,6 +143,21 @@ An Angular app for the well known game of rock paper scissors. The opponent play
 
 ---
 
+### **[Azure Vision](https://delightful-flower-09099960f.azurestaticapps.net)**
+
+<p align="center">
+  <img src="./media/azure_vision.gif" alt="Azure Vision" width="100%">
+</p>
+
+**Azure Vision** is a **Object Detection App** which will detect the objects in given image using **Azure Cognitive Services (Computer Vision API)** built with ❤️ & **Angular**
+
+- Link to the project: **[HERE](https://delightful-flower-09099960f.azurestaticapps.net)**
+- GitHub repo: **[HERE](https://github.com/banujan6/azure-cognitive-service-computer-vision)**
+
+> Stacks Used: `Angular, Typescript, Azure Static Web Apps, Azure Cognitive Services`
+
+---
+
 ## Eleventy
 
 ### **[Eleventy Blog Starter](https://zealous-wave-0ec9a1203.azurestaticapps.net/)**
@@ -370,17 +385,3 @@ Peacock is a Visual Studio Code extension with 700,000+ installations. It subtly
 
 ---
 
-### **[Azure Vision](https://delightful-flower-09099960f.azurestaticapps.net)**
-
-<p align="center">
-  <img src="./media/azure_vision.gif" alt="Azure Vision" width="100%">
-</p>
-
-**Azure Vision** is a **Object Detection App** which will detect the objects in given image using **Azure Cognitive Services (Computer Vision API)** built with ❤️ & **Angular**
-
-- Link to the project: **[HERE](https://delightful-flower-09099960f.azurestaticapps.net)**
-- GitHub repo: **[HERE](https://github.com/banujan6/azure-cognitive-service-computer-vision)**
-
-> Stacks Used: `Angular, Typescript, Azure Static Web Apps, Azure Cognitive Services`
-
----
