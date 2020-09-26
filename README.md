@@ -400,6 +400,9 @@ A sample *faceted search* user experience implementation for your [Azure Cogniti
 
 - Link to the project: **[HERE](https://lively-sand-033e9ec03.azurestaticapps.net/)**
 - GitHub repo: **[HERE](https://github.com/scale-tone/cognitive-search-static-web-apps-sample-ui)**
+- Author: [@tino_scale_tone](https://twitter.com/@tino_scale_tone)
 
 > Stacks Used: `react, nodejs, azure static web apps, azure functions`
-> Author Twitter (optional): [@tino_scale_tone](https://twitter.com/@tino_scale_tone)
+
+---
+
