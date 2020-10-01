@@ -18,6 +18,10 @@ Would you like to include your projects to this gallery? Follow the **[Checklist
   - [Shop at Home](#shop-at-home)
   - [Rock paper scissors](#rock-paper-scissors)
   - [Azure Vision: Object Detection App](#azure-vision)
+- [Azure Cognitive Search](#azure-cognitive-search)
+  - [Cognitive Search Static Apps Demo](#cognitive-search-static-apps-demo)
+- [Azure Functions](#azure-functions)
+  - [Cognitive Search Static Apps Demo](#cognitive-search-static-apps-demo)
 - [Eleventy](#eleventy)
   - [Eleventy Blog Starter](#eleventy-blog-starter)
 - [Gatsby.js](#gatsbyjs)
@@ -27,6 +31,7 @@ Would you like to include your projects to this gallery? Follow the **[Checklist
 - [React.js](#reactjs)
   - [Shop at Home](#shop-at-home)
   - [Sunrise Standup](#sunrise-standup)
+  - [Cognitive Search Static Apps Demo](#cognitive-search-static-apps-demo)
 - [Stencil](#stencil)
   - [Stencil Starter App](#stencil-starter-app)
 - [Scully](#scully)
@@ -382,6 +387,22 @@ Peacock is a Visual Studio Code extension with 700,000+ installations. It subtly
 - **[Install the Peacock Extension](https://marketplace.visualstudio.com/items?itemName=johnpapa.vscode-peacock&wt.mc_id=staticwebapps-github-jopapa)**
 
 > Stacks Used: `vuepress, azure static web apps, nodejs`
+
+---
+
+### [Cognitive Search Static Apps Demo](https://lively-sand-033e9ec03.azurestaticapps.net/)
+
+<p align="center">
+  <img src="./media/cognitive-search-demo.png" alt="Cognitive Search Static Apps Demo" width="100%">
+</p>
+
+A sample *faceted search* user experience implementation for your [Azure Cognitive Search](https://azure.microsoft.com/en-us/services/search/) index. Similar to the [official demo app](https://docs.microsoft.com/en-us/azure/search/search-create-app-portal), but a bit more modern. Fork the [repo](https://github.com/scale-tone/cognitive-search-static-web-apps-sample-ui), [deploy](https://docs.microsoft.com/en-us/azure/static-web-apps/getting-started?tabs=react#create-a-static-web-app) it to your Static Web Apps instance, connect it to your Cognitive Search index with a set of [config settings](https://github.com/scale-tone/cognitive-search-static-web-apps-sample-ui#config-settings), optionally [configure authN/authZ](https://docs.microsoft.com/en-us/azure/static-web-apps/authentication-authorization) - and you get a fully functioning search UI, with facet filters and geovisualization. The [live demo](https://lively-sand-033e9ec03.azurestaticapps.net/) is pointed to [the official Azure Cognitive Search Sample Data](https://docs.microsoft.com/en-us/samples/azure-samples/azure-search-sample-data/azure-search-sample-data/) index, and you can start with the same. Feel free to use as a template for your own implementations.
+
+- Link to the project: **[HERE](https://lively-sand-033e9ec03.azurestaticapps.net/)**
+- GitHub repo: **[HERE](https://github.com/scale-tone/cognitive-search-static-web-apps-sample-ui)**
+- Author: [@tino_scale_tone](https://twitter.com/@tino_scale_tone)
+
+> Stacks Used: `react, nodejs, azure static web apps, azure functions`
 
 ---
 
