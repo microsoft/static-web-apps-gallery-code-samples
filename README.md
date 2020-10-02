@@ -22,6 +22,8 @@ Would you like to include your projects to this gallery? Follow the **[Checklist
   - [Cognitive Search Static Apps Demo](#cognitive-search-static-apps-demo)
 - [Azure Functions](#azure-functions)
   - [Cognitive Search Static Apps Demo](#cognitive-search-static-apps-demo)
+- [Docusaurus](#docusaurus)
+  - [Docusaurus Starter](#docusaurus-starter) 
 - [Eleventy](#eleventy)
   - [Eleventy Blog Starter](#eleventy-blog-starter)
 - [Gatsby.js](#gatsbyjs)
@@ -160,6 +162,24 @@ An Angular app for the well known game of rock paper scissors. The opponent play
 - GitHub repo: **[HERE](https://github.com/banujan6/azure-cognitive-service-computer-vision)**
 
 > Stacks Used: `Angular, Typescript, Azure Static Web Apps, Azure Cognitive Services`
+
+---
+
+## Docusaurus
+
+### **[Docusaurus Starter](https://ambitious-pebble-02b2d3010.azurestaticapps.net/)**
+
+<p align="center">
+  <img src="./media/docusaurus-starter.PNG" alt="Docusaurus starter" width="100%">
+</p>
+
+A simple starter template for creating documentation website using the Docusaurus framework.
+
+> Stacks Used: `reactjs, azure static web apps`
+
+- Link to the project: **[HERE](https://ambitious-pebble-02b2d3010.azurestaticapps.net/)**
+- GitHub repo: **[HERE](https://github.com/sumitkharche/docusaurus-swa-app)**
+- Author: [@sumitkharche01](https://twitter.com/sumitkharche01)
 
 ---
 
