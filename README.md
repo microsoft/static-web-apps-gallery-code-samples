@@ -75,8 +75,8 @@ Catsify is a simple and creative app that allows you to find a unique name for y
 
 xLayers is an online Web application which aims to bridge the gap between designers and developers. Its mission is to allow both the Design and Development worlds to collaborate and iterate fast. Simply upload your design to xLayers and instantly scaffolds code for many popular frameworks1 and libraries such as Angular, Vue, React, Stencil...etc.
 
-- Link to the project: **[HERE](https://www.xlayers.design/)**
-- GitHub repo: **[HERE](https://github.com/xlayers/xlayers)**
+- **[xLayers demo](https://www.xlayers.design/)**
+- **[xLayers GitHub repo](https://github.com/xlayers/xlayers)**
 
 > Stacks Used: `angular, typescript, azure static web apps`
 
@@ -88,8 +88,8 @@ xLayers is an online Web application which aims to bridge the gap between design
 
 Angular AppStore is a reference app featuring a full search user experience using Algolia. Users can enjoy the fast and smooth experience.
 
-- Link to the project: **[HERE](https://www.searchapp.store/)**
-- GitHub repo: **[HERE](https://github.com/manekinekko/angular-search-experience)**
+- **[Angular AppStore demo](https://www.searchapp.store/)**
+- **[Angular AppStore repo](https://github.com/manekinekko/angular-search-experience)**
 
 > Stacks Used: `angular, typescript, azure static web apps, material design, algolia`
 
@@ -101,8 +101,8 @@ Angular AppStore is a reference app featuring a full search user experience usin
 
 NgxTools is an NPM registry clone made only for Angular packages. You can access hundred thousand of packages built specifically for Angular and available on NPM. You can access their metadata information, and even open them directly on StackBlitz.
 
-- Link to the project: **[HERE](https://www.ngx.tools/)**
-- GitHub repo: **[HERE](https://github.com/ngxtools/ngxtools)**
+- **[NgxTools project](https://www.ngx.tools/)**
+- **[NgxTools repo](https://github.com/ngxtools/ngxtools)**
 
 > Stacks Used: `angular, typescript, azure static web apps, pwa, algolia`
 
@@ -114,8 +114,8 @@ NgxTools is an NPM registry clone made only for Angular packages. You can access
 
 Meme4Fun is an app to create custom programming memes from a picture and it also identifies features of people in the image.
 
-- Link to the project: **[HERE](https://lively-forest-0fd67f010.azurestaticapps.net/)**
-- GitHub repo: **[HERE](https://github.com/sajeetharan/meme4fun)**
+- **[Meme4Fun project](https://lively-forest-0fd67f010.azurestaticapps.net/)**
+- **[Meme4Fun repo](https://github.com/sajeetharan/meme4fun)**
 
 > Stacks Used: `angular, typescript, azure static web apps, material design, Azure Cognitive services`
 
@@ -127,8 +127,8 @@ Meme4Fun is an app to create custom programming memes from a picture and it also
 
 A prerendred Angular application built with Angular universal (aka. @angular/platform-server).
 
-- Link to the project: **[HERE](https://blue-bay-00cc1f303.azurestaticapps.net/)**
-- GitHub repo: **[HERE](https://github.com/manekinekko/angular-ssr-swa)**
+- **[Angular universal project](https://blue-bay-00cc1f303.azurestaticapps.net/)**
+- **[Angular universal repo](https://github.com/manekinekko/angular-ssr-swa)**
 
 > Stacks Used: `angular, typescript, azure static web apps, server-side rendering`
 
@@ -140,9 +140,9 @@ A prerendred Angular application built with Angular universal (aka. @angular/pla
 
 An Angular app for the well known game of rock paper scissors. The opponent player is simulated by an Azure Function.
 
-- Link to the project: **[HERE](https://www.rockpaperscissors.cloud/)**
-- GitHub repo: **[HERE](https://github.com/stuartleaver/rock-paper-scissors-static-web-app)**
-- Author: [@stuartleaveruk](https://twitter.com/stuartleaveruk)
+- **[Rock-Paper-Scissors demo](https://www.rockpaperscissors.cloud/)**
+- **[Rock-Paper-Scissors repo](https://github.com/stuartleaver/rock-paper-scissors-static-web-app)**
+- **[Author: @stuartleaveruk](https://twitter.com/stuartleaveruk)**
 
 > Stacks Used: `angular, typescript, javascript, azure static web apps`
 
@@ -156,8 +156,8 @@ An Angular app for the well known game of rock paper scissors. The opponent play
 
 **Azure Vision** is a **Object Detection App** which will detect the objects in given image using **Azure Cognitive Services (Computer Vision API)** built with ❤️ & **Angular**
 
-- Link to the project: **[HERE](https://delightful-flower-09099960f.azurestaticapps.net)**
-- GitHub repo: **[HERE](https://github.com/banujan6/azure-cognitive-service-computer-vision)**
+- **[Azure Vision demo](https://delightful-flower-09099960f.azurestaticapps.net)**
+- **[Azure Visio repo](https://github.com/banujan6/azure-cognitive-service-computer-vision)**
 
 > Stacks Used: `Angular, Typescript, Azure Static Web Apps, Azure Cognitive Services`
 
@@ -175,13 +175,13 @@ A base blog scaffolded using the Eleventy [base blog starter](https://github.com
 
 > Stacks Used: `eleventy, html, css, javascript, azure static web apps`
 
-- Link to the project: **[HERE](https://zealous-wave-0ec9a1203.azurestaticapps.net/)**
-- GitHub repo: **[HERE](https://github.com/manekinekko/11ty-blog-swa)**
-- Author: [@manekinekko](https://twitter.com/manekinekko)
+- **[Eleventy demo](https://zealous-wave-0ec9a1203.azurestaticapps.net/)**
+- **[Eleventy repo](https://github.com/manekinekko/11ty-blog-swa)**
+- **[Author @manekinekko](https://twitter.com/manekinekko)**
 
 ---
 
-## Gatsby.js
+## Gatsby
 
 ### **[Gatsbyjs Starter](https://jolly-tree-003047c03.azurestaticapps.net/)**
 
@@ -189,12 +189,12 @@ A base blog scaffolded using the Eleventy [base blog starter](https://github.com
   <img src="./media/gatsby_starter.png" alt="Gatsby starter" width="100%">
 </p>
 
-A very simple starter scaffolded using the gatsby.js framework.
+A very simple starter scaffolded using the Gatsby framework.
 
 > Stacks Used: `reactjs, azure static web apps, gatsbyjs`
 
-- Link to the project: **[HERE](https://jolly-tree-003047c03.azurestaticapps.net/)**
-- GitHub repo: **[HERE](https://github.com/floAr/gatsby-starter-azure_swa)**
+- **[Gatsby demo](https://jolly-tree-003047c03.azurestaticapps.net/)**
+- **[Gatsby repository](https://github.com/floAr/gatsby-starter-azure_swa)**
 
 ---
 
@@ -208,8 +208,8 @@ A very simple starter scaffolded using the gatsby.js framework.
 
 ngVikings is a non-profit, non-commercial, 100% community-driven event comprised of many Nordic Angular groups with more than 6500 active members in total.
 
-- Link to the project: **[HERE](https://www.ngvikings.org/)**
-- GitHub repo: **[HERE](https://github.com/ngvikings/ngvikings-2020)**
+- **[ngVikings site](https://www.ngvikings.org/)**
+- **[ngVikings repo](https://github.com/ngvikings/ngvikings-2020)**
 
 > Stacks Used: `hugo, azure static web apps, workbox`
 
@@ -225,8 +225,8 @@ A social platform for teams to post 15 second status update videos. Videos are u
 
 > Stacks Used: `reactjs, azure static web apps, azure storage, azure cognitive services, azure maps`
 
-- Link to the project: **[HERE](https://www.sunrisestandup.com)**
-- GitHub repo: **[HERE](https://github.com/sunrise-standup/sunrise-standup)**
+- **[Sunrise Standup project](https://www.sunrisestandup.com)**
+- **[Sunrise Standup repo](https://github.com/sunrise-standup/sunrise-standup)**
 
 ---
 
@@ -240,8 +240,8 @@ A social platform for teams to post 15 second status update videos. Videos are u
 
 Stencil is a toolchain for building reusable, scalable Design Systems. Generate small, blazing fast, and 100% standards based Web Components that run in every browser.
 
-- Link to the project: **[HERE](https://kind-meadow-01093c903.azurestaticapps.net/)**
-- GitHub repo: **[HERE](https://github.com/manekinekko/stencil-swa)**
+- **[Stencil demo](https://kind-meadow-01093c903.azurestaticapps.net/)**
+- **[Stencil repo](https://github.com/manekinekko/stencil-swa)**
 
 > Stacks Used: `stencil.js, azure static web apps`
 
@@ -257,8 +257,8 @@ Stencil is a toolchain for building reusable, scalable Design Systems. Generate 
 
 News and articles about Progressive Web Apps.
 
-- Link to the project: **[HERE](https://www.webmax.ru/)**
-- GitHub repo: **[HERE](https://github.com/webmaxru/webmax.ru)**
+- **[Progressive web apps information](https://www.webmax.ru/)**
+- **[Progressive web apps repo](https://github.com/webmaxru/webmax.ru)**
 
 > Stacks Used: `angular, scully, azure static web apps, workbox, pwa`
 
@@ -276,8 +276,8 @@ News and articles about Progressive Web Apps.
 
 "Shop at Home" is a sample app which is written in four variations: Angular, React, Svelte and Vue. It is shown in the Build 2020 video presentation.
 
-- **[Shop at Home](https://www.shopathome.dev)**
-- **[GitHub repo for Shop at Home](https://github.com/johnpapa/shopathome)**
+- **[Shop at Home demo](https://www.shopathome.dev)**
+- **[Shop at Home repo](https://github.com/johnpapa/shopathome)**
 
 > Stacks Used: `svelte, react, angular, nodejs, azure static web apps`
 
@@ -294,8 +294,8 @@ News and articles about Progressive Web Apps.
 This is a simple barebone demo for [Azure SWAG](https://docs.microsoft.com/azure/static-web-apps?WT.mc_id=staticwebapps-github-yolasors) (**S**tatic **W**eb **A**pps on **G**itHub).
 You can use it as a template for your own apps.
 
-- Link to the project: **[HERE](https://aka.ms/swag-demo)**
-- GitHub repo: **[HERE](https://github.com/sinedied/azure-swag/)**
+- **[SWAG demo](https://aka.ms/swag-demo)**
+- **[SWAG repo](https://github.com/sinedied/azure-swag/)**
 
 > Stacks Used: `html, javascript, nodejs, azure static web apps`
 
@@ -307,8 +307,8 @@ You can use it as a template for your own apps.
 
 Nitro is a heavily opinionated template for building Serverless applications with NestJS, the fastest-growing NodeJS framework in the world by github stars.
 
-- Link to the project: **[HERE](https://www.nitr.ooo/)**
-- GitHub repo: **[HERE](https://github.com/nitro-stack/website)**
+- **[Nitrooo project](https://www.nitr.ooo/)**
+- **[Nitrooo repo](https://github.com/nitro-stack/website)**
 
 > Stacks Used: `javascript, css, html`
 
@@ -322,8 +322,8 @@ Nitro is a heavily opinionated template for building Serverless applications wit
 
 Hexa is the ultimate companion for the Azure CLI. It allows you to seamlessly configure, setup and deploy to different Azure services such as Resource Groups, Storage accounts, Hosting, Azure Functions and Databases (CosmosDB and Table Storage) and more.
 
-- Link to the project: **[HERE](https://www.hexa.run)**
-- GitHub repo: **[HERE](https://github.com/manekinekko/hexa/)**
+- **[Hexa project](https://www.hexa.run)**
+- **[Hexa repo](https://github.com/manekinekko/hexa/)**
 
 > Stacks Used: `html, css, javascript`
 
@@ -339,8 +339,8 @@ Hexa is the ultimate companion for the Azure CLI. It allows you to seamlessly co
 
 Using PoseDance, a Machine-Learning library that can discern body positions, this app allows you to perfect your dance moves via your webcam. Match your dance, get a high score! Also features PlayFab and Azure Functions for the backend service.
 
-- Link to the project: **[HERE](https://proud-moss-070616b1e.azurestaticapps.net/)**
-- GitHub repo: **[HERE](https://github.com/jlooper/posedance)**
+- **[PoseDance demo](https://proud-moss-070616b1e.azurestaticapps.net/)**
+- **[PoseDemo repo](https://github.com/jlooper/posedance)**
 
 > Stacks Used: `vuejs, azure static web apps, machine learning, nodejs, javascript, azure functions`
 
@@ -352,8 +352,8 @@ Using PoseDance, a Machine-Learning library that can discern body positions, thi
 
 All the best things about VS Code that nobody ever bothered to show you.
 
-- Link to the project: **[HERE](https://www.vscodecandothat.com)**
-- GitHub repo: **[HERE](https://github.com/burkeholland/vscodecandothat/)**
+- **[VS Code Can Do That demo](https://www.vscodecandothat.com)**
+- **[VS Code Can Do That repo](https://github.com/burkeholland/vscodecandothat/)**
 
 > Stacks Used: `vuejs, azure static web apps`
 
@@ -369,8 +369,8 @@ All the best things about VS Code that nobody ever bothered to show you.
 
 Online workshop built with Vuepress to learn how to build a backend using NestJS. This is a practical workshop where you'll learn "hands-on" by iteratively building an application from scratch using NestJS and Azure.
 
-- Link to the project: **[HERE](https://nitro-stack.github.io/nitro-workshop/)**
-- GitHub repo: **[HERE](https://github.com/nitro-stack/nitro-workshop)**
+- **[Nitro workshop](https://nitro-stack.github.io/nitro-workshop/)**
+- **[Nitro workshop repo](https://github.com/nitro-stack/nitro-workshop)**
 
 > Stacks Used: `vuepress, azure static web apps, nodejs, nestjs`
 
@@ -383,7 +383,7 @@ Online workshop built with Vuepress to learn how to build a backend using NestJS
 Peacock is a Visual Studio Code extension with 700,000+ installations. It subtly changes the color of your Visual Studio Code workspace. This is ideal when you have multiple VS Code instances, use VS Live Share, or use VS Code's Remote features, and you want to quickly identify your editor.
 
 - **[Peacock Documentation](https://www.peacockcode.dev)**
-- **[**GitHub repo for Peacock Documentation](https://github.com/johnpapa/vscode-peacock)**
+- **[GitHub repo for Peacock Documentation](https://github.com/johnpapa/vscode-peacock)**
 - **[Install the Peacock Extension](https://marketplace.visualstudio.com/items?itemName=johnpapa.vscode-peacock&wt.mc_id=staticwebapps-github-jopapa)**
 
 > Stacks Used: `vuepress, azure static web apps, nodejs`
@@ -396,13 +396,10 @@ Peacock is a Visual Studio Code extension with 700,000+ installations. It subtly
   <img src="./media/cognitive-search-demo.png" alt="Cognitive Search Static Apps Demo" width="100%">
 </p>
 
-A sample *faceted search* user experience implementation for your [Azure Cognitive Search](https://azure.microsoft.com/en-us/services/search/) index. Similar to the [official demo app](https://docs.microsoft.com/en-us/azure/search/search-create-app-portal), but a bit more modern. Fork the [repo](https://github.com/scale-tone/cognitive-search-static-web-apps-sample-ui), [deploy](https://docs.microsoft.com/en-us/azure/static-web-apps/getting-started?tabs=react#create-a-static-web-app) it to your Static Web Apps instance, connect it to your Cognitive Search index with a set of [config settings](https://github.com/scale-tone/cognitive-search-static-web-apps-sample-ui#config-settings), optionally [configure authN/authZ](https://docs.microsoft.com/en-us/azure/static-web-apps/authentication-authorization) - and you get a fully functioning search UI, with facet filters and geovisualization. The [live demo](https://lively-sand-033e9ec03.azurestaticapps.net/) is pointed to [the official Azure Cognitive Search Sample Data](https://docs.microsoft.com/en-us/samples/azure-samples/azure-search-sample-data/azure-search-sample-data/) index, and you can start with the same. Feel free to use as a template for your own implementations.
+A sample *faceted search* user experience implementation for your [Azure Cognitive Search](https://azure.microsoft.com/services/search/) index. Similar to the [official demo app](https://docs.microsoft.com/azure/search/search-create-app-portal), but a bit more modern. Fork the [repo](https://github.com/scale-tone/cognitive-search-static-web-apps-sample-ui), [deploy](https://docs.microsoft.com/azure/static-web-apps/getting-started?tabs=react#create-a-static-web-app) it to your Static Web Apps instance, connect it to your Cognitive Search index with a set of [config settings](https://github.com/scale-tone/cognitive-search-static-web-apps-sample-ui#config-settings), optionally [configure authN/authZ](https://docs.microsoft.com/azure/static-web-apps/authentication-authorization) - and you get a fully functioning search UI, with facet filters and geovisualization. The [live demo](https://lively-sand-033e9ec03.azurestaticapps.net/) is pointed to [the official Azure Cognitive Search Sample Data](https://docs.microsoft.com/samples/azure-samples/azure-search-sample-data/azure-search-sample-data/) index, and you can start with the same. Feel free to use as a template for your own implementations.
 
-- Link to the project: **[HERE](https://lively-sand-033e9ec03.azurestaticapps.net/)**
-- GitHub repo: **[HERE](https://github.com/scale-tone/cognitive-search-static-web-apps-sample-ui)**
-- Author: [@tino_scale_tone](https://twitter.com/@tino_scale_tone)
+- **[Lively Sand demo](https://lively-sand-033e9ec03.azurestaticapps.net/)**
+- **[Lively Sand repo](https://github.com/scale-tone/cognitive-search-static-web-apps-sample-ui)**
+- **[Author: @tino_scale_tone](https://twitter.com/@tino_scale_tone)**
 
 > Stacks Used: `react, nodejs, azure static web apps, azure functions`
-
----
-
