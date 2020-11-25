@@ -8,49 +8,47 @@ Would you like to include your projects to this gallery? Follow the **[Checklist
 
 ## 💻 Projects (by technology)
 
-- [Angular](#angular)
-  - [Catsify: A cat names generator](#catsify-a-cat-names-generator)
-  - [xLayers: Generate Code from SketchApp](#xlayers-generate-code-from-sketchapp)
-  - [Angular AppStore](#angular-appstore)
-  - [ngxtools: Angular Package Registry](#ngxtools-angular-package-registry)
-  - [meme4fun: Angular App to generate programmer memes](#meme4fun)
-  - [Angular Server Side Rendering](#angular-server-side-rendering)
-  - [Shop at Home](#shop-at-home)
-  - [Rock paper scissors](#rock-paper-scissors)
-  - [Azure Vision: Object Detection App](#azure-vision)
-- [Azure Cognitive Search](#azure-cognitive-search)
-  - [Cognitive Search Static Apps Demo](#cognitive-search-static-apps-demo)
-- [Azure Functions](#azure-functions)
-  - [Cognitive Search Static Apps Demo](#cognitive-search-static-apps-demo)
-- [Docusaurus](#docusaurus)
-  - [Docusaurus Starter](#docusaurus-starter) 
-- [Eleventy](#eleventy)
-  - [Eleventy Blog Starter](#eleventy-blog-starter)
-- [Gatsby.js](#gatsbyjs)
-  - [Simple Starter](#gatsbyjs-starter)
-- [Hugo](#hugo)
-  - [ngVikings 2020: A free online conference for Angular developers](#ngvikings-2020-a-free-online-conference-for-angular-developers)
-- [React.js](#reactjs)
-  - [Shop at Home](#shop-at-home)
-  - [Sunrise Standup](#sunrise-standup)
-  - [Cognitive Search Static Apps Demo](#cognitive-search-static-apps-demo)
-- [Stencil](#stencil)
-  - [Stencil Starter App](#stencil-starter-app)
-- [Scully](#scully)
-  - [PWA Blog](#pwa-blog)
-- [Svelte](#svelte)
-  - [Shop at Home](#shop-at-home)
-- [Vanilla HTML JavaScript CSS](#vanilla-html-javascript-css)
-  - [Azure SWAG Demo: A Positive Thought For Your Day](#azure-swag-demo-a-positive-thought-for-your-day)
-  - [Hexa CLI Landing Page](#hexa-cli-landing-page)
-  - [Nitrooo landing page](#nitrooo-landing-page)
-- [Vue.js](#vuejs)
-  - [PoseDance: A TikTok Trainer App](#posedance-a-tiktok-trainer-app)
-  - [Shop at Home](#shop-at-home)
-  - [VS Code Can Do That](#vs-code-can-do-that)
-- [VuePress](#vuepress)
-  - [Nitro Workshop](#nitro-workshop)
-  - [Peacock for Visual Studio Code Documentation](#peacock-for-visual-studio-code-documentation)
+- [Azure Static Web Apps Gallery Community Projects](#azure-static-web-apps-gallery-community-projects)
+  - [🔥 Submit your Projects](#-submit-your-projects)
+  - [💻 Projects (by technology)](#-projects-by-technology)
+  - [Angular](#angular)
+    - [**Catsify: A cat names generator**](#catsify-a-cat-names-generator)
+    - [**xLayers: Generate Code from SketchApp**](#xlayers-generate-code-from-sketchapp)
+    - [**Angular AppStore**](#angular-appstore)
+    - [**ngxtools: Angular Package Registry**](#ngxtools-angular-package-registry)
+    - [**Meme4Fun**](#meme4fun)
+    - [**Angular Server Side Rendering**](#angular-server-side-rendering)
+    - [Rock Paper Scissors](#rock-paper-scissors)
+    - [**Azure Vision**](#azure-vision)
+  - [Docusaurus](#docusaurus)
+    - [**Docusaurus Starter**](#docusaurus-starter)
+  - [Eleventy](#eleventy)
+    - [**Eleventy Blog Starter**](#eleventy-blog-starter)
+  - [Gatsby](#gatsby)
+    - [**Gatsbyjs Starter**](#gatsbyjs-starter)
+  - [Hugo](#hugo)
+    - [**ngVikings 2020: A free online conference for Angular developers**](#ngvikings-2020-a-free-online-conference-for-angular-developers)
+  - [Mongoose](#mongoose)
+    - [Azure Static Web Apps and Mongoose Starter Kit](#azure-static-web-apps-and-mongoose-starter-kit)
+  - [React.js](#reactjs)
+    - [**Sunrise Standup**](#sunrise-standup)
+  - [Stencil](#stencil)
+    - [**Stencil Starter App**](#stencil-starter-app)
+  - [Scully](#scully)
+    - [**PWA Blog**](#pwa-blog)
+  - [Svelte](#svelte)
+    - [**Shop at Home**](#shop-at-home)
+  - [Vanilla HTML JavaScript CSS](#vanilla-html-javascript-css)
+    - [**Azure SWAG Demo: A Positive Thought For Your Day**](#azure-swag-demo-a-positive-thought-for-your-day)
+    - [**Nitrooo landing page**](#nitrooo-landing-page)
+    - [**Hexa CLI Landing Page**](#hexa-cli-landing-page)
+  - [Vue.js](#vuejs)
+    - [**PoseDance: A TikTok Trainer App**](#posedance-a-tiktok-trainer-app)
+    - [**VS Code Can Do That**](#vs-code-can-do-that)
+  - [VuePress](#vuepress)
+    - [**Nitro Workshop**](#nitro-workshop)
+    - [**Peacock for Visual Studio Code Documentation**](#peacock-for-visual-studio-code-documentation)
+    - [Cognitive Search Static Apps Demo](#cognitive-search-static-apps-demo)
 
 ## Angular
 
@@ -232,6 +230,23 @@ ngVikings is a non-profit, non-commercial, 100% community-driven event comprised
 - **[ngVikings repo](https://github.com/ngvikings/ngvikings-2020)**
 
 > Stacks Used: `hugo, azure static web apps, workbox`
+
+---
+
+## Mongoose
+
+![Mongoose logo](media/mongoose.png)
+
+### [Azure Static Web Apps and Mongoose Starter Kit](https://github.com/GeekTrainer/aswa-student-starter-kit)
+
+![Preview image for Mongoose starter kit](media/mongoose-starter.png)
+
+Mongoose is the most popular ODM (object document mapper) for Node.js. This basic starter includes the necessary code and steps to create Azure Static Web Apps with Cosmos DB and Mongoose. No front-end framework is used, allowing you to update the site as needed.
+
+> Stacks Used: `mongoose, cosmos db, azure static web apps`
+
+- **[Mongoose Starter Kit repo](https://github.com/geektrainer/aswa-student-starter-kit)
+- **[Author: GeekTrainer](https://twitter.com/geektrainer)
 
 ---
 
