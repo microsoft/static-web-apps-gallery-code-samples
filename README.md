@@ -334,7 +334,7 @@ You can use it as a template for your own apps.
 
 > Stacks Used: `html, javascript, nodejs, azure static web apps`
 
-### **[Nitrooo landing page](https://www.nitr.ooo/)**
+### **[Nitrooo landing page](https://victorious-ocean-0337ef81e.azurestaticapps.net/)**
 
 <p align="center">
   <img src="./media/nitrooo.png" alt="Nitrooo App" width="100%">
@@ -342,7 +342,7 @@ You can use it as a template for your own apps.
 
 Nitro is a heavily opinionated template for building Serverless applications with NestJS, the fastest-growing NodeJS framework in the world by github stars.
 
-- **[Nitrooo project](https://www.nitr.ooo/)**
+- **[Nitrooo project](https://victorious-ocean-0337ef81e.azurestaticapps.net/)**
 - **[Nitrooo repo](https://github.com/nitro-stack/website)**
 
 > Stacks Used: `javascript, css, html`
