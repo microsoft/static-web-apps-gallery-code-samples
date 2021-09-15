@@ -20,6 +20,7 @@ Would you like to include your projects to this gallery? Follow the **[Checklist
     - [**Angular Server Side Rendering**](#angular-server-side-rendering)
     - [Rock Paper Scissors](#rock-paper-scissors)
     - [**Azure Vision**](#azure-vision)
+    - [**angular-swa-auth library demo**](#angular-swa-auth-library-demo)
   - [Docusaurus](#docusaurus)
     - [**Docusaurus Starter**](#docusaurus-starter)
   - [Eleventy](#eleventy)
@@ -160,6 +161,21 @@ An Angular app for the well known game of rock paper scissors. The opponent play
 - **[Azure Visio repo](https://github.com/banujan6/azure-cognitive-service-computer-vision)**
 
 > Stacks Used: `Angular, Typescript, Azure Static Web Apps, Azure Cognitive Services`
+
+---
+
+### [angular-swa-auth library demo](https://angular-swa-auth.codingdemo.co.uk/)
+
+<p align="center">
+  <img src="./media/angular-swa-auth.gif" alt="angular-swa-auth" width="100%">
+</p>
+
+Demo app showcasing the use of the npm package [angular-swa-auth](https://www.npmjs.com/package/@christianacca/angular-swa-auth).
+
+- **[angular-swa-auth demo site](https://angular-swa-auth.codingdemo.co.uk/)**
+- **[angular-swa-auth repo](https://github.com/christianacca/static-web-apps-auth)**
+
+> Stacks Used: `angular, typescript, storybook, compodoc, azure static web apps`
 
 ---
 
