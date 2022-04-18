@@ -17,12 +17,9 @@ Want to have your project listed in the gallery?
 
 The table showcases technologies for which projects were added - click the technology to visit the _section_ showcasing all its projects. If a project has a demo URL, the _IsLive_ column shows if that is still active (last-checked: **`Apr 18, 2022`**)
 
-
-
 | Technology | Project | Is Live |
 |:---|:---|:---|
-| [`Angular`](#Angular) | | |
-|  | [Catsify: A cat names generator](#catsify-a-cat-names-generator)| ✅ |
+| [`Angular`](#Angular) |  [Catsify: A cat names generator](#catsify-a-cat-names-generator)| ✅ |
 | | [xLayers: Generate Code from SketchApp](#xlayers-generate-code-from-sketchapp) | 🅇 |
 | | [Angular AppStore](#angular-appstore) | 🅇 |
 | |  [ngxtools: Angular Package Registry](#ngxtools-angular-package-registry)|  ✅ |
@@ -31,40 +28,27 @@ The table showcases technologies for which projects were added - click the techn
 | | [Rock Paper Scissors](#rock-paper-scissors)| 🅇 |
 | | [Azure Vision](#azure-vision)| 🅇 |
 | | [angular-swa-auth library demo](#angular-swa-auth-library-demo)| ✅ |
-| [`Docusaurus`](#docusaurus) | | |
-| | [Docusaurus Starter](#docusaurus-starter)| ✅ |
-| [`Eleventy`](#eleventy)| | |
-| | [Eleventy Blog Starter](#eleventy-blog-starter)| 🅇 |
-| [`Gatsby`](#gatsby)| | |
-| |[Gatsbyjs Starter](#gatsbyjs-starter) | 🅇 |
-| [`Hugo`](#hugo) | | |
-| | [ngVikings 2020 Conference](#ngvikings-2020-a-free-online-conference-for-angular-developers)| ✅ |
-| [`Mongoose`](#mongoose)| | |
-| | [SWA + Mongoose Starter Kit](#azure-static-web-apps-and-mongoose-starter-kit)| 🅇 |
-| [`React`](#reactjs)| | |
-| | [Sunrise Standup](#sunrise-standup)| 🅇 |
-| [`Stencil`](#stencil)| | |
-| | [Stencil Starter App](#stencil-starter-app)| 🅇 |
-| [`Scully`](#scully)| | |
-| | [PWA Blog](#pwa-blog)| ✅ |
-| [`Svelte`](#svelte)| | |
-| | [Shop at Home](#shop-at-home)|✅|
-| [`Vanilla HTML/JS/CSS`](#vanilla-html-javascript-css)| | |
-| |[SWAG Demo: A Positive Thought For Your Day](#azure-swag-demo-a-positive-thought-for-your-day) | ✅ |
+| [`Docusaurus`](#docusaurus)| [Docusaurus Starter](#docusaurus-starter)| ✅ |
+| [`Eleventy`](#eleventy)| [Eleventy Blog Starter](#eleventy-blog-starter)| 🅇 |
+| [`Gatsby`](#gatsby)|[Gatsbyjs Starter](#gatsbyjs-starter) | 🅇 |
+| [`Hugo`](#hugo) | [ngVikings 2020 Conference](#ngvikings-2020-a-free-online-conference-for-angular-developers)| ✅ |
+| [`Mongoose`](#mongoose)| [SWA + Mongoose Starter Kit](#azure-static-web-apps-and-mongoose-starter-kit)| 🅇 |
+| [`React`](#reactjs)| [Sunrise Standup](#sunrise-standup)| 🅇 |
+| [`Stencil`](#stencil)|[Stencil Starter App](#stencil-starter-app)| 🅇 |
+| [`Scully`](#scully)|  [PWA Blog](#pwa-blog)| ✅ |
+| [`Svelte`](#svelte)|  [Shop at Home](#shop-at-home)|✅|
+| [`Vanilla HTML/JS/CSS`](#vanilla-html-javascript-css)|[SWAG Demo: A Positive Thought For Your Day](#azure-swag-demo-a-positive-thought-for-your-day) | ✅ |
 | |[Nitrooo landing page](#nitrooo-landing-page) | ✅ |
 | |[Hexa CLI Landing Page](#hexa-cli-landing-page) | ✅  |
-| [`Vue.js`](#vuejs)| | |
-| | [PoseDance: A TikTok Trainer App](#posedance-a-tiktok-trainer-app)| 🅇 |
+| [`Vue.js`](#vuejs)| [PoseDance: A TikTok Trainer App](#posedance-a-tiktok-trainer-app)| 🅇 |
 | |[VS Code Can Do That](#vs-code-can-do-that) | ✅  |
-|[`VuePress`](#vuepress) | | |
-| | [Nitro Workshop](#nitro-workshop)| ✅  |
+|[`VuePress`](#vuepress) | [Nitro Workshop](#nitro-workshop)| ✅  |
 | | [Peacock for Visual Studio Code Documentation](#peacock-for-visual-studio-code-documentation)| ✅  |
 | |[Cognitive Search Static Apps Demo](#cognitive-search-static-apps-demo) | ✅  |
 
-
 ---
 
-# 💻 | Projects (By Technology)
+## 💻 | Projects (By Technology)
 
 ## Angular
 
