@@ -1,62 +1,61 @@
-# Azure Static Web Apps Gallery Community Projects
+# Azure Static Web Apps Gallery 
 
-A gallery of awesome projects built and deployed in **[Azure Static Web Apps](https://docs.microsoft.com/azure/static-web-apps/?WT.mc_id=staticwebapps-github-cxa)**.
+Welcome to the Azure Static Web Apps Gallery - a showcase of awesome projects built by community, and deployed to the **[Azure Static Web Apps](https://docs.microsoft.com/azure/static-web-apps/?WT.mc_id=staticwebapps-github-cxa)** service.
 
-## 🔥 Submit your Projects
+---
 
-Would you like to include your projects to this gallery? Follow the **[Checklist for Pull Request](./.github/PULL_REQUEST_TEMPLATE/pull_request_template.md)**.
+## 🔥 | Add Your Project
 
-## 💻 Projects (by technology)
+Want to have your project listed in the gallery?
+ * Review the [**Contributing Guidelines**](CONTRIBUTING.md).
+ * Fork [**the repository**](https://github.com/nitya/static-web-apps-gallery-code-samples/fork) and create a branch for your addition
+ * Follow this **[Pull Request Checklist](./.github/PULL_REQUEST_TEMPLATE/pull_request_template.md)**.
 
-- [Azure Static Web Apps Gallery Community Projects](#azure-static-web-apps-gallery-community-projects)
-  - [🔥 Submit your Projects](#-submit-your-projects)
-  - [💻 Projects (by technology)](#-projects-by-technology)
-  - [Angular](#angular)
-    - [**Catsify: A cat names generator**](#catsify-a-cat-names-generator)
-    - [**xLayers: Generate Code from SketchApp**](#xlayers-generate-code-from-sketchapp)
-    - [**Angular AppStore**](#angular-appstore)
-    - [**ngxtools: Angular Package Registry**](#ngxtools-angular-package-registry)
-    - [**Meme4Fun**](#meme4fun)
-    - [**Angular Server Side Rendering**](#angular-server-side-rendering)
-    - [Rock Paper Scissors](#rock-paper-scissors)
-    - [**Azure Vision**](#azure-vision)
-    - [**angular-swa-auth library demo**](#angular-swa-auth-library-demo)
-  - [Docusaurus](#docusaurus)
-    - [**Docusaurus Starter**](#docusaurus-starter)
-  - [Eleventy](#eleventy)
-    - [**Eleventy Blog Starter**](#eleventy-blog-starter)
-  - [Gatsby](#gatsby)
-    - [**Gatsbyjs Starter**](#gatsbyjs-starter)
-  - [Hugo](#hugo)
-    - [**ngVikings 2020: A free online conference for Angular developers**](#ngvikings-2020-a-free-online-conference-for-angular-developers)
-  - [Mongoose](#mongoose)
-    - [Azure Static Web Apps and Mongoose Starter Kit](#azure-static-web-apps-and-mongoose-starter-kit)
-  - [React.js](#reactjs)
-    - [**Sunrise Standup**](#sunrise-standup)
-  - [Stencil](#stencil)
-    - [**Stencil Starter App**](#stencil-starter-app)
-  - [Scully](#scully)
-    - [**PWA Blog**](#pwa-blog)
-  - [Svelte](#svelte)
-    - [**Shop at Home**](#shop-at-home)
-  - [Vanilla HTML JavaScript CSS](#vanilla-html-javascript-css)
-    - [**Azure SWAG Demo: A Positive Thought For Your Day**](#azure-swag-demo-a-positive-thought-for-your-day)
-    - [**Nitrooo landing page**](#nitrooo-landing-page)
-    - [**Hexa CLI Landing Page**](#hexa-cli-landing-page)
-  - [Vue.js](#vuejs)
-    - [**PoseDance: A TikTok Trainer App**](#posedance-a-tiktok-trainer-app)
-    - [**VS Code Can Do That**](#vs-code-can-do-that)
-  - [VuePress](#vuepress)
-    - [**Nitro Workshop**](#nitro-workshop)
-    - [**Peacock for Visual Studio Code Documentation**](#peacock-for-visual-studio-code-documentation)
-    - [Cognitive Search Static Apps Demo](#cognitive-search-static-apps-demo)
+---
+
+## 📝 | Technologies Showcased
+
+The table showcases technologies for which projects were added - click the technology to visit the _section_ showcasing all its projects. If a project has a demo URL, the _IsLive_ column shows if that is still active (last-checked: **`Apr 18, 2022`**)
+
+| Technology | Project | Is Live |
+|:---|:---|:---|
+| [`Angular`](#Angular) |  [Catsify: A cat names generator](#catsify-a-cat-names-generator)| ✅ |
+| | [xLayers: Generate Code from SketchApp](#xlayers-generate-code-from-sketchapp) | 🅇 |
+| | [Angular AppStore](#angular-appstore) | 🅇 |
+| |  [ngxtools: Angular Package Registry](#ngxtools-angular-package-registry)|  ✅ |
+| | [Meme4Fun](#meme4fun)| 🅇 |
+| | [Angular Server Side Rendering](#angular-server-side-rendering)| 🅇 |
+| | [Rock Paper Scissors](#rock-paper-scissors)| 🅇 |
+| | [Azure Vision](#azure-vision)| 🅇 |
+| | [angular-swa-auth library demo](#angular-swa-auth-library-demo)| ✅ |
+| [`Docusaurus`](#docusaurus)| [Docusaurus Starter](#docusaurus-starter)| ✅ |
+| [`Eleventy`](#eleventy)| [Eleventy Blog Starter](#eleventy-blog-starter)| 🅇 |
+| [`Gatsby`](#gatsby)|[Gatsbyjs Starter](#gatsbyjs-starter) | 🅇 |
+| [`Hugo`](#hugo) | [ngVikings 2020 Conference](#ngvikings-2020-a-free-online-conference-for-angular-developers)| ✅ |
+| [`Mongoose`](#mongoose)| [SWA + Mongoose Starter Kit](#azure-static-web-apps-and-mongoose-starter-kit)| 🅇 |
+| [`React`](#reactjs)| [Sunrise Standup](#sunrise-standup)| 🅇 |
+| [`Stencil`](#stencil)|[Stencil Starter App](#stencil-starter-app)| 🅇 |
+| [`Scully`](#scully)|  [PWA Blog](#pwa-blog)| ✅ |
+| [`Svelte`](#svelte)|  [Shop at Home](#shop-at-home)|✅|
+| [`Vanilla HTML/JS/CSS`](#vanilla-html-javascript-css)|[SWAG Demo: A Positive Thought For Your Day](#azure-swag-demo-a-positive-thought-for-your-day) | ✅ |
+| |[Nitrooo landing page](#nitrooo-landing-page) | ✅ |
+| |[Hexa CLI Landing Page](#hexa-cli-landing-page) | ✅  |
+| [`Vue.js`](#vuejs)| [PoseDance: A TikTok Trainer App](#posedance-a-tiktok-trainer-app)| 🅇 |
+| |[VS Code Can Do That](#vs-code-can-do-that) | ✅  |
+|[`VuePress`](#vuepress) | [Nitro Workshop](#nitro-workshop)| ✅  |
+| | [Peacock for Visual Studio Code Documentation](#peacock-for-visual-studio-code-documentation)| ✅  |
+| |[Cognitive Search Static Apps Demo](#cognitive-search-static-apps-demo) | ✅  |
+
+---
+
+## 💻 | Projects (By Technology)
 
 ## Angular
 
 ### **[Catsify: A cat names generator](https://www.catsify.app/)**
 
 <p align="center">
-  <img src="./media/catsify.png" alt="Catsify App" width="100%">
+  <img src="docs/media/catsify.png" alt="Catsify App" width="100%">
 </p>
 
 Catsify is a simple and creative app that allows you to find a unique name for your lovely cat. What's interesting about this app is that the names generator is all written in Rust and compiled to WASM; and the API is exposed through a Node.js Azure Function.
@@ -69,9 +68,9 @@ Catsify is a simple and creative app that allows you to find a unique name for y
 ### **[xLayers: Generate Code from SketchApp](https://www.xlayers.design/)**
 
 <p align="center">
-  <img src="./media/xlayers-1.png" alt="xLayers App" width="100%">
+  <img src="docs/media/xlayers-1.png" alt="xLayers App" width="100%">
   <br/>
-  <img src="./media/xlayers-2.png" alt="xLayers App" width="100%">
+  <img src="docs/media/xlayers-2.png" alt="xLayers App" width="100%">
 </p>
 
 xLayers is an online Web application which aims to bridge the gap between designers and developers. Its mission is to allow both the Design and Development worlds to collaborate and iterate fast. Simply upload your design to xLayers and instantly scaffolds code for many popular frameworks1 and libraries such as Angular, Vue, React, Stencil...etc.
@@ -84,7 +83,7 @@ xLayers is an online Web application which aims to bridge the gap between design
 ### **[Angular AppStore](https://www.searchapp.store/)**
 
 <p align="center">
-  <img src="./media/angular-search-experience.gif" alt="Angular AppStore App" width="400px">
+  <img src="docs/media/angular-search-experience.gif" alt="Angular AppStore App" width="400px">
 </p>
 
 Angular AppStore is a reference app featuring a full search user experience using Algolia. Users can enjoy the fast and smooth experience.
@@ -97,20 +96,20 @@ Angular AppStore is a reference app featuring a full search user experience usin
 ### **[ngxtools: Angular Package Registry](https://www.ngx.tools/)**
 
 <p align="center">
-  <img src="./media/ngxtools.png" alt="NgxTools App" width="100%">
+  <img src="docs/media/ngxtools.png" alt="NgxTools App" width="100%">
 </p>
 
 NgxTools is an NPM registry clone made only for Angular packages. You can access hundred thousand of packages built specifically for Angular and available on NPM. You can access their metadata information, and even open them directly on StackBlitz.
 
 - **[NgxTools project](https://www.ngx.tools/)**
-- **[NgxTools repo](https://github.com/ngxtools/ngxtools)**
+- **[NgxTools repo](https://github.com/ngxtools/ngx.tools)**
 
 > Stacks Used: `angular, typescript, azure static web apps, pwa, algolia`
 
 ### **[Meme4Fun](https://lively-forest-0fd67f010.azurestaticapps.net/)**
 
 <p align="center">
-  <img src="./media/meme4fun.gif" alt="Meme generator app" width="100%">
+  <img src="docs/media/meme4fun.gif" alt="Meme generator app" width="100%">
 </p>
 
 Meme4Fun is an app to create custom programming memes from a picture and it also identifies features of people in the image.
@@ -123,7 +122,7 @@ Meme4Fun is an app to create custom programming memes from a picture and it also
 ### **[Angular Server Side Rendering](https://blue-bay-00cc1f303.azurestaticapps.net/)**
 
 <p align="center">
-  <img src="./media/angular-ssr.png" alt="Angular server-side prerendered app" width="100%">
+  <img src="docs/media/angular-ssr.png" alt="Angular server-side prerendered app" width="100%">
 </p>
 
 A prerendred Angular application built with Angular universal (aka. @angular/platform-server).
@@ -136,7 +135,7 @@ A prerendred Angular application built with Angular universal (aka. @angular/pla
 ### [Rock Paper Scissors](https://www.rockpaperscissors.cloud)
 
 <p align="center">
-  <img src="./media/angular-rock-paper-scissors.png" alt="Rock paper scissors" width="100%">
+  <img src="docs/media/angular-rock-paper-scissors.png" alt="Rock paper scissors" width="100%">
 </p>
 
 An Angular app for the well known game of rock paper scissors. The opponent player is simulated by an Azure Function.
@@ -152,7 +151,7 @@ An Angular app for the well known game of rock paper scissors. The opponent play
 ### **[Azure Vision](https://delightful-flower-09099960f.azurestaticapps.net)**
 
 <p align="center">
-  <img src="./media/azure_vision.gif" alt="Azure Vision" width="100%">
+  <img src="docs/media/azure_vision.gif" alt="Azure Vision" width="100%">
 </p>
 
 **Azure Vision** is a **Object Detection App** which will detect the objects in given image using **Azure Cognitive Services (Computer Vision API)** built with ❤️ & **Angular**
@@ -167,7 +166,7 @@ An Angular app for the well known game of rock paper scissors. The opponent play
 ### [angular-swa-auth library demo](https://angular-swa-auth.codingdemo.co.uk/)
 
 <p align="center">
-  <img src="./media/angular-swa-auth.gif" alt="angular-swa-auth" width="100%">
+  <img src="docs/media/angular-swa-auth.gif" alt="angular-swa-auth" width="100%">
 </p>
 
 Demo app showcasing the use of the npm package [angular-swa-auth](https://www.npmjs.com/package/@christianacca/angular-swa-auth).
@@ -184,7 +183,7 @@ Demo app showcasing the use of the npm package [angular-swa-auth](https://www.np
 ### **[Docusaurus Starter](https://ambitious-pebble-02b2d3010.azurestaticapps.net/)**
 
 <p align="center">
-  <img src="./media/docusaurus-starter.PNG" alt="Docusaurus starter" width="100%">
+  <img src="docs/media/docusaurus-starter.PNG" alt="Docusaurus starter" width="100%">
 </p>
 
 A simple starter template for creating documentation website using the Docusaurus framework.
@@ -202,7 +201,7 @@ A simple starter template for creating documentation website using the Docusauru
 ### **[Eleventy Blog Starter](https://zealous-wave-0ec9a1203.azurestaticapps.net/)**
 
 <p align="center">
-  <img src="./media/11ty.png" alt="Eleventy starter" width="100%">
+  <img src="docs/media/11ty.png" alt="Eleventy starter" width="100%">
 </p>
 
 A base blog scaffolded using the Eleventy [base blog starter](https://github.com/11ty/eleventy-base-blog).
@@ -220,7 +219,7 @@ A base blog scaffolded using the Eleventy [base blog starter](https://github.com
 ### **[Gatsbyjs Starter](https://jolly-tree-003047c03.azurestaticapps.net/)**
 
 <p align="center">
-  <img src="./media/gatsby_starter.png" alt="Gatsby starter" width="100%">
+  <img src="docs/media/gatsby_starter.png" alt="Gatsby starter" width="100%">
 </p>
 
 A very simple starter scaffolded using the Gatsby framework.
@@ -237,7 +236,7 @@ A very simple starter scaffolded using the Gatsby framework.
 ### **[ngVikings 2020: A free online conference for Angular developers](https://www.ngvikings.org/)**
 
 <p align="center">
-  <img src="./media/ngvikings2020.png" alt="ngVikings 2020" width="100%">
+  <img src="docs/media/ngvikings2020.png" alt="ngVikings 2020" width="100%">
 </p>
 
 ngVikings is a non-profit, non-commercial, 100% community-driven event comprised of many Nordic Angular groups with more than 6500 active members in total.
@@ -286,7 +285,7 @@ A social platform for teams to post 15 second status update videos. Videos are u
 ### **[Stencil Starter App](https://kind-meadow-01093c903.azurestaticapps.net/)**
 
 <p align="center">
-  <img width="100%" alt="Stencil Starter App" src="./media/stencil.png">
+  <img width="100%" alt="Stencil Starter App" src="docs/media/stencil.png">
 <p>
 
 Stencil is a toolchain for building reusable, scalable Design Systems. Generate small, blazing fast, and 100% standards based Web Components that run in every browser.
@@ -303,7 +302,7 @@ Stencil is a toolchain for building reusable, scalable Design Systems. Generate 
 ### **[PWA Blog](https://www.webmax.ru/)**
 
 <p align="center">
-  <img src="./media/pwablog.png" alt="PWA Blog" width="100%">
+  <img src="docs/media/pwablog.png" alt="PWA Blog" width="100%">
 </p>
 
 News and articles about Progressive Web Apps.
@@ -320,7 +319,7 @@ News and articles about Progressive Web Apps.
 ### **[Shop at Home](https://www.shopathome.dev)**
 
 <p align="center">
-  <img src="./media/shop-at-home-svelte.png" alt="Svelte Application" width="100%">
+  <img src="docs/media/shop-at-home-svelte.png" alt="Svelte Application" width="100%">
 </p>
 
 
@@ -339,7 +338,7 @@ News and articles about Progressive Web Apps.
 ### **[Azure SWAG Demo: A Positive Thought For Your Day](https://ashy-mushroom-05748f31e.azurestaticapps.net/)**
 
 <p align="center">
-  <img src="./media/positive-quote.png" alt="Positive quote website screenshot" width="100%">
+  <img src="docs/media/positive-quote.png" alt="Positive quote website screenshot" width="100%">
 </p>
 
 This is a simple barebone demo for [Azure SWAG](https://docs.microsoft.com/azure/static-web-apps?WT.mc_id=staticwebapps-github-yolasors) (**S**tatic **W**eb **A**pps on **G**itHub).
@@ -353,7 +352,7 @@ You can use it as a template for your own apps.
 ### **[Nitrooo landing page](https://victorious-ocean-0337ef81e.azurestaticapps.net/)**
 
 <p align="center">
-  <img src="./media/nitrooo.png" alt="Nitrooo App" width="100%">
+  <img src="docs/media/nitrooo.png" alt="Nitrooo App" width="100%">
 </p>
 
 Nitro is a heavily opinionated template for building Serverless applications with NestJS, the fastest-growing NodeJS framework in the world by github stars.
@@ -368,7 +367,7 @@ Nitro is a heavily opinionated template for building Serverless applications wit
 ### **[Hexa CLI Landing Page](https://www.hexa.run)**
 
 <p align="center">
-  <img src="./media/hexa.png" alt="The ultimate companion for the Azure CLI screenshot" width="100%">
+  <img src="docs/media/hexa.png" alt="The ultimate companion for the Azure CLI screenshot" width="100%">
 </p>
 
 Hexa is the ultimate companion for the Azure CLI. It allows you to seamlessly configure, setup and deploy to different Azure services such as Resource Groups, Storage accounts, Hosting, Azure Functions and Databases (CosmosDB and Table Storage) and more.
@@ -385,7 +384,7 @@ Hexa is the ultimate companion for the Azure CLI. It allows you to seamlessly co
 ### **[PoseDance: A TikTok Trainer App](https://proud-moss-070616b1e.azurestaticapps.net/)**
 
 <p align="center">
-  <img src="./media/posedance.png" alt="PoseDance App" width="100%">
+  <img src="docs/media/posedance.png" alt="PoseDance App" width="100%">
 </p>
 
 Using PoseDance, a Machine-Learning library that can discern body positions, this app allows you to perfect your dance moves via your webcam. Match your dance, get a high score! Also features PlayFab and Azure Functions for the backend service.
@@ -398,7 +397,7 @@ Using PoseDance, a Machine-Learning library that can discern body positions, thi
 ### **[VS Code Can Do That](https://www.vscodecandothat.com)**
 
 <p align="center">
-  <img src="./media/vscodecandothat.png" alt="Vs Code Can Do That" width="100%">
+  <img src="docs/media/vscodecandothat.png" alt="Vs Code Can Do That" width="100%">
 </p>
 
 All the best things about VS Code that nobody ever bothered to show you.
@@ -415,7 +414,7 @@ All the best things about VS Code that nobody ever bothered to show you.
 ### **[Nitro Workshop](https://nitro-stack.github.io/nitro-workshop/)**
 
 <p align="center">
-  <img src="./media/nitro.png" alt="Nitro logo" width="256" height="256">
+  <img src="docs/media/nitro.png" alt="Nitro logo" width="256" height="256">
 <p>
 
 Online workshop built with Vuepress to learn how to build a backend using NestJS. This is a practical workshop where you'll learn "hands-on" by iteratively building an application from scratch using NestJS and Azure.
@@ -428,7 +427,7 @@ Online workshop built with Vuepress to learn how to build a backend using NestJS
 ### **[Peacock for Visual Studio Code Documentation](https://www.peacockcode.dev)**
 
 <p align="center">
-  <img src="./media/peacock-icon.png" alt="Peacock icon" width="256" height="256">
+  <img src="docs/media/peacock-icon.png" alt="Peacock icon" width="256" height="256">
 <p>
 
 Peacock is a Visual Studio Code extension with 700,000+ installations. It subtly changes the color of your Visual Studio Code workspace. This is ideal when you have multiple VS Code instances, use VS Live Share, or use VS Code's Remote features, and you want to quickly identify your editor.
@@ -444,7 +443,7 @@ Peacock is a Visual Studio Code extension with 700,000+ installations. It subtly
 ### [Cognitive Search Static Apps Demo](https://lively-sand-033e9ec03.azurestaticapps.net/)
 
 <p align="center">
-  <img src="./media/cognitive-search-demo.png" alt="Cognitive Search Static Apps Demo" width="100%">
+  <img src="docs/media/cognitive-search-demo.png" alt="Cognitive Search Static Apps Demo" width="100%">
 </p>
 
 A sample *faceted search* user experience implementation for your [Azure Cognitive Search](https://azure.microsoft.com/services/search/) index. Similar to the [official demo app](https://docs.microsoft.com/azure/search/search-create-app-portal), but a bit more modern. Fork the [repo](https://github.com/scale-tone/cognitive-search-static-web-apps-sample-ui), [deploy](https://docs.microsoft.com/azure/static-web-apps/getting-started?tabs=react#create-a-static-web-app) it to your Static Web Apps instance, connect it to your Cognitive Search index with a set of [config settings](https://github.com/scale-tone/cognitive-search-static-web-apps-sample-ui#config-settings), optionally [configure authN/authZ](https://docs.microsoft.com/azure/static-web-apps/authentication-authorization) - and you get a fully functioning search UI, with facet filters and geovisualization. The [live demo](https://lively-sand-033e9ec03.azurestaticapps.net/) is pointed to [the official Azure Cognitive Search Sample Data](https://docs.microsoft.com/samples/azure-samples/azure-search-sample-data/azure-search-sample-data/) index, and you can start with the same. Feel free to use as a template for your own implementations.
