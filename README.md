@@ -1,4 +1,4 @@
-# Azure Static Web Apps Gallery 
+# Azure Static Web Apps Gallery Prorjects
 
 Welcome to the Azure Static Web Apps Gallery - a showcase of awesome projects built by community, and deployed to the **[Azure Static Web Apps](https://docs.microsoft.com/azure/static-web-apps/?WT.mc_id=staticwebapps-github-cxa)** service.
 
@@ -250,11 +250,11 @@ ngVikings is a non-profit, non-commercial, 100% community-driven event comprised
 
 ## Mongoose
 
-![Mongoose logo](media/mongoose.png)
+![Mongoose logo](docs/media/mongoose.png)
 
 ### [Azure Static Web Apps and Mongoose Starter Kit](https://github.com/GeekTrainer/aswa-student-starter-kit)
 
-![Preview image for Mongoose starter kit](media/mongoose-starter.png)
+![Preview image for Mongoose starter kit](docs/media/mongoose-starter.png)
 
 Mongoose is the most popular ODM (object document mapper) for Node.js. This basic starter includes the necessary code and steps to create Azure Static Web Apps with Cosmos DB and Mongoose. No front-end framework is used, allowing you to update the site as needed.
 
@@ -269,7 +269,7 @@ Mongoose is the most popular ODM (object document mapper) for Node.js. This basi
 
 ### **[Sunrise Standup](https://www.sunrisestandup.com)**
 
-![preview image for sunrise standup](media/sunrise-standup.png)
+![preview image for sunrise standup](docs/media/sunrise-standup.png)
 
 A social platform for teams to post 15 second status update videos. Videos are uploaded and streamed from Azure Storage, videos are transcribed using Cognitive Services and user locations are shown with Azure Maps.
 
