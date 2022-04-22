@@ -20,27 +20,15 @@ The table showcases technologies for which projects were added - click the techn
 | Technology | Project | Is Live |
 |:---|:---|:---|
 | [`Angular`](#Angular) |  [Catsify: A cat names generator](#catsify-a-cat-names-generator)| ✅ |
-| | [xLayers: Generate Code from SketchApp](#xlayers-generate-code-from-sketchapp) | 🅇 |
-| | [Angular AppStore](#angular-appstore) | 🅇 |
 | |  [ngxtools: Angular Package Registry](#ngxtools-angular-package-registry)|  ✅ |
-| | [Meme4Fun](#meme4fun)| 🅇 |
-| | [Angular Server Side Rendering](#angular-server-side-rendering)| 🅇 |
-| | [Rock Paper Scissors](#rock-paper-scissors)| 🅇 |
-| | [Azure Vision](#azure-vision)| 🅇 |
 | | [angular-swa-auth library demo](#angular-swa-auth-library-demo)| ✅ |
 | [`Docusaurus`](#docusaurus)| [Docusaurus Starter](#docusaurus-starter)| ✅ |
-| [`Eleventy`](#eleventy)| [Eleventy Blog Starter](#eleventy-blog-starter)| 🅇 |
-| [`Gatsby`](#gatsby)|[Gatsbyjs Starter](#gatsbyjs-starter) | 🅇 |
 | [`Hugo`](#hugo) | [ngVikings 2020 Conference](#ngvikings-2020-a-free-online-conference-for-angular-developers)| ✅ |
-| [`Mongoose`](#mongoose)| [SWA + Mongoose Starter Kit](#azure-static-web-apps-and-mongoose-starter-kit)| 🅇 |
-| [`React`](#reactjs)| [Sunrise Standup](#sunrise-standup)| 🅇 |
-| [`Stencil`](#stencil)|[Stencil Starter App](#stencil-starter-app)| 🅇 |
 | [`Scully`](#scully)|  [PWA Blog](#pwa-blog)| ✅ |
 | [`Svelte`](#svelte)|  [Shop at Home](#shop-at-home)|✅|
 | [`Vanilla HTML/JS/CSS`](#vanilla-html-javascript-css)|[SWAG Demo: A Positive Thought For Your Day](#azure-swag-demo-a-positive-thought-for-your-day) | ✅ |
 | |[Nitrooo landing page](#nitrooo-landing-page) | ✅ |
 | |[Hexa CLI Landing Page](#hexa-cli-landing-page) | ✅  |
-| [`Vue.js`](#vuejs)| [PoseDance: A TikTok Trainer App](#posedance-a-tiktok-trainer-app)| 🅇 |
 | |[VS Code Can Do That](#vs-code-can-do-that) | ✅  |
 |[`VuePress`](#vuepress) | [Nitro Workshop](#nitro-workshop)| ✅  |
 | | [Peacock for Visual Studio Code Documentation](#peacock-for-visual-studio-code-documentation)| ✅  |
@@ -65,20 +53,7 @@ Catsify is a simple and creative app that allows you to find a unique name for y
 
 > Stacks Used: `angular, typescript, azure static web apps, rust, web assembly, nodejs, azure functions`
 
-### **[xLayers: Generate Code from SketchApp](https://www.xlayers.design/)**
-
-<p align="center">
-  <img src="docs/media/xlayers-1.png" alt="xLayers App" width="100%">
-  <br/>
-  <img src="docs/media/xlayers-2.png" alt="xLayers App" width="100%">
-</p>
-
-xLayers is an online Web application which aims to bridge the gap between designers and developers. Its mission is to allow both the Design and Development worlds to collaborate and iterate fast. Simply upload your design to xLayers and instantly scaffolds code for many popular frameworks1 and libraries such as Angular, Vue, React, Stencil...etc.
-
-- **[xLayers demo](https://www.xlayers.design/)**
-- **[xLayers GitHub repo](https://github.com/xlayers/xlayers)**
-
-> Stacks Used: `angular, typescript, azure static web apps`
+---
 
 ### **[Angular AppStore](https://www.searchapp.store/)**
 
@@ -93,6 +68,8 @@ Angular AppStore is a reference app featuring a full search user experience usin
 
 > Stacks Used: `angular, typescript, azure static web apps, material design, algolia`
 
+---
+
 ### **[ngxtools: Angular Package Registry](https://www.ngx.tools/)**
 
 <p align="center">
@@ -105,76 +82,6 @@ NgxTools is an NPM registry clone made only for Angular packages. You can access
 - **[NgxTools repo](https://github.com/ngxtools/ngx.tools)**
 
 > Stacks Used: `angular, typescript, azure static web apps, pwa, algolia`
-
-### **[Meme4Fun](https://lively-forest-0fd67f010.azurestaticapps.net/)**
-
-<p align="center">
-  <img src="docs/media/meme4fun.gif" alt="Meme generator app" width="100%">
-</p>
-
-Meme4Fun is an app to create custom programming memes from a picture and it also identifies features of people in the image.
-
-- **[Meme4Fun project](https://lively-forest-0fd67f010.azurestaticapps.net/)**
-- **[Meme4Fun repo](https://github.com/sajeetharan/meme4fun)**
-
-> Stacks Used: `angular, typescript, azure static web apps, material design, Azure Cognitive services`
-
-### **[Angular Server Side Rendering](https://blue-bay-00cc1f303.azurestaticapps.net/)**
-
-<p align="center">
-  <img src="docs/media/angular-ssr.png" alt="Angular server-side prerendered app" width="100%">
-</p>
-
-A prerendred Angular application built with Angular universal (aka. @angular/platform-server).
-
-- **[Angular universal project](https://blue-bay-00cc1f303.azurestaticapps.net/)**
-- **[Angular universal repo](https://github.com/manekinekko/angular-ssr-swa)**
-
-> Stacks Used: `angular, typescript, azure static web apps, server-side rendering`
-
-### [Rock Paper Scissors](https://www.rockpaperscissors.cloud)
-
-<p align="center">
-  <img src="docs/media/angular-rock-paper-scissors.png" alt="Rock paper scissors" width="100%">
-</p>
-
-An Angular app for the well known game of rock paper scissors. The opponent player is simulated by an Azure Function.
-
-- **[Rock-Paper-Scissors demo](https://www.rockpaperscissors.cloud/)**
-- **[Rock-Paper-Scissors repo](https://github.com/stuartleaver/rock-paper-scissors-static-web-app)**
-- **[Author: @stuartleaveruk](https://twitter.com/stuartleaveruk)**
-
-> Stacks Used: `angular, typescript, javascript, azure static web apps`
-
----
-
-### **[Azure Vision](https://delightful-flower-09099960f.azurestaticapps.net)**
-
-<p align="center">
-  <img src="docs/media/azure_vision.gif" alt="Azure Vision" width="100%">
-</p>
-
-**Azure Vision** is a **Object Detection App** which will detect the objects in given image using **Azure Cognitive Services (Computer Vision API)** built with ❤️ & **Angular**
-
-- **[Azure Vision demo](https://delightful-flower-09099960f.azurestaticapps.net)**
-- **[Azure Visio repo](https://github.com/banujan6/azure-cognitive-service-computer-vision)**
-
-> Stacks Used: `Angular, Typescript, Azure Static Web Apps, Azure Cognitive Services`
-
----
-
-### [angular-swa-auth library demo](https://angular-swa-auth.codingdemo.co.uk/)
-
-<p align="center">
-  <img src="docs/media/angular-swa-auth.gif" alt="angular-swa-auth" width="100%">
-</p>
-
-Demo app showcasing the use of the npm package [angular-swa-auth](https://www.npmjs.com/package/@christianacca/angular-swa-auth).
-
-- **[angular-swa-auth demo site](https://angular-swa-auth.codingdemo.co.uk/)**
-- **[angular-swa-auth repo](https://github.com/christianacca/static-web-apps-auth)**
-
-> Stacks Used: `angular, typescript, storybook, compodoc, azure static web apps`
 
 ---
 
@@ -196,38 +103,7 @@ A simple starter template for creating documentation website using the Docusauru
 
 ---
 
-## Eleventy
-
-### **[Eleventy Blog Starter](https://zealous-wave-0ec9a1203.azurestaticapps.net/)**
-
-<p align="center">
-  <img src="docs/media/11ty.png" alt="Eleventy starter" width="100%">
-</p>
-
-A base blog scaffolded using the Eleventy [base blog starter](https://github.com/11ty/eleventy-base-blog).
-
-> Stacks Used: `eleventy, html, css, javascript, azure static web apps`
-
-- **[Eleventy demo](https://zealous-wave-0ec9a1203.azurestaticapps.net/)**
-- **[Eleventy repo](https://github.com/manekinekko/11ty-blog-swa)**
-- **[Author @manekinekko](https://twitter.com/manekinekko)**
-
----
-
 ## Gatsby
-
-### **[Gatsbyjs Starter](https://jolly-tree-003047c03.azurestaticapps.net/)**
-
-<p align="center">
-  <img src="docs/media/gatsby_starter.png" alt="Gatsby starter" width="100%">
-</p>
-
-A very simple starter scaffolded using the Gatsby framework.
-
-> Stacks Used: `reactjs, azure static web apps, gatsbyjs`
-
-- **[Gatsby demo](https://jolly-tree-003047c03.azurestaticapps.net/)**
-- **[Gatsby repository](https://github.com/floAr/gatsby-starter-azure_swa)**
 
 ---
 
@@ -250,11 +126,11 @@ ngVikings is a non-profit, non-commercial, 100% community-driven event comprised
 
 ## Mongoose
 
-![Mongoose logo](media/mongoose.png)
+![Mongoose logo](docs/media/mongoose.png)
 
 ### [Azure Static Web Apps and Mongoose Starter Kit](https://github.com/GeekTrainer/aswa-student-starter-kit)
 
-![Preview image for Mongoose starter kit](media/mongoose-starter.png)
+![Preview image for Mongoose starter kit](docs/media/mongoose-starter.png)
 
 Mongoose is the most popular ODM (object document mapper) for Node.js. This basic starter includes the necessary code and steps to create Azure Static Web Apps with Cosmos DB and Mongoose. No front-end framework is used, allowing you to update the site as needed.
 
@@ -267,37 +143,7 @@ Mongoose is the most popular ODM (object document mapper) for Node.js. This basi
 
 ## React.js
 
-### **[Sunrise Standup](https://www.sunrisestandup.com)**
-
-![preview image for sunrise standup](media/sunrise-standup.png)
-
-A social platform for teams to post 15 second status update videos. Videos are uploaded and streamed from Azure Storage, videos are transcribed using Cognitive Services and user locations are shown with Azure Maps.
-
-> Stacks Used: `reactjs, azure static web apps, azure storage, azure cognitive services, azure maps`
-
-- **[Sunrise Standup project](https://www.sunrisestandup.com)**
-- **[Sunrise Standup repo](https://github.com/sunrise-standup/sunrise-standup)**
-
 ---
-
-## Stencil
-
-### **[Stencil Starter App](https://kind-meadow-01093c903.azurestaticapps.net/)**
-
-<p align="center">
-  <img width="100%" alt="Stencil Starter App" src="docs/media/stencil.png">
-<p>
-
-Stencil is a toolchain for building reusable, scalable Design Systems. Generate small, blazing fast, and 100% standards based Web Components that run in every browser.
-
-- **[Stencil demo](https://kind-meadow-01093c903.azurestaticapps.net/)**
-- **[Stencil repo](https://github.com/manekinekko/stencil-swa)**
-
-> Stacks Used: `stencil.js, azure static web apps`
-
----
-
-## Scully
 
 ### **[PWA Blog](https://www.webmax.ru/)**
 
@@ -349,6 +195,8 @@ You can use it as a template for your own apps.
 
 > Stacks Used: `html, javascript, nodejs, azure static web apps`
 
+---
+
 ### **[Nitrooo landing page](https://victorious-ocean-0337ef81e.azurestaticapps.net/)**
 
 <p align="center">
@@ -381,19 +229,6 @@ Hexa is the ultimate companion for the Azure CLI. It allows you to seamlessly co
 
 ## Vue.js
 
-### **[PoseDance: A TikTok Trainer App](https://proud-moss-070616b1e.azurestaticapps.net/)**
-
-<p align="center">
-  <img src="docs/media/posedance.png" alt="PoseDance App" width="100%">
-</p>
-
-Using PoseDance, a Machine-Learning library that can discern body positions, this app allows you to perfect your dance moves via your webcam. Match your dance, get a high score! Also features PlayFab and Azure Functions for the backend service.
-
-- **[PoseDance demo](https://proud-moss-070616b1e.azurestaticapps.net/)**
-- **[PoseDemo repo](https://github.com/jlooper/posedance)**
-
-> Stacks Used: `vuejs, azure static web apps, machine learning, nodejs, javascript, azure functions`
-
 ### **[VS Code Can Do That](https://www.vscodecandothat.com)**
 
 <p align="center">
@@ -424,6 +259,8 @@ Online workshop built with Vuepress to learn how to build a backend using NestJS
 
 > Stacks Used: `vuepress, azure static web apps, nodejs, nestjs`
 
+---
+
 ### **[Peacock for Visual Studio Code Documentation](https://www.peacockcode.dev)**
 
 <p align="center">
@@ -446,7 +283,7 @@ Peacock is a Visual Studio Code extension with 700,000+ installations. It subtly
   <img src="docs/media/cognitive-search-demo.png" alt="Cognitive Search Static Apps Demo" width="100%">
 </p>
 
-A sample *faceted search* user experience implementation for your [Azure Cognitive Search](https://azure.microsoft.com/services/search/) index. Similar to the [official demo app](https://docs.microsoft.com/azure/search/search-create-app-portal), but a bit more modern. Fork the [repo](https://github.com/scale-tone/cognitive-search-static-web-apps-sample-ui), [deploy](https://docs.microsoft.com/azure/static-web-apps/getting-started?tabs=react#create-a-static-web-app) it to your Static Web Apps instance, connect it to your Cognitive Search index with a set of [config settings](https://github.com/scale-tone/cognitive-search-static-web-apps-sample-ui#config-settings), optionally [configure authN/authZ](https://docs.microsoft.com/azure/static-web-apps/authentication-authorization) - and you get a fully functioning search UI, with facet filters and geovisualization. The [live demo](https://lively-sand-033e9ec03.azurestaticapps.net/) is pointed to [the official Azure Cognitive Search Sample Data](https://docs.microsoft.com/samples/azure-samples/azure-search-sample-data/azure-search-sample-data/) index, and you can start with the same. Feel free to use as a template for your own implementations.
+A sample *faceted search* user experience implementation for your [Azure Cognitive Search](https://azure.microsoft.com/services/search/) index. Similar to the [official demo app](https://docs.microsoft.com/azure/search/search-create-app-portal), but a bit more modern. Fork the [repo](https://github.com/scale-tone/cognitive-search-static-web-apps-sample-ui), [deploy](https://docs.microsoft.com/azure/static-web-apps/getting-started?tabs=react#create-a-static-web-app) it to your Static Web Apps instance, connect it to your Cognitive Search index with a set of [config settings](https://github.com/scale-tone/cognitive-search-static-web-apps-sample-ui#config-settings), optionally [configure authN/authZ](https://docs.microsoft.com/azure/static-web-apps/authentication-authorization) - and you get a fully functioning search UI, with facet filters and geovisualization. The [live demo](https://lively-sand-033e9ec03.azurestaticapps.net/) is pointed to [the official Azure Cognitive Search Sample Data - Repository](https://github.com/Azure-Samples/azure-search-sample-data) index, and you can start with the same. Feel free to use as a template for your own implementations.
 
 - **[Lively Sand demo](https://lively-sand-033e9ec03.azurestaticapps.net/)**
 - **[Lively Sand repo](https://github.com/scale-tone/cognitive-search-static-web-apps-sample-ui)**
