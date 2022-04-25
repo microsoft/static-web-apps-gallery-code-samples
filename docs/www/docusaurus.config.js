@@ -8,15 +8,28 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'Static Web Apps Gallery',
   tagline: 'A Community Projects Showcase',
-  url: 'https://microsoft.github.io',
+  url: 'https://nitya.github.io',
   baseUrl: '/static-web-apps-gallery-code-samples/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
-  organizationName: 'microsoft', // Usually your GitHub org/user name.
+  organizationName: 'nitya', // Usually your GitHub org/user name.
   projectName: 'static-web-apps-gallery-code-samples', // Usually your repo name.
   trailingSlash: false,
   deploymentBranch: `gh-pages`, // default = gh-pages
+
+  plugins: [
+    [
+      '@docusaurus/plugin-ideal-image',
+      {
+        quality: 70,
+        max: 1030, // max resized image's size.
+        min: 640, // min resized image's size. if original is lower, use that size.
+        steps: 2, // the max number of images generated between min and max (inclusive)
+        disableInDev: false,
+      },
+    ],
+  ],
 
   presets: [
     [
@@ -111,7 +124,7 @@ const config = {
       announcementBar: {
         id: 'Add Your Project!',
         content:
-          'New to Azure Static Web Apps? Learn with us in <a target="_blank" rel="noopener noreferrer" href="https://staticwebdev.github.io/30DaysOfSWA/"><b>#30DaysOfSWA</b></a>',
+          'Learn Static Web Apps <a target="_blank" rel="noopener noreferrer" href="https://staticwebdev.github.io/30DaysOfSWA/"><b>#30DaysOfSWA</b></a> - Celebrate the <a href="https://aka.ms/swaanniversary"><b>#SWAnniversary</b></a> on May 19 ',
         backgroundColor: '#50E6FF',
         textColor: '#552F99',
         isCloseable: false,

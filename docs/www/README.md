@@ -2,6 +2,23 @@
 
 This website was built using [Docusaurus 2](https://docusaurus.io/) using their default `classic` theme. It will primarily host a [Showcase](https://docusaurus.io/showcase)-like page to display screenshots of submitted projects with ability to filter by technology-specific tags.
 
+---
+
+##  0. Updating Content for Existing Site
+
+Want to update the existing site to add new content (logos, screenshots, cards etc.)? Here are the key files to know.
+
+| Filename | Description |
+|:--- |:--- |
+| [`static/img/logo-XXX.svg`](./static/img/) | Add valid logo images for frameworks used on landing page here. Ideally in SVG format. |
+| [`src/components/HomepageFeatures/index.js`](./src/components/HomepageFeatures/index.js)  | Update this file when adding content to landing page (e.g., new front-end framework logos)|
+| [`src/data/showcase/`](./src/data/showcase/) | Folder containing (user-uploaded) screenshots for showcase cards. |
+| [`src/data/showcase/tags.tsx`](./src/data/showcase/tags.tsx) | File containing tags (and definitions) valid for filtering showcase. Admin-maintained but could be user-contributed later? |
+| [`src/data/showcase/users.tsx`](./src/data/showcase/users.tsx) | File containing user-contributed project metadata. Maintain in alphabetical order, ensure valid tags & screenshot are provided. |
+| | | 
+
+Want to know how the site is configured, built and deployed? Read on.
+
 <br/>
 
 ## 1. Setup & Build Commands
