@@ -63,18 +63,10 @@ const Users: User[] = [
       preview: require('./showcase/catsify.png'),
     website: '',
     source: '',
-    tags: ['angular','opensource','archived'],
+    tags: ['FRONT-END','opensource'],
   },
   */
-  {
-    title: 'Angular AppStore',
-    description:
-      'Angular AppStore is a reference app featuring a full search user experience using Algolia and Material Design.',
-      preview: require('./showcase/angular-search-experience.gif'),
-    website: 'https://www.searchapp.store/',
-    source: 'https://github.com/manekinekko/angular-search-experience',
-    tags: ['angular', 'opensource', `archived`], 
-  },
+
   {
     title: 'Angular SWA Auth',
     description:
@@ -84,24 +76,7 @@ const Users: User[] = [
     source: 'https://github.com/christianacca/static-web-apps-auth',
     tags: ['angular','opensource', 'npm'],
   },
-  {
-    title: 'Angular Universal',
-    description:
-      'A pre-rendered Angular application built with Angular universal (aka. @angular/platform-server). ',
-      preview: require('./showcase/angular-ssr.png'),
-    website: '',
-    source: 'https://github.com/manekinekko/angular-ssr-swa',
-    tags: ['angular','opensource','archived'],
-  },
-  {
-    title: 'Azure Vision',
-    description:
-      'An Object Detection App which will detect the objects in given image using Azure Cognitive Services (Computer Vision API) built with ❤️ & Angular',
-      preview: require('./showcase/azure_vision.gif'),
-    website: '',
-    source: 'https://github.com/banujan6/azure-cognitive-service-computer-vision',
-    tags: ['angular','opensource','archived', 'cognitive-services'],
-  },
+
   {
     title: 'Catsify',
     description:
@@ -109,8 +84,19 @@ const Users: User[] = [
       preview: require('./showcase/catsify.png'),
     website: 'https://www.catsify.app/',
     source: 'https://github.com/manekinekko/catsify',
-    tags: ['angular', 'opensource', 'favorite'],
+    tags: ['angular', 'opensource'],
   },
+
+  {
+    title: 'Cognitive Search SWA Demo',
+    description:
+      'A sample faceted search user experience implementation for your Azure Cognitive Search index. Similar to the official demo app, but a bit more modern. ',
+      preview: require('./showcase/cognitive-search-demo.png'),
+    website: 'https://lively-sand-033e9ec03.azurestaticapps.net/',
+    source: 'https://github.com/scale-tone/cognitive-search-static-web-apps-sample-ui',
+    tags: ['react','opensource'],
+  },
+
   {
     title: 'Docusaurus Starter',
     description:
@@ -120,33 +106,17 @@ const Users: User[] = [
       source: 'https://github.com/sumitkharche/docusaurus-swa-app',
       tags: ['docusaurus','opensource'],
   },
+
   {
-    title: 'Eleventy Blog Starter',
+    title: 'Hexa CLI Landing Page',
     description:
-    'A base blog scaffolded using the Eleventy (11ty.dev) base blog starter.',
-      preview: require('./showcase/11ty.png'),
-      website: '',
-      source: 'https://github.com/manekinekko/11ty-blog-swa',
-      tags: ['eleventy','opensource', 'archived'],
+      'Hexa is the ultimate companion for the Azure CLI. It allows you to seamlessly configure, setup and deploy to different Azure services such as Resource Groups, Storage accounts, Hosting, Azure Functions and Databases (CosmosDB and Table Storage) and more.',
+      preview: require('./showcase/hexa.png'),
+    website: 'https://www.hexa.run/',
+    source: 'https://github.com/manekinekko/hexa/',
+    tags: ['vanillajs','opensource'],
   },
-  {
-    title: 'Gatsby Starter',
-    description:
-      'A very simple starter scaffolded using the Gatsby framework.',
-      preview: require('./showcase/gatsby_starter.png'),
-    website: '',
-    source: 'https://github.com/floAr/gatsby-starter-azure_swa',
-    tags: ['gatsby','opensource', 'archived'],
-  },
-  {
-    title: 'Meme4Fun',
-    description:
-      'Create custom programming memes from a picture - and identify features in it using Azure Cognitive Services. Built using Angular with Material Design.',
-      preview: require('./showcase/meme4fun.gif'),
-    website: '',
-    source: 'https://github.com/sajeetharan/meme4fun',
-    tags: ['angular','opensource', 'archived'],
-  },
+
   {
     title: 'ngVikings Conference',
     description:
@@ -156,6 +126,7 @@ const Users: User[] = [
     source: 'https://github.com/ngvikings/ngvikings-2020',
     tags: ['hugo','opensource','pwa'],
   },
+
   {
     title: 'ngxtools',
     description:
@@ -165,6 +136,47 @@ const Users: User[] = [
     source: 'https://github.com/ngxtools/ngx.tools',
     tags: ['angular','opensource'],
   },
+
+  {
+    title: 'Nitroo Landing Page',
+    description:
+      'Nitro is a heavily opinionated template for building Serverless applications with NestJS, the fastest-growing NodeJS framework in the world by github stars.',
+      preview: require('./showcase/nitrooo.png'),
+    website: 'https://victorious-ocean-0337ef81e.azurestaticapps.net/',
+    source: 'https://github.com/nitro-stack/website',
+    tags: ['vanillajs','opensource'],
+  },
+
+  {
+    title: 'Nitro Workshop',
+    description:
+      'Online workshop built with Vuepress to learn how to build a backend using NestJS. This is a practical workshop where you\'ll learn "hands-on" by iteratively building an application from scratch using NestJS and Azure.',
+      preview: require('./showcase/nitro.png'),
+    website: 'https://nitro-stack.github.io/nitro-workshop/',
+    source: 'https://github.com/nitro-stack/nitro-workshop',
+    tags: ['vuepress','opensource'],
+  },
+
+  {
+    title: 'Peacock for Visual Studio Code Documentation',
+    description:
+      'Peacock is a Visual Studio Code extension with 700,000+ installations. It subtly changes the color of your Visual Studio Code workspace. This is ideal when you have multiple VS Code instances, use VS Live Share, or use VS Code\'s Remote features, and you want to quickly identify your editor.',
+      preview: require('./showcase/peacock-icon.png'),
+    website: 'https://www.peacockcode.dev/',
+    source: 'https://github.com/johnpapa/vscode-peacock',
+    tags: ['vuepress','opensource'],
+  },
+
+  {
+    title: 'Positive Thought For The Day',
+    description:
+      'A simple demo for Azure SWAG (Static Web Apps on GitHub) that you can use as a template for your own apps.',
+      preview: require('./showcase/positive-quote.png'),
+    website: 'https://aka.ms/swag-demo',
+    source: 'https://github.com/sinedied/azure-swag/',
+    tags: ['vanillajs','opensource','favorite'],
+  },
+
   {
     title: 'PWA Blog',
     description:
@@ -174,6 +186,7 @@ const Users: User[] = [
     source: 'https://github.com/webmaxru/webmax.ru',
     tags: ['scully','opensource','pwa'],
   },
+
   {
     title: 'Rock Paper Scissors',
     description:
@@ -183,6 +196,7 @@ const Users: User[] = [
     source: 'https://github.com/stuartleaver/rock-paper-scissors-static-web-app',
     tags: ['angular', 'opensource','archived'],
   },
+
   {
     title: 'Shop At Home',
     description:
@@ -192,24 +206,18 @@ const Users: User[] = [
     source: 'https://github.com/johnpapa/shopathome',
     tags: ['svelte','opensource'],
   },
+
+
   {
-    title: 'Positive Thought For The Day',
+    title: 'VS Code Can Do That?',
     description:
-      'A simple demo for Azure SWAG (Static Web Apps on GitHub) that you can use as a template for your own apps.',
-      preview: require('./showcase/positive-quote.png'),
-    website: 'https://aka.ms/swag-demo',
-    source: 'https://github.com/sinedied/azure-swag/',
-    tags: ['vanillajs','opensource','archived'],
+      'All the best things about VS Code that nobody ever bothered to show you.',
+      preview: require('./showcase/vscodecandothat.png'),
+    website: 'https://www.vscodecandothat.com/',
+    source: 'https://github.com/burkeholland/vscodecandothat/',
+    tags: ['vanillajs','opensource', 'favorite'],
   },
-  {
-    title: 'xLayers',
-    description:
-      'Generate Code from SketchApp - built with Angular and TypeScript',
-      preview: require('./showcase/xlayers-1.png'),
-    website: '',
-    source: 'https://github.com/xlayers/xlayers',
-    tags: ['angular', 'opensource', `archived`],
-  },
+
   /*
   Pro Tip: add your site in alphabetical order.
   Appending your site here (at the end) is more likely to produce Git conflicts.
