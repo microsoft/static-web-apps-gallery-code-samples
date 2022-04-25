@@ -265,7 +265,9 @@
        <section className="margin-top--lg margin-bottom--xl">
          <div className="container padding-vert--md text--center">
            <h2>
-             <Translate id="showcase.usersList.noResult">No result</Translate>
+             <Translate id="showcase.usersList.noResult">
+               Be the first to add an example project!
+               </Translate>
            </h2>
            <SearchBar />
          </div>
