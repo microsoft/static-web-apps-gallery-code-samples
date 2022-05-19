@@ -8,12 +8,12 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'Static Web Apps Gallery',
   tagline: 'A Community Projects & Code Samples Showcase',
-  url: 'https://nitya.github.io',
+  url: 'https://microsoft.github.io',
   baseUrl: '/static-web-apps-gallery-code-samples/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
-  organizationName: 'nitya', // Usually your GitHub org/user name.
+  organizationName: 'microsoft', // Usually your GitHub org/user name.
   projectName: 'static-web-apps-gallery-code-samples', // Usually your repo name.
   trailingSlash: false,
   deploymentBranch: `gh-pages`, // default = gh-pages
