@@ -8,7 +8,7 @@ Welcome to the Azure Static Web Apps Gallery - a showcase of awesome projects bu
 
 Want to have your project listed in the gallery?
  * Review the [**Contributing Guidelines**](CONTRIBUTING.md).
- * Fork [**the repository**](https://github.com/nitya/static-web-apps-gallery-code-samples/fork) and create a branch for your addition
+ * Fork [**the repository**](https://github.com/microsoft/static-web-apps-gallery-code-samples/fork) and create a branch for your addition
  * Follow this **[Pull Request Checklist](./.github/PULL_REQUEST_TEMPLATE/pull_request_template.md)**.
 
 ---
