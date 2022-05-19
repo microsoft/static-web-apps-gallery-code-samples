@@ -128,16 +128,6 @@ const Users: User[] = [
   },
 
   {
-    title: 'ngxtools',
-    description:
-      'An NPM registry clone made only for Angular packages - built with Angular, TypeScript and Algolia. Progressive Web App.',
-      preview: require('./showcase/ngxtools.png'),
-    website: 'https://www.ngx.tools/',
-    source: 'https://github.com/ngxtools/ngx.tools',
-    tags: ['angular','opensource'],
-  },
-
-  {
     title: 'Nitroo Landing Page',
     description:
       'Nitro is a heavily opinionated template for building Serverless applications with NestJS, the fastest-growing NodeJS framework in the world by github stars.',
