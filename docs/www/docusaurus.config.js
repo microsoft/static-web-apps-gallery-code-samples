@@ -7,7 +7,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'Static Web Apps Gallery',
-  tagline: 'A Community Projects Showcase',
+  tagline: 'A Community Projects & Code Samples Showcase',
   url: 'https://nitya.github.io',
   baseUrl: '/static-web-apps-gallery-code-samples/',
   onBrokenLinks: 'throw',
@@ -56,7 +56,8 @@ const config = {
         },
         items: [
           {to: '/showcase', label: 'Showcase', position: 'left'},
-          {to: '/contribute', label: 'Add Your Project', position: 'left'},
+          {to: '/contribute', label: 'Contributions', position: 'right'},
+          {to: 'https://github.com/orgs/staticwebdev/discussions/14', label: 'Discussions', position: 'right'}, 
           {
             href: 'https://github.com/microsoft/static-web-apps-gallery-code-samples',
             position: 'right',
@@ -124,7 +125,7 @@ const config = {
       announcementBar: {
         id: 'Add Your Project!',
         content:
-          'Learn Static Web Apps <a target="_blank" rel="noopener noreferrer" href="https://staticwebdev.github.io/30DaysOfSWA/"><b>#30DaysOfSWA</b></a> - Celebrate the <a href="https://aka.ms/swaanniversary"><b>#SWAnniversary</b></a> on May 19 ',
+          'Learn with <a target="_blank" rel="noopener noreferrer" href="https://aka.ms/30DaysOfSWA/"><b>#30DaysOfSWA</b></a> - then <a target="_blank" rel="noopener noreferrer" href="https://portal.azure.com/?feature.customportal=false&WT.mc_id=30daysofswa-61155-ninarasi#create/Microsoft.StaticApp"><b>Deploy To Azure</b>!</a> &nbsp;🚀',
         backgroundColor: '#50E6FF',
         textColor: '#552F99',
         isCloseable: false,

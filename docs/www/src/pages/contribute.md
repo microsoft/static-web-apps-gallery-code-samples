@@ -20,9 +20,7 @@ Bonus Features:
 
 ## Process
 
-**Visit this link** (update to: 
-UPDATE THIS LINK:
-https://github.com/microsoft/static-web-apps-gallery-code-samples/edit/master/docs/www/src/data/users.tsx) and fork the project.
+[**Visit this link**](https://github.com/microsoft/static-web-apps-gallery-code-samples/edit/master/docs/www/src/data/users.tsx) and fork the project.
 * Follow instructions in the `data/users.tsx` file
 * Don't forget to add relevant screenshots in `data/showcase`
 * Be respectful of others content when naming your files
