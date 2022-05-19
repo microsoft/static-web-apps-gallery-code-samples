@@ -55,21 +55,6 @@ Catsify is a simple and creative app that allows you to find a unique name for y
 
 ---
 
-### **[ngxtools: Angular Package Registry](https://www.ngx.tools/)**
-
-<p align="center">
-  <img src="docs/media/ngxtools.png" alt="NgxTools App" width="100%">
-</p>
-
-NgxTools is an NPM registry clone made only for Angular packages. You can access hundred thousand of packages built specifically for Angular and available on NPM. You can access their metadata information, and even open them directly on StackBlitz.
-
-- **[NgxTools project](https://www.ngx.tools/)**
-- **[NgxTools repo](https://github.com/ngxtools/ngx.tools)**
-
-> Stacks Used: `angular, typescript, azure static web apps, pwa, algolia`
-
----
-
 ## Docusaurus
 
 ### **[Docusaurus Starter](https://ambitious-pebble-02b2d3010.azurestaticapps.net/)**
