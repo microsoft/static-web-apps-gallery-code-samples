@@ -247,16 +247,16 @@ Peacock is a Visual Studio Code extension with 700,000+ installations. It subtly
 
 ---
 
-### [Cognitive Search Static Apps Demo](https://lively-sand-033e9ec03.azurestaticapps.net/)
+### [Cognitive Search Static Apps Demo](https://red-desert-02fa5b603.2.azurestaticapps.net/)
 
 <p align="center">
   <img src="docs/media/cognitive-search-demo.png" alt="Cognitive Search Static Apps Demo" width="100%">
 </p>
 
-A sample *faceted search* user experience implementation for your [Azure Cognitive Search](https://azure.microsoft.com/services/search/) index. Similar to the [official demo app](https://docs.microsoft.com/azure/search/search-create-app-portal), but a bit more modern. Fork the [repo](https://github.com/scale-tone/cognitive-search-static-web-apps-sample-ui), [deploy](https://docs.microsoft.com/azure/static-web-apps/getting-started?tabs=react#create-a-static-web-app) it to your Static Web Apps instance, connect it to your Cognitive Search index with a set of [config settings](https://github.com/scale-tone/cognitive-search-static-web-apps-sample-ui#config-settings), optionally [configure authN/authZ](https://docs.microsoft.com/azure/static-web-apps/authentication-authorization) - and you get a fully functioning search UI, with facet filters and geovisualization. The [live demo](https://lively-sand-033e9ec03.azurestaticapps.net/) is pointed to [the official Azure Cognitive Search Sample Data - Repository](https://github.com/Azure-Samples/azure-search-sample-data) index, and you can start with the same. Feel free to use as a template for your own implementations.
+A sample *faceted search* user experience implementation for your [Azure Cognitive Search](https://azure.microsoft.com/services/search/) index. Similar to the [official demo app](https://docs.microsoft.com/azure/search/search-create-app-portal), but a bit more modern. Fork the [repo](https://github.com/scale-tone/cognitive-search-static-web-apps-sample-ui), [deploy](https://docs.microsoft.com/azure/static-web-apps/getting-started?tabs=react#create-a-static-web-app) it to your Static Web Apps instance, connect it to your Cognitive Search index with a set of [config settings](https://github.com/scale-tone/cognitive-search-static-web-apps-sample-ui#config-settings), optionally [configure authN/authZ](https://docs.microsoft.com/azure/static-web-apps/authentication-authorization) - and you get a fully functioning search UI, with facet filters and geovisualization. The [live demo](https://red-desert-02fa5b603.2.azurestaticapps.net/) is pointed to [the official Azure Cognitive Search Sample Data - Repository](https://github.com/Azure-Samples/azure-search-sample-data) index, and you can start with the same. Feel free to use as a template for your own implementations.
 
-- **[Lively Sand demo](https://lively-sand-033e9ec03.azurestaticapps.net/)**
-- **[Lively Sand repo](https://github.com/scale-tone/cognitive-search-static-web-apps-sample-ui)**
+- **[Live Demo](https://red-desert-02fa5b603.2.azurestaticapps.net/)**
+- **[Repo](https://github.com/scale-tone/cognitive-search-static-web-apps-sample-ui)**
 - **[Author: @tino_scale_tone](https://twitter.com/@tino_scale_tone)**
 
 > Stacks Used: `react, nodejs, azure static web apps, azure functions`
